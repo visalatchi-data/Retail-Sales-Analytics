@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Category,Product,Region,State,Quantity,Discount,Sales,Profit,Year,Month_No,Month,Profit_Margin_%,Profit_Status
+ORD00532,2025-01-01,CUST0041,Customer 0041,Electronics,Smartphone,North,Uttar Pradesh,3,0.15,70319.87,10749.67,2025,1,Jan,0.1529,Profit
+ORD00052,2025-01-01,CUST0078,Customer 0078,Accessories,Keyboard,West,Gujarat,5,0.2,9017.83,304.38,2025,1,Jan,0.0338,Profit
+ORD00520,2025-01-02,CUST0199,Customer 0199,Stationery,Notebook,East,Jharkhand,3,0,557.08,130.48,2025,1,Jan,0.2342,Profit
+ORD00049,2025-01-02,CUST0134,Customer 0134,Electronics,Webcam,West,Gujarat,4,0,19292.76,2620.84,2025,1,Jan,0.1358,Profit
+ORD00100,2025-01-02,CUST0169,Customer 0169,Electronics,Tablet,East,Jharkhand,1,0.05,20961.66,3209.85,2025,1,Jan,0.1531,Profit
+ORD00462,2025-01-03,CUST0088,Customer 0088,Accessories,Mouse,North,Haryana,1,0,1276.20,282.70,2025,1,Jan,0.2215,Profit
+ORD00776,2025-01-03,CUST0040,Customer 0040,Accessories,Keyboard,North,Uttar Pradesh,1,0.1,1953.76,264.03,2025,1,Jan,0.1351,Profit
+ORD00917,2025-01-03,CUST0032,Customer 0032,Furniture,Bookshelf,North,Delhi,1,0.15,5932.08,754.14,2025,1,Jan,0.1271,Profit
+ORD00029,2025-01-03,CUST0100,Customer 0100,Accessories,Keyboard,East,Bihar,4,0.2,7222.33,204.62,2025,1,Jan,0.0283,Profit
+ORD00641,2025-01-04,CUST0160,Customer 0160,Accessories,Backpack,North,Delhi,4,0.15,6468.02,466.46,2025,1,Jan,0.0721,Profit
+ORD00535,2025-01-05,CUST0067,Customer 0067,Electronics,Headphones,East,West Bengal,5,0,17508.87,4412.35,2025,1,Jan,0.252,Profit
+ORD00180,2025-01-06,CUST0021,Customer 0021,Electronics,Laptop,North,Punjab,2,0.2,94198.38,-209.12,2025,1,Jan,-0.0022,Loss
+ORD01077,2025-01-06,CUST0143,Customer 0143,Furniture,Desk,North,Delhi,1,0.05,11536.95,1693.77,2025,1,Jan,0.1468,Profit
+ORD00907,2025-01-06,CUST0117,Customer 0117,Accessories,Mouse,West,Goa,5,0.2,4964.85,-418.96,2025,1,Jan,-0.0844,Loss
+ORD00642,2025-01-06,CUST0156,Customer 0156,Electronics,Webcam,East,Odisha,2,0.2,7383.71,269.99,2025,1,Jan,0.0366,Profit
+ORD01103,2025-01-07,CUST0158,Customer 0158,Furniture,Desk,North,Haryana,3,0,33149.69,4705.96,2025,1,Jan,0.142,Profit
+ORD00896,2025-01-07,CUST0063,Customer 0063,Electronics,Tablet,East,Bihar,3,0.2,50022.82,4176.71,2025,1,Jan,0.0835,Profit
+ORD00420,2025-01-09,CUST0058,Customer 0058,Accessories,Keyboard,North,Haryana,4,0.15,7900.78,726.88,2025,1,Jan,0.092,Profit
+ORD01112,2025-01-09,CUST0112,Customer 0112,Furniture,Desk,North,Haryana,4,0,50003.71,13523.53,2025,1,Jan,0.2705,Profit
+ORD00961,2025-01-09,CUST0133,Customer 0133,Electronics,Printer,West,Maharashtra,2,0.2,23543.95,238.67,2025,1,Jan,0.0101,Profit
+ORD00360,2025-01-10,CUST0086,Customer 0086,Electronics,Laptop,East,Bihar,1,0.05,52499.25,12288.50,2025,1,Jan,0.2341,Profit
+ORD00987,2025-01-10,CUST0128,Customer 0128,Accessories,Backpack,North,Haryana,2,0.15,3023.63,69.27,2025,1,Jan,0.0229,Profit
+ORD00956,2025-01-11,CUST0117,Customer 0117,Furniture,Office Chair,East,Jharkhand,5,0.2,33703.36,-429.06,2025,1,Jan,-0.0127,Loss
+ORD00079,2025-01-11,CUST0133,Customer 0133,Electronics,Monitor,South,Kerala,4,0.15,51450.24,7380.70,2025,1,Jan,0.1435,Profit
+ORD01003,2025-01-11,CUST0065,Customer 0065,Electronics,Smartphone,West,Gujarat,4,0.15,94611.39,17084.62,2025,1,Jan,0.1806,Profit
+ORD00899,2025-01-11,CUST0184,Customer 0184,Accessories,Backpack,South,Tamil Nadu,3,0.1,4783.52,348.27,2025,1,Jan,0.0728,Profit
+ORD00350,2025-01-12,CUST0042,Customer 0042,Furniture,Desk,North,Haryana,2,0.1,20310.67,1439.24,2025,1,Jan,0.0709,Profit
+ORD00604,2025-01-12,CUST0163,Customer 0163,Accessories,Backpack,East,West Bengal,3,0.2,4002.87,60.12,2025,1,Jan,0.015,Profit
+ORD00370,2025-01-13,CUST0016,Customer 0016,Electronics,Tablet,West,Maharashtra,2,0.15,36635.48,1893.86,2025,1,Jan,0.0517,Profit
+ORD01159,2025-01-13,CUST0146,Customer 0146,Electronics,Tablet,East,Odisha,2,0.15,38857.45,931.60,2025,1,Jan,0.024,Profit
+ORD01017,2025-01-14,CUST0060,Customer 0060,Electronics,Laptop,South,Karnataka,2,0.15,97348.40,5273.62,2025,1,Jan,0.0542,Profit
+ORD01141,2025-01-14,CUST0003,Customer 0003,Accessories,Backpack,South,Karnataka,1,0.05,1611.29,200.25,2025,1,Jan,0.1243,Profit
+ORD00724,2025-01-15,CUST0045,Customer 0045,Stationery,Notebook,South,Karnataka,1,0.15,155.72,0.53,2025,1,Jan,0.0034,Profit
+ORD01009,2025-01-15,CUST0087,Customer 0087,Electronics,Tablet,West,Goa,1,0.05,22434.04,5919.73,2025,1,Jan,0.2639,Profit
+ORD01195,2025-01-15,CUST0095,Customer 0095,Electronics,Tablet,North,Delhi,3,0.1,59419.82,3066.62,2025,1,Jan,0.0516,Profit
+ORD00533,2025-01-16,CUST0189,Customer 0189,Stationery,Pen Set,South,Tamil Nadu,5,0.1,1165.70,140.11,2025,1,Jan,0.1202,Profit
+ORD00721,2025-01-17,CUST0010,Customer 0010,Accessories,Mouse,South,Karnataka,1,0.15,957.69,9.67,2025,1,Jan,0.0101,Profit
+ORD00275,2025-01-17,CUST0002,Customer 0002,Furniture,Bookshelf,East,West Bengal,1,0.2,5799.08,93.16,2025,1,Jan,0.0161,Profit
+ORD00786,2025-01-18,CUST0123,Customer 0123,Accessories,Mouse,North,Haryana,2,0.15,2167.21,128.69,2025,1,Jan,0.0594,Profit
+ORD00459,2025-01-19,CUST0027,Customer 0027,Furniture,Office Chair,East,West Bengal,5,0.2,33120.98,4215.51,2025,1,Jan,0.1273,Profit
+ORD00889,2025-01-19,CUST0092,Customer 0092,Electronics,Webcam,North,Haryana,2,0.05,8998.63,863.00,2025,1,Jan,0.0959,Profit
+ORD00068,2025-01-20,CUST0192,Customer 0192,Furniture,Bookshelf,South,Karnataka,2,0,14629.96,2774.56,2025,1,Jan,0.1896,Profit
+ORD00411,2025-01-21,CUST0087,Customer 0087,Electronics,Tablet,North,Haryana,3,0.15,59315.52,2304.91,2025,1,Jan,0.0389,Profit
+ORD00096,2025-01-22,CUST0196,Customer 0196,Stationery,Notebook,North,Delhi,2,0.15,306.93,29.45,2025,1,Jan,0.096,Profit
+ORD00619,2025-01-23,CUST0011,Customer 0011,Electronics,Monitor,North,Haryana,4,0.15,52994.23,10369.76,2025,1,Jan,0.1957,Profit
+ORD00757,2025-01-24,CUST0076,Customer 0076,Furniture,Office Chair,West,Gujarat,3,0.15,22743.85,1098.74,2025,1,Jan,0.0483,Profit
+ORD00611,2025-01-25,CUST0198,Customer 0198,Accessories,Keyboard,West,Gujarat,5,0.15,9534.28,918.74,2025,1,Jan,0.0964,Profit
+ORD00652,2025-01-25,CUST0120,Customer 0120,Stationery,Notebook,South,Kerala,5,0.15,754.48,91.64,2025,1,Jan,0.1215,Profit
+ORD00484,2025-01-26,CUST0133,Customer 0133,Electronics,Tablet,North,Uttar Pradesh,4,0,85133.79,16149.40,2025,1,Jan,0.1897,Profit
+ORD00134,2025-01-27,CUST0034,Customer 0034,Electronics,Laptop,North,Punjab,5,0.1,228324.93,42348.31,2025,1,Jan,0.1855,Profit
+ORD00957,2025-01-27,CUST0117,Customer 0117,Furniture,Bookshelf,North,Punjab,1,0,6453.76,1144.51,2025,1,Jan,0.1773,Profit
+ORD00225,2025-01-28,CUST0153,Customer 0153,Furniture,Desk,North,Punjab,1,0.2,9569.97,181.27,2025,1,Jan,0.0189,Profit
+ORD00066,2025-01-28,CUST0022,Customer 0022,Stationery,Notebook,East,Odisha,4,0.05,634.78,129.75,2025,1,Jan,0.2044,Profit
+ORD00848,2025-01-30,CUST0075,Customer 0075,Accessories,Keyboard,West,Goa,4,0.05,8185.63,1147.25,2025,1,Jan,0.1402,Profit
+ORD00655,2025-01-30,CUST0045,Customer 0045,Electronics,Monitor,North,Haryana,4,0.15,53425.60,2568.80,2025,1,Jan,0.0481,Profit
+ORD00113,2025-01-30,CUST0012,Customer 0012,Accessories,Mouse,South,Karnataka,3,0.1,3204.07,609.35,2025,1,Jan,0.1902,Profit
+ORD00137,2025-02-01,CUST0016,Customer 0016,Furniture,Desk,East,Jharkhand,1,0.15,10546.64,1008.60,2025,2,Feb,0.0956,Profit
+ORD00069,2025-02-01,CUST0064,Customer 0064,Electronics,Monitor,South,Kerala,2,0.05,28379.44,7382.30,2025,2,Feb,0.2601,Profit
+ORD00148,2025-02-01,CUST0024,Customer 0024,Stationery,Pen Set,West,Gujarat,4,0.15,828.36,93.54,2025,2,Feb,0.1129,Profit
+ORD01161,2025-02-02,CUST0155,Customer 0155,Accessories,Backpack,West,Goa,2,0,3540.32,832.95,2025,2,Feb,0.2353,Profit
+ORD00890,2025-02-02,CUST0017,Customer 0017,Accessories,Mouse,East,West Bengal,5,0.05,5354.07,1269.09,2025,2,Feb,0.237,Profit
+ORD00698,2025-02-03,CUST0088,Customer 0088,Electronics,Smartphone,West,Goa,2,0.15,49525.03,5092.95,2025,2,Feb,0.1028,Profit
+ORD00576,2025-02-04,CUST0051,Customer 0051,Furniture,Desk,South,Kerala,4,0.15,41984.46,5313.66,2025,2,Feb,0.1266,Profit
+ORD00404,2025-02-05,CUST0129,Customer 0129,Electronics,Printer,West,Maharashtra,4,0.05,57022.41,14199.60,2025,2,Feb,0.249,Profit
+ORD01062,2025-02-05,CUST0154,Customer 0154,Accessories,Mouse,North,Delhi,3,0.2,2869.99,-164.09,2025,2,Feb,-0.0572,Loss
+ORD00827,2025-02-07,CUST0052,Customer 0052,Electronics,Headphones,North,Punjab,1,0.1,3295.99,602.23,2025,2,Feb,0.1827,Profit
+ORD00238,2025-02-07,CUST0102,Customer 0102,Accessories,Backpack,East,Odisha,3,0,4976.01,1027.09,2025,2,Feb,0.2064,Profit
+ORD00661,2025-02-08,CUST0200,Customer 0200,Electronics,Monitor,South,Andhra Pradesh,5,0,78588.30,10924.47,2025,2,Feb,0.139,Profit
+ORD00127,2025-02-08,CUST0078,Customer 0078,Furniture,Desk,South,Tamil Nadu,2,0.2,18080.76,661.56,2025,2,Feb,0.0366,Profit
+ORD01171,2025-02-08,CUST0075,Customer 0075,Electronics,Headphones,West,Goa,4,0,14862.86,4478.80,2025,2,Feb,0.3013,Profit
+ORD00434,2025-02-08,CUST0137,Customer 0137,Electronics,Monitor,North,Delhi,3,0.2,34217.72,-656.54,2025,2,Feb,-0.0192,Loss
+ORD00718,2025-02-10,CUST0099,Customer 0099,Stationery,Notebook,West,Gujarat,4,0,735.05,182.40,2025,2,Feb,0.2481,Profit
+ORD01020,2025-02-10,CUST0134,Customer 0134,Accessories,Backpack,East,Bihar,1,0.05,1804.92,387.10,2025,2,Feb,0.2145,Profit
+ORD00997,2025-02-10,CUST0189,Customer 0189,Electronics,Smartphone,North,Uttar Pradesh,3,0.1,74282.63,4565.42,2025,2,Feb,0.0615,Profit
+ORD00583,2025-02-10,CUST0125,Customer 0125,Stationery,Pen Set,East,Bihar,5,0.15,1009.76,157.61,2025,2,Feb,0.1561,Profit
+ORD00592,2025-02-11,CUST0188,Customer 0188,Electronics,Smartphone,North,Delhi,2,0.2,41912.15,-1311.56,2025,2,Feb,-0.0313,Loss
+ORD00728,2025-02-11,CUST0035,Customer 0035,Electronics,Smartphone,East,Odisha,1,0.15,22203.39,4402.94,2025,2,Feb,0.1983,Profit
+ORD01119,2025-02-11,CUST0001,Customer 0001,Electronics,Laptop,North,Punjab,3,0.15,135316.78,7752.16,2025,2,Feb,0.0573,Profit
+ORD00320,2025-02-12,CUST0195,Customer 0195,Stationery,Pen Set,East,Odisha,4,0,1037.76,196.41,2025,2,Feb,0.1893,Profit
+ORD00188,2025-02-12,CUST0081,Customer 0081,Electronics,Webcam,North,Uttar Pradesh,5,0.15,18370.14,418.01,2025,2,Feb,0.0228,Profit
+ORD01045,2025-02-12,CUST0025,Customer 0025,Electronics,Monitor,South,Andhra Pradesh,5,0.2,64674.21,-2609.02,2025,2,Feb,-0.0403,Loss
+ORD00163,2025-02-12,CUST0116,Customer 0116,Electronics,Webcam,West,Gujarat,5,0.15,19129.18,-484.86,2025,2,Feb,-0.0253,Loss
+ORD00493,2025-02-12,CUST0002,Customer 0002,Electronics,Printer,East,West Bengal,3,0.05,41485.13,3899.20,2025,2,Feb,0.094,Profit
+ORD00979,2025-02-12,CUST0120,Customer 0120,Furniture,Bookshelf,North,Uttar Pradesh,4,0.15,23542.98,2672.75,2025,2,Feb,0.1135,Profit
+ORD00735,2025-02-14,CUST0027,Customer 0027,Stationery,Pen Set,South,Kerala,2,0,498.80,148.03,2025,2,Feb,0.2968,Profit
+ORD01168,2025-02-15,CUST0145,Customer 0145,Accessories,Backpack,East,West Bengal,1,0.1,1514.56,266.36,2025,2,Feb,0.1759,Profit
+ORD00152,2025-02-16,CUST0057,Customer 0057,Furniture,Office Chair,South,Tamil Nadu,2,0.1,17354.28,1282.87,2025,2,Feb,0.0739,Profit
+ORD00331,2025-02-17,CUST0026,Customer 0026,Stationery,Notebook,East,West Bengal,1,0.05,169.39,48.12,2025,2,Feb,0.2841,Profit
+ORD00055,2025-02-17,CUST0063,Customer 0063,Furniture,Desk,South,Andhra Pradesh,4,0.2,36522.61,-879.78,2025,2,Feb,-0.0241,Loss
+ORD00508,2025-02-17,CUST0011,Customer 0011,Stationery,Notebook,North,Delhi,5,0.1,853.40,158.67,2025,2,Feb,0.1859,Profit
+ORD00871,2025-02-18,CUST0142,Customer 0142,Electronics,Smartphone,South,Tamil Nadu,5,0.15,117343.89,10639.46,2025,2,Feb,0.0907,Profit
+ORD00440,2025-02-19,CUST0170,Customer 0170,Electronics,Smartphone,South,Tamil Nadu,1,0.15,23587.95,4031.63,2025,2,Feb,0.1709,Profit
+ORD00119,2025-02-20,CUST0156,Customer 0156,Stationery,Pen Set,East,Bihar,2,0.2,419.32,39.94,2025,2,Feb,0.0952,Profit
+ORD00607,2025-02-20,CUST0141,Customer 0141,Furniture,Office Chair,North,Delhi,4,0.2,28498.14,-697.28,2025,2,Feb,-0.0245,Loss
+ORD00590,2025-02-20,CUST0094,Customer 0094,Electronics,Monitor,South,Tamil Nadu,2,0.15,27247.89,114.91,2025,2,Feb,0.0042,Profit
+ORD00634,2025-02-20,CUST0049,Customer 0049,Accessories,Keyboard,East,Jharkhand,3,0.1,5903.26,888.81,2025,2,Feb,0.1506,Profit
+ORD00669,2025-02-21,CUST0028,Customer 0028,Furniture,Office Chair,South,Tamil Nadu,4,0.15,29028.30,1734.04,2025,2,Feb,0.0597,Profit
+ORD01100,2025-02-22,CUST0109,Customer 0109,Furniture,Desk,East,Odisha,3,0,35066.64,6458.83,2025,2,Feb,0.1842,Profit
+ORD00578,2025-02-23,CUST0171,Customer 0171,Electronics,Monitor,South,Kerala,4,0.1,49810.18,3382.77,2025,2,Feb,0.0679,Profit
+ORD00166,2025-02-23,CUST0162,Customer 0162,Stationery,Notebook,North,Delhi,3,0,545.01,132.27,2025,2,Feb,0.2427,Profit
+ORD01070,2025-02-23,CUST0031,Customer 0031,Furniture,Bookshelf,North,Uttar Pradesh,2,0.15,11414.48,1963.82,2025,2,Feb,0.172,Profit
+ORD00284,2025-02-24,CUST0026,Customer 0026,Furniture,Office Chair,West,Maharashtra,3,0.2,22529.68,-1998.72,2025,2,Feb,-0.0887,Loss
+ORD00973,2025-02-24,CUST0162,Customer 0162,Accessories,Backpack,North,Punjab,5,0.2,7644.48,746.79,2025,2,Feb,0.0977,Profit
+ORD00395,2025-02-24,CUST0026,Customer 0026,Accessories,Mouse,West,Maharashtra,4,0.2,3976.42,-129.21,2025,2,Feb,-0.0325,Loss
+ORD00683,2025-02-24,CUST0001,Customer 0001,Stationery,Pen Set,North,Delhi,3,0,718.23,128.96,2025,2,Feb,0.1796,Profit
+ORD00316,2025-02-24,CUST0092,Customer 0092,Electronics,Laptop,East,Odisha,2,0.15,100438.88,8142.92,2025,2,Feb,0.0811,Profit
+ORD01067,2025-02-25,CUST0182,Customer 0182,Accessories,Keyboard,East,Odisha,5,0.05,10352.83,1890.88,2025,2,Feb,0.1826,Profit
+ORD00635,2025-02-25,CUST0177,Customer 0177,Furniture,Bookshelf,West,Gujarat,4,0,28997.46,8622.85,2025,2,Feb,0.2974,Profit
+ORD00738,2025-02-25,CUST0112,Customer 0112,Electronics,Headphones,West,Goa,4,0.05,13060.24,3336.81,2025,2,Feb,0.2555,Profit
+ORD00560,2025-02-25,CUST0007,Customer 0007,Accessories,Backpack,East,West Bengal,1,0.1,1650.61,372.56,2025,2,Feb,0.2257,Profit
+ORD00962,2025-02-25,CUST0109,Customer 0109,Accessories,Mouse,West,Maharashtra,2,0,2339.16,436.09,2025,2,Feb,0.1864,Profit
+ORD00750,2025-02-26,CUST0132,Customer 0132,Electronics,Webcam,North,Delhi,1,0.15,3742.74,203.31,2025,2,Feb,0.0543,Profit
+ORD00249,2025-02-26,CUST0117,Customer 0117,Electronics,Headphones,East,Jharkhand,5,0,17664.63,3275.84,2025,2,Feb,0.1854,Profit
+ORD00258,2025-02-27,CUST0036,Customer 0036,Furniture,Bookshelf,North,Punjab,5,0.1,31890.47,2320.64,2025,2,Feb,0.0728,Profit
+ORD00010,2025-02-27,CUST0059,Customer 0059,Electronics,Tablet,South,Karnataka,4,0.1,73702.74,3060.53,2025,2,Feb,0.0415,Profit
+ORD00955,2025-02-27,CUST0144,Customer 0144,Electronics,Laptop,North,Uttar Pradesh,4,0,224129.03,53293.04,2025,2,Feb,0.2378,Profit
+ORD00162,2025-02-28,CUST0095,Customer 0095,Electronics,Tablet,North,Delhi,1,0.2,17864.93,962.55,2025,2,Feb,0.0539,Profit
+ORD00194,2025-02-28,CUST0020,Customer 0020,Stationery,Notebook,East,Bihar,5,0.05,916.94,233.04,2025,2,Feb,0.2541,Profit
+ORD00432,2025-03-01,CUST0002,Customer 0002,Furniture,Desk,North,Punjab,2,0.2,20012.49,552.46,2025,3,Mar,0.0276,Profit
+ORD00649,2025-03-01,CUST0028,Customer 0028,Electronics,Printer,South,Andhra Pradesh,5,0.1,62264.70,3489.62,2025,3,Mar,0.056,Profit
+ORD00451,2025-03-02,CUST0041,Customer 0041,Electronics,Smartphone,East,Jharkhand,5,0.15,112931.20,12495.48,2025,3,Mar,0.1106,Profit
+ORD00906,2025-03-03,CUST0096,Customer 0096,Accessories,Keyboard,North,Delhi,1,0,2181.96,448.42,2025,3,Mar,0.2055,Profit
+ORD00581,2025-03-03,CUST0016,Customer 0016,Accessories,Mouse,West,Goa,5,0,5640.79,1542.56,2025,3,Mar,0.2735,Profit
+ORD01018,2025-03-03,CUST0036,Customer 0036,Accessories,Mouse,East,Bihar,2,0.05,2234.67,333.06,2025,3,Mar,0.149,Profit
+ORD00228,2025-03-05,CUST0181,Customer 0181,Electronics,Headphones,West,Goa,3,0.15,8961.38,1130.71,2025,3,Mar,0.1262,Profit
+ORD00363,2025-03-05,CUST0112,Customer 0112,Stationery,Notebook,West,Maharashtra,3,0.1,513.29,19.85,2025,3,Mar,0.0387,Profit
+ORD00710,2025-03-05,CUST0098,Customer 0098,Furniture,Office Chair,North,Delhi,3,0.1,23047.79,5278.46,2025,3,Mar,0.229,Profit
+ORD01059,2025-03-05,CUST0152,Customer 0152,Furniture,Bookshelf,West,Gujarat,4,0.1,26293.80,1767.42,2025,3,Mar,0.0672,Profit
+ORD01186,2025-03-05,CUST0093,Customer 0093,Accessories,Backpack,East,Jharkhand,2,0,3433.82,1083.07,2025,3,Mar,0.3154,Profit
+ORD00247,2025-03-05,CUST0141,Customer 0141,Electronics,Webcam,West,Goa,5,0.05,20227.72,2110.13,2025,3,Mar,0.1043,Profit
+ORD00329,2025-03-06,CUST0137,Customer 0137,Furniture,Office Chair,West,Gujarat,2,0.15,14733.38,75.08,2025,3,Mar,0.0051,Profit
+ORD00453,2025-03-06,CUST0067,Customer 0067,Stationery,Notebook,North,Delhi,5,0.2,745.78,70.11,2025,3,Mar,0.094,Profit
+ORD01076,2025-03-07,CUST0133,Customer 0133,Electronics,Tablet,South,Kerala,1,0.05,22110.54,3047.92,2025,3,Mar,0.1378,Profit
+ORD00529,2025-03-07,CUST0068,Customer 0068,Electronics,Monitor,North,Delhi,5,0,77693.94,10400.35,2025,3,Mar,0.1339,Profit
+ORD00014,2025-03-07,CUST0099,Customer 0099,Furniture,Office Chair,East,Bihar,5,0,46298.04,13754.67,2025,3,Mar,0.2971,Profit
+ORD00725,2025-03-07,CUST0028,Customer 0028,Electronics,Smartphone,East,Odisha,1,0.05,26285.96,2979.88,2025,3,Mar,0.1134,Profit
+ORD00971,2025-03-08,CUST0031,Customer 0031,Electronics,Headphones,West,Maharashtra,2,0.2,5490.86,309.88,2025,3,Mar,0.0564,Profit
+ORD00954,2025-03-08,CUST0033,Customer 0033,Electronics,Laptop,East,West Bengal,3,0.2,134665.03,17984.84,2025,3,Mar,0.1336,Profit
+ORD00814,2025-03-09,CUST0079,Customer 0079,Electronics,Smartphone,North,Punjab,1,0.2,21776.80,757.23,2025,3,Mar,0.0348,Profit
+ORD00755,2025-03-09,CUST0049,Customer 0049,Electronics,Webcam,East,West Bengal,1,0.15,4068.54,537.65,2025,3,Mar,0.1321,Profit
+ORD00348,2025-03-09,CUST0080,Customer 0080,Stationery,Pen Set,East,Odisha,1,0.05,221.78,42.75,2025,3,Mar,0.1928,Profit
+ORD01000,2025-03-10,CUST0179,Customer 0179,Stationery,Pen Set,West,Gujarat,4,0.2,751.52,43.45,2025,3,Mar,0.0578,Profit
+ORD00390,2025-03-11,CUST0090,Customer 0090,Accessories,Keyboard,South,Tamil Nadu,1,0.15,1851.52,187.49,2025,3,Mar,0.1013,Profit
+ORD00805,2025-03-11,CUST0128,Customer 0128,Stationery,Notebook,South,Kerala,4,0.2,592.52,66.26,2025,3,Mar,0.1118,Profit
+ORD01016,2025-03-11,CUST0086,Customer 0086,Electronics,Laptop,East,Jharkhand,5,0.05,261392.96,35514.82,2025,3,Mar,0.1359,Profit
+ORD00357,2025-03-12,CUST0120,Customer 0120,Electronics,Tablet,North,Haryana,3,0,66560.65,21193.32,2025,3,Mar,0.3184,Profit
+ORD00338,2025-03-12,CUST0136,Customer 0136,Electronics,Printer,South,Kerala,4,0.1,52193.69,5473.61,2025,3,Mar,0.1049,Profit
+ORD00046,2025-03-13,CUST0198,Customer 0198,Accessories,Keyboard,North,Uttar Pradesh,5,0.1,10595.75,2318.49,2025,3,Mar,0.2188,Profit
+ORD00936,2025-03-13,CUST0077,Customer 0077,Electronics,Smartphone,East,West Bengal,2,0.2,48375.55,-3365.48,2025,3,Mar,-0.0696,Loss
+ORD00343,2025-03-14,CUST0136,Customer 0136,Electronics,Webcam,South,Karnataka,3,0.05,12592.79,1354.79,2025,3,Mar,0.1076,Profit
+ORD00864,2025-03-14,CUST0141,Customer 0141,Electronics,Printer,East,West Bengal,4,0.1,47803.48,1433.58,2025,3,Mar,0.03,Profit
+ORD00488,2025-03-14,CUST0148,Customer 0148,Electronics,Tablet,West,Gujarat,4,0.15,74215.07,7780.39,2025,3,Mar,0.1048,Profit
+ORD00265,2025-03-16,CUST0049,Customer 0049,Accessories,Backpack,West,Gujarat,2,0.1,3137.97,133.19,2025,3,Mar,0.0424,Profit
+ORD01182,2025-03-16,CUST0058,Customer 0058,Furniture,Office Chair,East,West Bengal,3,0.15,22834.29,1691.80,2025,3,Mar,0.0741,Profit
+ORD00490,2025-03-16,CUST0092,Customer 0092,Electronics,Webcam,South,Karnataka,3,0.2,10085.48,-416.72,2025,3,Mar,-0.0413,Loss
+ORD00035,2025-03-17,CUST0138,Customer 0138,Electronics,Monitor,North,Punjab,3,0,47730.75,11746.28,2025,3,Mar,0.2461,Profit
+ORD01158,2025-03-17,CUST0123,Customer 0123,Electronics,Tablet,West,Maharashtra,2,0.1,37327.13,7091.77,2025,3,Mar,0.19,Profit
+ORD00393,2025-03-17,CUST0088,Customer 0088,Electronics,Headphones,East,Odisha,1,0.2,2997.94,-283.34,2025,3,Mar,-0.0945,Loss
+ORD00477,2025-03-18,CUST0048,Customer 0048,Electronics,Headphones,South,Andhra Pradesh,1,0.15,2869.86,395.54,2025,3,Mar,0.1378,Profit
+ORD01083,2025-03-18,CUST0141,Customer 0141,Accessories,Keyboard,North,Uttar Pradesh,2,0.15,3713.71,-82.79,2025,3,Mar,-0.0223,Loss
+ORD00273,2025-03-18,CUST0172,Customer 0172,Electronics,Laptop,South,Andhra Pradesh,2,0.05,97276.42,24554.01,2025,3,Mar,0.2524,Profit
+ORD01127,2025-03-18,CUST0043,Customer 0043,Furniture,Desk,East,Jharkhand,4,0.2,36996.06,3846.98,2025,3,Mar,0.104,Profit
+ORD00502,2025-03-19,CUST0005,Customer 0005,Electronics,Tablet,South,Andhra Pradesh,5,0.05,111293.40,18706.81,2025,3,Mar,0.1681,Profit
+ORD01149,2025-03-20,CUST0001,Customer 0001,Electronics,Tablet,West,Goa,2,0.1,37368.34,5425.09,2025,3,Mar,0.1452,Profit
+ORD00781,2025-03-20,CUST0132,Customer 0132,Electronics,Monitor,West,Maharashtra,5,0.05,71748.32,7213.45,2025,3,Mar,0.1005,Profit
+ORD01095,2025-03-20,CUST0187,Customer 0187,Electronics,Monitor,South,Kerala,5,0,70015.02,18402.03,2025,3,Mar,0.2628,Profit
+ORD00352,2025-03-20,CUST0128,Customer 0128,Furniture,Desk,North,Delhi,4,0.2,36353.32,4023.31,2025,3,Mar,0.1107,Profit
+ORD00756,2025-03-20,CUST0028,Customer 0028,Electronics,Headphones,North,Delhi,2,0.15,5617.27,853.48,2025,3,Mar,0.1519,Profit
+ORD00155,2025-03-21,CUST0081,Customer 0081,Electronics,Printer,East,Jharkhand,4,0.1,47296.76,11342.22,2025,3,Mar,0.2398,Profit
+ORD00692,2025-03-21,CUST0176,Customer 0176,Stationery,Notebook,North,Delhi,3,0.2,451.25,14.79,2025,3,Mar,0.0328,Profit
+ORD00789,2025-03-21,CUST0005,Customer 0005,Accessories,Backpack,East,Jharkhand,1,0.05,1602.70,187.92,2025,3,Mar,0.1173,Profit
+ORD01191,2025-03-21,CUST0186,Customer 0186,Stationery,Notebook,West,Gujarat,3,0,509.80,116.37,2025,3,Mar,0.2283,Profit
+ORD00555,2025-03-22,CUST0098,Customer 0098,Electronics,Printer,North,Uttar Pradesh,2,0.05,27198.31,2413.11,2025,3,Mar,0.0887,Profit
+ORD00870,2025-03-23,CUST0123,Customer 0123,Accessories,Keyboard,West,Maharashtra,3,0.05,6293.17,1397.11,2025,3,Mar,0.222,Profit
+ORD00559,2025-03-23,CUST0054,Customer 0054,Electronics,Headphones,East,West Bengal,1,0,3744.60,843.89,2025,3,Mar,0.2254,Profit
+ORD00111,2025-03-24,CUST0085,Customer 0085,Electronics,Tablet,East,Bihar,4,0.2,65172.37,8661.07,2025,3,Mar,0.1329,Profit
+ORD00095,2025-03-24,CUST0154,Customer 0154,Electronics,Laptop,East,Bihar,5,0.1,228724.25,44274.69,2025,3,Mar,0.1936,Profit
+ORD00138,2025-03-24,CUST0083,Customer 0083,Electronics,Printer,West,Maharashtra,2,0.1,25701.25,2939.28,2025,3,Mar,0.1144,Profit
+ORD00910,2025-03-25,CUST0024,Customer 0024,Electronics,Laptop,East,Odisha,4,0.05,207199.73,42779.37,2025,3,Mar,0.2065,Profit
+ORD00974,2025-03-25,CUST0121,Customer 0121,Accessories,Backpack,South,Kerala,5,0.15,7957.60,383.70,2025,3,Mar,0.0482,Profit
+ORD01051,2025-03-25,CUST0090,Customer 0090,Furniture,Office Chair,East,West Bengal,4,0.1,32955.59,2841.93,2025,3,Mar,0.0862,Profit
+ORD00501,2025-03-25,CUST0072,Customer 0072,Electronics,Tablet,West,Goa,2,0.1,41079.74,4321.42,2025,3,Mar,0.1052,Profit
+ORD00150,2025-03-25,CUST0070,Customer 0070,Furniture,Desk,East,Jharkhand,5,0.15,50299.74,7508.64,2025,3,Mar,0.1493,Profit
+ORD00287,2025-03-26,CUST0069,Customer 0069,Electronics,Headphones,East,Odisha,4,0.1,12319.17,2760.81,2025,3,Mar,0.2241,Profit
+ORD00522,2025-03-27,CUST0073,Customer 0073,Electronics,Printer,East,Bihar,2,0,28936.99,4691.14,2025,3,Mar,0.1621,Profit
+ORD00371,2025-03-28,CUST0150,Customer 0150,Electronics,Printer,North,Delhi,1,0,13322.96,2542.06,2025,3,Mar,0.1908,Profit
+ORD00719,2025-03-28,CUST0162,Customer 0162,Furniture,Desk,West,Maharashtra,1,0.05,10534.27,784.23,2025,3,Mar,0.0744,Profit
+ORD00019,2025-03-29,CUST0188,Customer 0188,Furniture,Desk,South,Kerala,2,0.15,21858.51,3522.42,2025,3,Mar,0.1611,Profit
+ORD00769,2025-03-31,CUST0132,Customer 0132,Furniture,Office Chair,West,Gujarat,3,0.2,21963.15,-1885.55,2025,3,Mar,-0.0859,Loss
+ORD01176,2025-03-31,CUST0128,Customer 0128,Electronics,Smartphone,East,Bihar,2,0.1,47670.11,8685.31,2025,3,Mar,0.1822,Profit
+ORD00622,2025-03-31,CUST0187,Customer 0187,Furniture,Office Chair,West,Gujarat,2,0.2,13599.93,-1259.82,2025,3,Mar,-0.0926,Loss
+ORD01078,2025-03-31,CUST0144,Customer 0144,Accessories,Keyboard,South,Tamil Nadu,1,0.2,1703.28,-155.97,2025,3,Mar,-0.0916,Loss
+ORD00200,2025-03-31,CUST0175,Customer 0175,Electronics,Tablet,North,Haryana,1,0.2,17718.75,-1290.51,2025,3,Mar,-0.0728,Loss
+ORD00002,2025-03-31,CUST0152,Customer 0152,Furniture,Office Chair,South,Tamil Nadu,1,0.05,8184.28,1288.78,2025,3,Mar,0.1575,Profit
+ORD00731,2025-04-01,CUST0161,Customer 0161,Electronics,Tablet,North,Haryana,4,0,88812.56,25011.34,2025,4,Apr,0.2816,Profit
+ORD00433,2025-04-01,CUST0034,Customer 0034,Electronics,Printer,East,Jharkhand,4,0.15,51143.94,5616.01,2025,4,Apr,0.1098,Profit
+ORD01054,2025-04-02,CUST0028,Customer 0028,Furniture,Office Chair,South,Kerala,3,0.15,23927.89,3544.84,2025,4,Apr,0.1481,Profit
+ORD00237,2025-04-02,CUST0167,Customer 0167,Electronics,Printer,West,Goa,1,0.05,13125.26,1415.86,2025,4,Apr,0.1079,Profit
+ORD00845,2025-04-02,CUST0095,Customer 0095,Electronics,Headphones,South,Tamil Nadu,5,0.15,15525.60,-285.98,2025,4,Apr,-0.0184,Loss
+ORD00729,2025-04-02,CUST0181,Customer 0181,Stationery,Notebook,North,Uttar Pradesh,4,0.05,651.84,97.45,2025,4,Apr,0.1495,Profit
+ORD00717,2025-04-03,CUST0094,Customer 0094,Furniture,Bookshelf,North,Delhi,4,0.1,25795.90,5293.21,2025,4,Apr,0.2052,Profit
+ORD00868,2025-04-03,CUST0194,Customer 0194,Furniture,Office Chair,North,Punjab,4,0.15,28607.07,2266.07,2025,4,Apr,0.0792,Profit
+ORD01163,2025-04-05,CUST0134,Customer 0134,Furniture,Office Chair,West,Goa,2,0.15,15591.42,2315.21,2025,4,Apr,0.1485,Profit
+ORD00005,2025-04-05,CUST0098,Customer 0098,Electronics,Smartphone,North,Haryana,5,0.1,132191.71,10876.98,2025,4,Apr,0.0823,Profit
+ORD00103,2025-04-06,CUST0058,Customer 0058,Electronics,Tablet,South,Andhra Pradesh,1,0.05,20894.57,2786.22,2025,4,Apr,0.1333,Profit
+ORD00333,2025-04-06,CUST0168,Customer 0168,Accessories,Mouse,North,Delhi,3,0.05,3174.74,484.16,2025,4,Apr,0.1525,Profit
+ORD00208,2025-04-06,CUST0129,Customer 0129,Stationery,Notebook,West,Goa,5,0.05,810.02,123.72,2025,4,Apr,0.1527,Profit
+ORD00602,2025-04-08,CUST0153,Customer 0153,Stationery,Notebook,North,Delhi,5,0.15,713.41,133.30,2025,4,Apr,0.1868,Profit
+ORD01089,2025-04-08,CUST0136,Customer 0136,Accessories,Mouse,North,Haryana,5,0,6380.71,1823.93,2025,4,Apr,0.2859,Profit
+ORD00325,2025-04-08,CUST0035,Customer 0035,Accessories,Backpack,East,West Bengal,3,0.05,5295.33,1357.06,2025,4,Apr,0.2563,Profit
+ORD00999,2025-04-08,CUST0101,Customer 0101,Stationery,Pen Set,South,Kerala,2,0.1,477.54,59.66,2025,4,Apr,0.1249,Profit
+ORD00806,2025-04-09,CUST0195,Customer 0195,Electronics,Smartphone,East,Jharkhand,2,0.1,51707.12,7006.31,2025,4,Apr,0.1355,Profit
+ORD00791,2025-04-09,CUST0032,Customer 0032,Electronics,Webcam,West,Goa,2,0.05,8783.38,2442.22,2025,4,Apr,0.2781,Profit
+ORD00951,2025-04-10,CUST0008,Customer 0008,Furniture,Desk,East,West Bengal,5,0.1,56941.99,10791.73,2025,4,Apr,0.1895,Profit
+ORD01170,2025-04-10,CUST0085,Customer 0085,Furniture,Office Chair,South,Kerala,1,0.2,7541.07,231.97,2025,4,Apr,0.0308,Profit
+ORD00496,2025-04-11,CUST0051,Customer 0051,Stationery,Pen Set,East,Bihar,3,0.05,732.03,171.91,2025,4,Apr,0.2348,Profit
+ORD00745,2025-04-11,CUST0116,Customer 0116,Furniture,Desk,West,Maharashtra,5,0,61854.33,14763.16,2025,4,Apr,0.2387,Profit
+ORD01123,2025-04-12,CUST0020,Customer 0020,Furniture,Bookshelf,North,Haryana,4,0.05,26742.82,6735.40,2025,4,Apr,0.2519,Profit
+ORD00090,2025-04-12,CUST0196,Customer 0196,Electronics,Monitor,West,Gujarat,1,0.05,13656.89,2294.38,2025,4,Apr,0.168,Profit
+ORD00130,2025-04-12,CUST0176,Customer 0176,Accessories,Mouse,North,Delhi,4,0.1,4105.60,892.14,2025,4,Apr,0.2173,Profit
+ORD00235,2025-04-13,CUST0106,Customer 0106,Accessories,Mouse,East,West Bengal,2,0,2578.38,320.80,2025,4,Apr,0.1244,Profit
+ORD01200,2025-04-13,CUST0163,Customer 0163,Furniture,Desk,South,Karnataka,4,0.05,43578.13,8214.43,2025,4,Apr,0.1885,Profit
+ORD00408,2025-04-13,CUST0028,Customer 0028,Electronics,Printer,South,Karnataka,5,0.1,66809.17,12409.63,2025,4,Apr,0.1857,Profit
+ORD01005,2025-04-13,CUST0046,Customer 0046,Accessories,Keyboard,South,Andhra Pradesh,2,0,4520.66,1436.48,2025,4,Apr,0.3178,Profit
+ORD01139,2025-04-13,CUST0186,Customer 0186,Furniture,Bookshelf,West,Goa,1,0.2,5241.36,283.05,2025,4,Apr,0.054,Profit
+ORD01048,2025-04-13,CUST0001,Customer 0001,Furniture,Desk,East,Odisha,1,0.2,9020.77,156.45,2025,4,Apr,0.0173,Profit
+ORD00969,2025-04-14,CUST0006,Customer 0006,Electronics,Tablet,West,Gujarat,1,0.1,21181.61,3741.74,2025,4,Apr,0.1767,Profit
+ORD00171,2025-04-14,CUST0130,Customer 0130,Accessories,Backpack,South,Karnataka,5,0.05,8683.03,2185.83,2025,4,Apr,0.2517,Profit
+ORD00546,2025-04-14,CUST0084,Customer 0084,Accessories,Mouse,North,Punjab,5,0.1,5172.89,722.66,2025,4,Apr,0.1397,Profit
+ORD00801,2025-04-15,CUST0190,Customer 0190,Electronics,Webcam,West,Maharashtra,3,0.05,12493.87,1985.97,2025,4,Apr,0.159,Profit
+ORD00337,2025-04-16,CUST0081,Customer 0081,Accessories,Mouse,North,Punjab,4,0.05,4663.29,660.58,2025,4,Apr,0.1417,Profit
+ORD00176,2025-04-16,CUST0183,Customer 0183,Electronics,Tablet,South,Karnataka,1,0.05,20140.21,1885.52,2025,4,Apr,0.0936,Profit
+ORD00353,2025-04-16,CUST0147,Customer 0147,Stationery,Notebook,South,Kerala,5,0,834.34,122.99,2025,4,Apr,0.1474,Profit
+ORD01199,2025-04-17,CUST0023,Customer 0023,Stationery,Notebook,South,Andhra Pradesh,1,0.15,159.12,8.47,2025,4,Apr,0.0532,Profit
+ORD00800,2025-04-18,CUST0102,Customer 0102,Furniture,Desk,South,Tamil Nadu,2,0.15,20075.64,1225.53,2025,4,Apr,0.061,Profit
+ORD00098,2025-04-18,CUST0042,Customer 0042,Accessories,Mouse,East,Jharkhand,3,0.15,3213.52,226.76,2025,4,Apr,0.0706,Profit
+ORD01001,2025-04-18,CUST0130,Customer 0130,Accessories,Backpack,North,Uttar Pradesh,4,0.05,6569.43,1167.20,2025,4,Apr,0.1777,Profit
+ORD00893,2025-04-19,CUST0157,Customer 0157,Electronics,Printer,South,Tamil Nadu,5,0,66270.92,19641.92,2025,4,Apr,0.2964,Profit
+ORD01134,2025-04-19,CUST0185,Customer 0185,Stationery,Pen Set,East,Bihar,5,0.2,952.99,37.60,2025,4,Apr,0.0395,Profit
+ORD01122,2025-04-19,CUST0034,Customer 0034,Stationery,Notebook,South,Tamil Nadu,5,0.05,812.99,154.76,2025,4,Apr,0.1904,Profit
+ORD00239,2025-04-20,CUST0086,Customer 0086,Accessories,Keyboard,East,Jharkhand,2,0.2,3501.99,356.49,2025,4,Apr,0.1018,Profit
+ORD00675,2025-04-20,CUST0084,Customer 0084,Furniture,Bookshelf,South,Karnataka,5,0.15,29277.89,3007.41,2025,4,Apr,0.1027,Profit
+ORD00218,2025-04-21,CUST0111,Customer 0111,Electronics,Headphones,North,Haryana,4,0.1,11683.21,2723.08,2025,4,Apr,0.2331,Profit
+ORD00136,2025-04-22,CUST0116,Customer 0116,Furniture,Bookshelf,West,Goa,1,0.2,5422.26,-58.75,2025,4,Apr,-0.0108,Loss
+ORD00026,2025-04-22,CUST0064,Customer 0064,Electronics,Monitor,West,Goa,4,0.05,56287.56,12696.75,2025,4,Apr,0.2256,Profit
+ORD00301,2025-04-22,CUST0197,Customer 0197,Electronics,Monitor,North,Punjab,5,0,75758.64,14469.42,2025,4,Apr,0.191,Profit
+ORD01118,2025-04-23,CUST0069,Customer 0069,Accessories,Mouse,North,Haryana,4,0.05,4428.56,1214.31,2025,4,Apr,0.2742,Profit
+ORD01140,2025-04-23,CUST0004,Customer 0004,Accessories,Backpack,South,Kerala,2,0,3466.17,458.51,2025,4,Apr,0.1323,Profit
+ORD01041,2025-04-23,CUST0116,Customer 0116,Electronics,Printer,West,Maharashtra,2,0,29119.62,4605.68,2025,4,Apr,0.1582,Profit
+ORD01108,2025-04-24,CUST0049,Customer 0049,Accessories,Keyboard,South,Kerala,4,0.15,7771.93,-93.26,2025,4,Apr,-0.012,Loss
+ORD00588,2025-04-24,CUST0025,Customer 0025,Furniture,Bookshelf,South,Tamil Nadu,2,0.05,14094.79,3406.25,2025,4,Apr,0.2417,Profit
+ORD00001,2025-04-25,CUST0007,Customer 0007,Stationery,Pen Set,North,Punjab,2,0.05,492.97,69.88,2025,4,Apr,0.1418,Profit
+ORD00018,2025-04-25,CUST0093,Customer 0093,Electronics,Webcam,North,Punjab,1,0.05,4533.56,384.69,2025,4,Apr,0.0849,Profit
+ORD00240,2025-04-26,CUST0085,Customer 0085,Electronics,Headphones,East,Bihar,2,0,7265.01,1175.81,2025,4,Apr,0.1618,Profit
+ORD00256,2025-04-26,CUST0009,Customer 0009,Accessories,Backpack,East,West Bengal,2,0.05,3183.22,506.67,2025,4,Apr,0.1592,Profit
+ORD00610,2025-04-26,CUST0172,Customer 0172,Furniture,Office Chair,East,Bihar,3,0.05,24914.31,3965.95,2025,4,Apr,0.1592,Profit
+ORD00311,2025-04-27,CUST0068,Customer 0068,Stationery,Notebook,East,Bihar,5,0.15,778.62,48.18,2025,4,Apr,0.0619,Profit
+ORD00443,2025-04-27,CUST0028,Customer 0028,Furniture,Desk,West,Goa,2,0.1,22745.66,641.33,2025,4,Apr,0.0282,Profit
+ORD00087,2025-04-27,CUST0017,Customer 0017,Furniture,Office Chair,East,West Bengal,5,0,42492.43,6704.09,2025,4,Apr,0.1578,Profit
+ORD00307,2025-04-28,CUST0006,Customer 0006,Electronics,Tablet,North,Delhi,2,0.05,41906.97,7041.16,2025,4,Apr,0.168,Profit
+ORD00495,2025-04-28,CUST0047,Customer 0047,Stationery,Notebook,South,Andhra Pradesh,5,0,869.85,266.63,2025,4,Apr,0.3065,Profit
+ORD00071,2025-04-28,CUST0200,Customer 0200,Electronics,Tablet,West,Gujarat,1,0.2,16264.31,1171.20,2025,4,Apr,0.072,Profit
+ORD00140,2025-04-28,CUST0168,Customer 0168,Stationery,Notebook,West,Gujarat,4,0.05,674.57,74.22,2025,4,Apr,0.11,Profit
+ORD00664,2025-04-29,CUST0002,Customer 0002,Accessories,Keyboard,South,Tamil Nadu,3,0.15,5959.33,1047.29,2025,4,Apr,0.1757,Profit
+ORD00305,2025-04-29,CUST0187,Customer 0187,Electronics,Headphones,North,Haryana,3,0.15,9330.94,722.07,2025,4,Apr,0.0774,Profit
+ORD00399,2025-04-29,CUST0079,Customer 0079,Accessories,Backpack,East,Jharkhand,4,0.1,6056.09,748.09,2025,4,Apr,0.1235,Profit
+ORD01131,2025-04-29,CUST0001,Customer 0001,Stationery,Notebook,North,Haryana,3,0,578.57,82.85,2025,4,Apr,0.1432,Profit
+ORD00536,2025-04-30,CUST0132,Customer 0132,Accessories,Keyboard,North,Uttar Pradesh,4,0.2,7021.56,626.19,2025,4,Apr,0.0892,Profit
+ORD00767,2025-04-30,CUST0079,Customer 0079,Electronics,Laptop,East,Odisha,4,0.1,185089.80,42980.58,2025,4,Apr,0.2322,Profit
+ORD00322,2025-05-01,CUST0199,Customer 0199,Accessories,Backpack,West,Maharashtra,5,0.1,8567.92,932.45,2025,5,May,0.1088,Profit
+ORD01101,2025-05-01,CUST0075,Customer 0075,Accessories,Keyboard,East,Bihar,3,0.05,5770.64,873.28,2025,5,May,0.1513,Profit
+ORD00220,2025-05-02,CUST0033,Customer 0033,Electronics,Smartphone,East,Bihar,3,0.2,71919.57,-2786.26,2025,5,May,-0.0387,Loss
+ORD00579,2025-05-03,CUST0102,Customer 0102,Accessories,Backpack,West,Maharashtra,1,0.2,1505.31,46.94,2025,5,May,0.0312,Profit
+ORD00356,2025-05-03,CUST0129,Customer 0129,Stationery,Notebook,South,Kerala,2,0.2,310.18,-27.46,2025,5,May,-0.0885,Loss
+ORD00542,2025-05-03,CUST0021,Customer 0021,Stationery,Notebook,East,West Bengal,5,0,950.11,233.50,2025,5,May,0.2458,Profit
+ORD00929,2025-05-04,CUST0014,Customer 0014,Electronics,Monitor,West,Goa,5,0.05,71169.97,8954.09,2025,5,May,0.1258,Profit
+ORD00366,2025-05-04,CUST0138,Customer 0138,Accessories,Mouse,West,Gujarat,3,0.15,2944.95,505.90,2025,5,May,0.1718,Profit
+ORD00073,2025-05-04,CUST0145,Customer 0145,Accessories,Backpack,South,Karnataka,5,0.15,7847.70,1442.21,2025,5,May,0.1838,Profit
+ORD00727,2025-05-04,CUST0071,Customer 0071,Electronics,Headphones,East,Odisha,3,0.2,7949.77,708.24,2025,5,May,0.0891,Profit
+ORD00861,2025-05-05,CUST0101,Customer 0101,Accessories,Mouse,South,Karnataka,2,0,2239.13,344.51,2025,5,May,0.1539,Profit
+ORD00648,2025-05-05,CUST0178,Customer 0178,Electronics,Tablet,North,Haryana,5,0.15,93868.71,3405.13,2025,5,May,0.0363,Profit
+ORD00804,2025-05-06,CUST0065,Customer 0065,Furniture,Desk,East,Odisha,2,0,22462.48,6950.56,2025,5,May,0.3094,Profit
+ORD00754,2025-05-06,CUST0121,Customer 0121,Stationery,Pen Set,North,Uttar Pradesh,5,0.1,1178.98,40.51,2025,5,May,0.0344,Profit
+ORD01143,2025-05-07,CUST0006,Customer 0006,Electronics,Tablet,South,Tamil Nadu,5,0.1,92704.65,4399.21,2025,5,May,0.0475,Profit
+ORD00206,2025-05-08,CUST0133,Customer 0133,Electronics,Headphones,North,Punjab,2,0.1,6738.22,1309.51,2025,5,May,0.1943,Profit
+ORD00006,2025-05-08,CUST0097,Customer 0097,Electronics,Smartphone,North,Haryana,5,0.05,137353.29,37712.17,2025,5,May,0.2746,Profit
+ORD00686,2025-05-09,CUST0035,Customer 0035,Electronics,Laptop,South,Tamil Nadu,2,0.15,95862.58,-2818.93,2025,5,May,-0.0294,Loss
+ORD00132,2025-05-09,CUST0145,Customer 0145,Electronics,Monitor,South,Kerala,5,0.05,74818.80,17594.25,2025,5,May,0.2352,Profit
+ORD00932,2025-05-09,CUST0078,Customer 0078,Electronics,Printer,East,Jharkhand,1,0.2,10668.59,-981.28,2025,5,May,-0.092,Loss
+ORD00135,2025-05-10,CUST0190,Customer 0190,Furniture,Office Chair,South,Tamil Nadu,4,0.15,31961.17,2532.54,2025,5,May,0.0792,Profit
+ORD00904,2025-05-10,CUST0134,Customer 0134,Furniture,Bookshelf,North,Punjab,1,0.2,5646.40,111.04,2025,5,May,0.0197,Profit
+ORD01060,2025-05-10,CUST0134,Customer 0134,Stationery,Notebook,West,Maharashtra,4,0,724.41,165.08,2025,5,May,0.2279,Profit
+ORD00085,2025-05-10,CUST0071,Customer 0071,Electronics,Laptop,South,Karnataka,2,0.15,87554.71,17258.26,2025,5,May,0.1971,Profit
+ORD01111,2025-05-10,CUST0040,Customer 0040,Accessories,Mouse,South,Kerala,1,0.1,1067.85,119.34,2025,5,May,0.1118,Profit
+ORD01110,2025-05-11,CUST0084,Customer 0084,Accessories,Backpack,East,Jharkhand,2,0,3863.62,623.81,2025,5,May,0.1615,Profit
+ORD01124,2025-05-11,CUST0050,Customer 0050,Furniture,Office Chair,North,Haryana,3,0.15,23426.86,4038.08,2025,5,May,0.1724,Profit
+ORD00372,2025-05-12,CUST0024,Customer 0024,Electronics,Webcam,North,Delhi,1,0.15,3549.99,-61.92,2025,5,May,-0.0174,Loss
+ORD00544,2025-05-12,CUST0014,Customer 0014,Furniture,Bookshelf,East,Jharkhand,5,0,35013.86,8447.32,2025,5,May,0.2413,Profit
+ORD00203,2025-05-13,CUST0157,Customer 0157,Electronics,Webcam,South,Tamil Nadu,3,0.15,12392.26,382.36,2025,5,May,0.0309,Profit
+ORD01121,2025-05-14,CUST0085,Customer 0085,Accessories,Mouse,North,Haryana,2,0.1,2059.79,327.71,2025,5,May,0.1591,Profit
+ORD00841,2025-05-14,CUST0153,Customer 0153,Stationery,Notebook,East,Bihar,4,0.15,648.57,109.34,2025,5,May,0.1686,Profit
+ORD00518,2025-05-16,CUST0028,Customer 0028,Electronics,Laptop,West,Goa,5,0.15,245961.63,14149.39,2025,5,May,0.0575,Profit
+ORD00245,2025-05-17,CUST0123,Customer 0123,Electronics,Headphones,East,Bihar,4,0.2,11939.73,-469.68,2025,5,May,-0.0393,Loss
+ORD00037,2025-05-18,CUST0068,Customer 0068,Electronics,Smartphone,South,Kerala,3,0.1,76868.02,6531.86,2025,5,May,0.085,Profit
+ORD00636,2025-05-19,CUST0101,Customer 0101,Furniture,Office Chair,North,Uttar Pradesh,1,0.05,8486.64,810.05,2025,5,May,0.0955,Profit
+ORD00252,2025-05-19,CUST0197,Customer 0197,Stationery,Notebook,East,Bihar,4,0.15,648.19,-8.66,2025,5,May,-0.0134,Loss
+ORD00608,2025-05-19,CUST0124,Customer 0124,Furniture,Bookshelf,West,Gujarat,4,0.2,21310.82,-85.23,2025,5,May,-0.004,Loss
+ORD00687,2025-05-20,CUST0022,Customer 0022,Electronics,Headphones,East,Jharkhand,5,0.15,15168.33,1411.92,2025,5,May,0.0931,Profit
+ORD00365,2025-05-20,CUST0200,Customer 0200,Accessories,Backpack,South,Kerala,1,0.05,1696.20,369.94,2025,5,May,0.2181,Profit
+ORD00295,2025-05-20,CUST0077,Customer 0077,Accessories,Mouse,West,Gujarat,3,0.05,3674.22,294.93,2025,5,May,0.0803,Profit
+ORD00566,2025-05-20,CUST0089,Customer 0089,Accessories,Keyboard,East,West Bengal,4,0.15,7240.17,143.32,2025,5,May,0.0198,Profit
+ORD00783,2025-05-21,CUST0133,Customer 0133,Accessories,Keyboard,North,Uttar Pradesh,4,0.1,8453.37,1760.12,2025,5,May,0.2082,Profit
+ORD00061,2025-05-22,CUST0039,Customer 0039,Electronics,Monitor,East,Odisha,2,0,29591.37,7510.99,2025,5,May,0.2538,Profit
+ORD00983,2025-05-22,CUST0193,Customer 0193,Stationery,Pen Set,North,Delhi,3,0.1,709.81,49.98,2025,5,May,0.0704,Profit
+ORD01152,2025-05-22,CUST0168,Customer 0168,Electronics,Webcam,West,Gujarat,4,0.2,14393.32,238.31,2025,5,May,0.0166,Profit
+ORD01157,2025-05-22,CUST0031,Customer 0031,Stationery,Pen Set,West,Gujarat,1,0.15,208.14,7.28,2025,5,May,0.035,Profit
+ORD00624,2025-05-22,CUST0080,Customer 0080,Stationery,Pen Set,West,Gujarat,2,0.2,426.70,30.14,2025,5,May,0.0706,Profit
+ORD00511,2025-05-23,CUST0113,Customer 0113,Electronics,Headphones,West,Maharashtra,5,0.1,15023.02,3048.32,2025,5,May,0.2029,Profit
+ORD00202,2025-05-23,CUST0061,Customer 0061,Accessories,Backpack,East,West Bengal,3,0.2,4369.96,144.86,2025,5,May,0.0331,Profit
+ORD01156,2025-05-23,CUST0076,Customer 0076,Furniture,Desk,West,Goa,4,0.05,43489.54,10303.93,2025,5,May,0.2369,Profit
+ORD00830,2025-05-24,CUST0061,Customer 0061,Electronics,Smartphone,South,Karnataka,4,0,107306.34,31713.81,2025,5,May,0.2955,Profit
+ORD00272,2025-05-24,CUST0185,Customer 0185,Furniture,Bookshelf,East,Odisha,5,0,35134.09,5346.93,2025,5,May,0.1522,Profit
+ORD00214,2025-05-25,CUST0025,Customer 0025,Electronics,Laptop,North,Uttar Pradesh,5,0.15,224335.31,-808.00,2025,5,May,-0.0036,Loss
+ORD01023,2025-05-25,CUST0053,Customer 0053,Electronics,Headphones,South,Kerala,5,0.2,14741.93,-1222.90,2025,5,May,-0.083,Loss
+ORD00723,2025-05-25,CUST0126,Customer 0126,Stationery,Notebook,South,Andhra Pradesh,5,0,862.95,164.17,2025,5,May,0.1902,Profit
+ORD00381,2025-05-26,CUST0145,Customer 0145,Electronics,Monitor,East,Bihar,2,0.15,23614.89,4410.88,2025,5,May,0.1868,Profit
+ORD00916,2025-05-26,CUST0151,Customer 0151,Furniture,Office Chair,South,Karnataka,3,0.05,24349.35,3128.71,2025,5,May,0.1285,Profit
+ORD00110,2025-05-28,CUST0105,Customer 0105,Electronics,Tablet,West,Maharashtra,4,0.1,77154.25,6983.24,2025,5,May,0.0905,Profit
+ORD01068,2025-05-29,CUST0054,Customer 0054,Electronics,Monitor,West,Goa,1,0.1,13988.07,1629.82,2025,5,May,0.1165,Profit
+ORD01061,2025-05-29,CUST0076,Customer 0076,Electronics,Tablet,West,Gujarat,4,0.05,84957.20,21536.73,2025,5,May,0.2535,Profit
+ORD00472,2025-05-29,CUST0014,Customer 0014,Stationery,Notebook,South,Kerala,3,0.05,552.69,77.57,2025,5,May,0.1403,Profit
+ORD00506,2025-05-30,CUST0189,Customer 0189,Stationery,Pen Set,East,Bihar,1,0.05,247.44,58.26,2025,5,May,0.2355,Profit
+ORD00473,2025-05-30,CUST0016,Customer 0016,Stationery,Pen Set,North,Punjab,5,0,1221.74,280.37,2025,5,May,0.2295,Profit
+ORD00574,2025-05-30,CUST0015,Customer 0015,Accessories,Keyboard,East,West Bengal,5,0.15,8873.68,-95.42,2025,5,May,-0.0108,Loss
+ORD00326,2025-05-30,CUST0183,Customer 0183,Accessories,Mouse,West,Goa,4,0.15,3846.41,196.93,2025,5,May,0.0512,Profit
+ORD00792,2025-05-30,CUST0192,Customer 0192,Accessories,Keyboard,North,Haryana,2,0.2,3678.15,-11.91,2025,5,May,-0.0032,Loss
+ORD00177,2025-05-31,CUST0112,Customer 0112,Electronics,Smartphone,West,Gujarat,3,0,82856.21,19944.25,2025,5,May,0.2407,Profit
+ORD00766,2025-05-31,CUST0145,Customer 0145,Stationery,Pen Set,East,Bihar,1,0.15,226.11,37.81,2025,5,May,0.1672,Profit
+ORD01130,2025-06-01,CUST0072,Customer 0072,Electronics,Webcam,West,Gujarat,1,0.05,4609.84,1106.39,2025,6,Jun,0.24,Profit
+ORD00041,2025-06-01,CUST0111,Customer 0111,Electronics,Headphones,South,Karnataka,3,0,11170.19,3105.14,2025,6,Jun,0.278,Profit
+ORD01136,2025-06-01,CUST0123,Customer 0123,Electronics,Smartphone,East,Odisha,4,0.05,111772.74,27622.91,2025,6,Jun,0.2471,Profit
+ORD01069,2025-06-01,CUST0097,Customer 0097,Furniture,Office Chair,West,Maharashtra,1,0.1,8714.51,1782.34,2025,6,Jun,0.2045,Profit
+ORD01192,2025-06-01,CUST0128,Customer 0128,Electronics,Tablet,North,Delhi,4,0.1,79462.21,19359.17,2025,6,Jun,0.2436,Profit
+ORD00133,2025-06-01,CUST0153,Customer 0153,Electronics,Laptop,North,Punjab,2,0.2,84489.21,8987.60,2025,6,Jun,0.1064,Profit
+ORD00406,2025-06-01,CUST0153,Customer 0153,Accessories,Keyboard,North,Delhi,1,0.15,1886.86,132.27,2025,6,Jun,0.0701,Profit
+ORD00613,2025-06-01,CUST0074,Customer 0074,Electronics,Laptop,North,Delhi,3,0.15,139603.51,17019.25,2025,6,Jun,0.1219,Profit
+ORD00733,2025-06-02,CUST0176,Customer 0176,Electronics,Tablet,East,Jharkhand,2,0.05,42937.91,11813.66,2025,6,Jun,0.2751,Profit
+ORD00093,2025-06-02,CUST0069,Customer 0069,Electronics,Tablet,West,Maharashtra,1,0.05,21878.55,3477.34,2025,6,Jun,0.1589,Profit
+ORD00446,2025-06-02,CUST0024,Customer 0024,Accessories,Backpack,South,Tamil Nadu,3,0.05,5094.50,399.74,2025,6,Jun,0.0785,Profit
+ORD00605,2025-06-03,CUST0084,Customer 0084,Furniture,Bookshelf,West,Maharashtra,1,0.15,6398.43,146.28,2025,6,Jun,0.0229,Profit
+ORD00826,2025-06-03,CUST0050,Customer 0050,Electronics,Laptop,West,Gujarat,4,0.15,188789.96,18384.46,2025,6,Jun,0.0974,Profit
+ORD00856,2025-06-04,CUST0143,Customer 0143,Electronics,Tablet,East,West Bengal,2,0.05,38820.95,9536.54,2025,6,Jun,0.2457,Profit
+ORD00697,2025-06-04,CUST0169,Customer 0169,Furniture,Desk,North,Punjab,3,0.05,34117.47,3954.95,2025,6,Jun,0.1159,Profit
+ORD00824,2025-06-04,CUST0192,Customer 0192,Stationery,Notebook,North,Uttar Pradesh,4,0.1,685.34,28.76,2025,6,Jun,0.042,Profit
+ORD00339,2025-06-05,CUST0106,Customer 0106,Electronics,Printer,East,Odisha,1,0,13193.63,3896.98,2025,6,Jun,0.2954,Profit
+ORD00915,2025-06-06,CUST0031,Customer 0031,Accessories,Mouse,North,Haryana,3,0.1,3232.70,221.83,2025,6,Jun,0.0686,Profit
+ORD00142,2025-06-06,CUST0176,Customer 0176,Electronics,Webcam,East,West Bengal,1,0,4207.13,1265.03,2025,6,Jun,0.3007,Profit
+ORD01113,2025-06-06,CUST0187,Customer 0187,Furniture,Bookshelf,West,Maharashtra,3,0,22223.60,2692.36,2025,6,Jun,0.1211,Profit
+ORD00498,2025-06-06,CUST0145,Customer 0145,Electronics,Printer,North,Haryana,4,0.05,48985.13,11383.37,2025,6,Jun,0.2324,Profit
+ORD00880,2025-06-06,CUST0190,Customer 0190,Stationery,Pen Set,East,Jharkhand,4,0,1057.57,214.64,2025,6,Jun,0.203,Profit
+ORD00479,2025-06-07,CUST0083,Customer 0083,Electronics,Printer,South,Karnataka,4,0.2,45159.55,5951.12,2025,6,Jun,0.1318,Profit
+ORD00196,2025-06-07,CUST0174,Customer 0174,Furniture,Desk,North,Haryana,4,0,48567.72,10398.74,2025,6,Jun,0.2141,Profit
+ORD00866,2025-06-07,CUST0031,Customer 0031,Accessories,Keyboard,East,Jharkhand,3,0.2,4968.51,-81.39,2025,6,Jun,-0.0164,Loss
+ORD00662,2025-06-07,CUST0049,Customer 0049,Accessories,Mouse,East,Bihar,3,0.05,3567.46,940.12,2025,6,Jun,0.2635,Profit
+ORD00927,2025-06-07,CUST0079,Customer 0079,Furniture,Office Chair,West,Maharashtra,5,0.1,38435.85,3302.92,2025,6,Jun,0.0859,Profit
+ORD01105,2025-06-07,CUST0106,Customer 0106,Electronics,Smartphone,East,West Bengal,2,0.1,48191.23,7546.11,2025,6,Jun,0.1566,Profit
+ORD00487,2025-06-07,CUST0007,Customer 0007,Furniture,Desk,North,Delhi,1,0,11144.19,1795.96,2025,6,Jun,0.1612,Profit
+ORD00762,2025-06-07,CUST0042,Customer 0042,Electronics,Monitor,South,Tamil Nadu,3,0.2,33848.49,2873.68,2025,6,Jun,0.0849,Profit
+ORD00580,2025-06-08,CUST0096,Customer 0096,Accessories,Backpack,South,Kerala,2,0.15,2859.95,155.69,2025,6,Jun,0.0544,Profit
+ORD01091,2025-06-09,CUST0169,Customer 0169,Electronics,Headphones,West,Gujarat,5,0.1,14623.22,1217.24,2025,6,Jun,0.0832,Profit
+ORD01185,2025-06-09,CUST0121,Customer 0121,Electronics,Headphones,West,Gujarat,5,0,18865.87,3115.87,2025,6,Jun,0.1652,Profit
+ORD00091,2025-06-10,CUST0001,Customer 0001,Furniture,Office Chair,East,Jharkhand,3,0,25839.98,4615.25,2025,6,Jun,0.1786,Profit
+ORD00036,2025-06-11,CUST0113,Customer 0113,Electronics,Tablet,North,Delhi,5,0.1,105839.02,23435.43,2025,6,Jun,0.2214,Profit
+ORD00236,2025-06-11,CUST0105,Customer 0105,Stationery,Notebook,East,Jharkhand,2,0.1,314.73,31.76,2025,6,Jun,0.1009,Profit
+ORD00201,2025-06-11,CUST0183,Customer 0183,Stationery,Pen Set,West,Gujarat,5,0.05,1115.56,269.85,2025,6,Jun,0.2419,Profit
+ORD00367,2025-06-11,CUST0176,Customer 0176,Accessories,Keyboard,South,Kerala,3,0.05,5859.90,1359.22,2025,6,Jun,0.232,Profit
+ORD00414,2025-06-12,CUST0017,Customer 0017,Accessories,Keyboard,East,Odisha,5,0.2,8136.76,828.40,2025,6,Jun,0.1018,Profit
+ORD00905,2025-06-13,CUST0006,Customer 0006,Electronics,Laptop,North,Punjab,3,0.15,151177.26,26306.91,2025,6,Jun,0.174,Profit
+ORD01128,2025-06-13,CUST0147,Customer 0147,Electronics,Monitor,South,Andhra Pradesh,5,0.2,57684.81,-3641.00,2025,6,Jun,-0.0631,Loss
+ORD00004,2025-06-13,CUST0179,Customer 0179,Furniture,Office Chair,North,Haryana,2,0.05,18350.93,3915.14,2025,6,Jun,0.2133,Profit
+ORD00215,2025-06-13,CUST0084,Customer 0084,Electronics,Webcam,North,Punjab,2,0.15,8257.07,744.47,2025,6,Jun,0.0902,Profit
+ORD01065,2025-06-13,CUST0006,Customer 0006,Furniture,Bookshelf,East,Bihar,4,0.15,25667.12,557.35,2025,6,Jun,0.0217,Profit
+ORD00478,2025-06-14,CUST0150,Customer 0150,Electronics,Tablet,North,Delhi,3,0.15,57982.17,9484.44,2025,6,Jun,0.1636,Profit
+ORD01109,2025-06-14,CUST0171,Customer 0171,Electronics,Monitor,East,Bihar,1,0.15,12727.70,1061.44,2025,6,Jun,0.0834,Profit
+ORD01190,2025-06-14,CUST0179,Customer 0179,Furniture,Office Chair,North,Uttar Pradesh,1,0.2,7526.10,5.40,2025,6,Jun,0.0007,Profit
+ORD00528,2025-06-14,CUST0100,Customer 0100,Stationery,Notebook,South,Tamil Nadu,2,0.15,326.85,31.89,2025,6,Jun,0.0976,Profit
+ORD00514,2025-06-14,CUST0035,Customer 0035,Stationery,Notebook,South,Kerala,1,0.05,164.39,40.49,2025,6,Jun,0.2463,Profit
+ORD00175,2025-06-15,CUST0052,Customer 0052,Accessories,Backpack,West,Gujarat,1,0.15,1621.58,112.73,2025,6,Jun,0.0695,Profit
+ORD00887,2025-06-15,CUST0160,Customer 0160,Electronics,Monitor,North,Delhi,4,0.05,54020.41,13575.45,2025,6,Jun,0.2513,Profit
+ORD00527,2025-06-15,CUST0026,Customer 0026,Electronics,Monitor,East,Bihar,5,0.2,61891.75,-1652.36,2025,6,Jun,-0.0267,Loss
+ORD00043,2025-06-16,CUST0046,Customer 0046,Electronics,Webcam,East,West Bengal,2,0.1,8465.97,1294.89,2025,6,Jun,0.153,Profit
+ORD00764,2025-06-16,CUST0137,Customer 0137,Accessories,Keyboard,South,Tamil Nadu,4,0.15,7801.36,-179.51,2025,6,Jun,-0.023,Loss
+ORD01032,2025-06-16,CUST0050,Customer 0050,Accessories,Backpack,East,Bihar,3,0.2,4464.55,-39.04,2025,6,Jun,-0.0087,Loss
+ORD00223,2025-06-16,CUST0101,Customer 0101,Electronics,Printer,North,Haryana,5,0.2,56289.76,-1530.24,2025,6,Jun,-0.0272,Loss
+ORD00780,2025-06-17,CUST0014,Customer 0014,Accessories,Keyboard,North,Uttar Pradesh,3,0,6378.09,1365.41,2025,6,Jun,0.2141,Profit
+ORD00809,2025-06-18,CUST0126,Customer 0126,Furniture,Office Chair,West,Gujarat,4,0.15,31892.60,2109.75,2025,6,Jun,0.0662,Profit
+ORD00505,2025-06-19,CUST0194,Customer 0194,Furniture,Bookshelf,West,Gujarat,2,0.05,13441.21,2219.04,2025,6,Jun,0.1651,Profit
+ORD00456,2025-06-19,CUST0020,Customer 0020,Accessories,Backpack,East,Bihar,2,0.1,3483.72,812.59,2025,6,Jun,0.2333,Profit
+ORD00391,2025-06-20,CUST0106,Customer 0106,Furniture,Desk,East,Bihar,5,0.15,47747.66,4162.60,2025,6,Jun,0.0872,Profit
+ORD01194,2025-06-20,CUST0154,Customer 0154,Furniture,Office Chair,West,Gujarat,2,0.05,18390.69,2993.47,2025,6,Jun,0.1628,Profit
+ORD00761,2025-06-20,CUST0159,Customer 0159,Electronics,Webcam,West,Goa,5,0.1,19220.59,3949.37,2025,6,Jun,0.2055,Profit
+ORD00193,2025-06-20,CUST0177,Customer 0177,Furniture,Desk,North,Uttar Pradesh,1,0.1,10998.46,1625.47,2025,6,Jun,0.1478,Profit
+ORD01010,2025-06-21,CUST0186,Customer 0186,Electronics,Headphones,South,Andhra Pradesh,5,0,18383.75,4696.39,2025,6,Jun,0.2555,Profit
+ORD00436,2025-06-21,CUST0017,Customer 0017,Electronics,Tablet,South,Karnataka,3,0.15,58145.02,3469.96,2025,6,Jun,0.0597,Profit
+ORD00517,2025-06-21,CUST0186,Customer 0186,Stationery,Notebook,North,Uttar Pradesh,5,0.2,670.33,37.17,2025,6,Jun,0.0555,Profit
+ORD01099,2025-06-22,CUST0173,Customer 0173,Electronics,Webcam,West,Maharashtra,1,0.1,4269.94,556.34,2025,6,Jun,0.1303,Profit
+ORD00324,2025-06-22,CUST0083,Customer 0083,Stationery,Pen Set,North,Haryana,5,0.1,1206.43,156.99,2025,6,Jun,0.1301,Profit
+ORD00439,2025-06-23,CUST0032,Customer 0032,Accessories,Mouse,South,Andhra Pradesh,3,0.2,2936.74,4.46,2025,6,Jun,0.0015,Profit
+ORD00562,2025-06-24,CUST0008,Customer 0008,Electronics,Laptop,North,Haryana,4,0.15,201211.45,14648.95,2025,6,Jun,0.0728,Profit
+ORD01040,2025-06-24,CUST0046,Customer 0046,Accessories,Mouse,West,Goa,2,0.05,2275.06,405.86,2025,6,Jun,0.1784,Profit
+ORD00674,2025-06-24,CUST0073,Customer 0073,Accessories,Backpack,North,Punjab,5,0,8864.19,1570.25,2025,6,Jun,0.1771,Profit
+ORD00760,2025-06-25,CUST0067,Customer 0067,Electronics,Monitor,East,Bihar,3,0,42468.04,11174.35,2025,6,Jun,0.2631,Profit
+ORD00794,2025-06-25,CUST0194,Customer 0194,Furniture,Bookshelf,South,Tamil Nadu,2,0.2,11829.52,370.51,2025,6,Jun,0.0313,Profit
+ORD01079,2025-06-25,CUST0109,Customer 0109,Stationery,Notebook,South,Kerala,3,0,578.55,125.03,2025,6,Jun,0.2161,Profit
+ORD00842,2025-06-27,CUST0176,Customer 0176,Electronics,Printer,North,Haryana,2,0,27616.94,7832.77,2025,6,Jun,0.2836,Profit
+ORD01012,2025-06-27,CUST0004,Customer 0004,Furniture,Office Chair,North,Delhi,4,0.05,33974.42,9183.70,2025,6,Jun,0.2703,Profit
+ORD00380,2025-06-27,CUST0046,Customer 0046,Electronics,Monitor,North,Haryana,5,0,77441.43,19334.30,2025,6,Jun,0.2497,Profit
+ORD00229,2025-06-27,CUST0118,Customer 0118,Electronics,Webcam,North,Haryana,3,0.2,10772.66,-962.37,2025,6,Jun,-0.0893,Loss
+ORD00315,2025-06-27,CUST0143,Customer 0143,Electronics,Headphones,East,Bihar,2,0.05,6452.71,1221.26,2025,6,Jun,0.1893,Profit
+ORD00509,2025-06-28,CUST0097,Customer 0097,Stationery,Notebook,East,Bihar,5,0,902.40,220.85,2025,6,Jun,0.2447,Profit
+ORD00554,2025-06-28,CUST0200,Customer 0200,Accessories,Keyboard,North,Haryana,5,0.15,9761.02,925.74,2025,6,Jun,0.0948,Profit
+ORD00968,2025-06-28,CUST0087,Customer 0087,Electronics,Tablet,West,Maharashtra,2,0,41719.59,11165.93,2025,6,Jun,0.2676,Profit
+ORD00545,2025-06-28,CUST0118,Customer 0118,Electronics,Smartphone,East,Bihar,1,0,28779.98,7025.61,2025,6,Jun,0.2441,Profit
+ORD00998,2025-06-29,CUST0107,Customer 0107,Electronics,Monitor,West,Goa,4,0.15,50058.87,2248.77,2025,6,Jun,0.0449,Profit
+ORD00260,2025-06-29,CUST0161,Customer 0161,Stationery,Notebook,East,Jharkhand,1,0.1,173.45,16.53,2025,6,Jun,0.0953,Profit
+ORD00386,2025-06-29,CUST0097,Customer 0097,Accessories,Keyboard,North,Punjab,2,0,4715.95,614.30,2025,6,Jun,0.1303,Profit
+ORD00828,2025-06-30,CUST0165,Customer 0165,Electronics,Tablet,South,Andhra Pradesh,1,0,23265.74,7054.50,2025,6,Jun,0.3032,Profit
+ORD01025,2025-06-30,CUST0156,Customer 0156,Electronics,Monitor,North,Haryana,5,0.15,68520.80,10457.06,2025,6,Jun,0.1526,Profit
+ORD00519,2025-07-01,CUST0122,Customer 0122,Electronics,Webcam,South,Tamil Nadu,1,0.15,3922.55,-47.98,2025,7,Jul,-0.0122,Loss
+ORD00383,2025-07-01,CUST0083,Customer 0083,Electronics,Laptop,South,Kerala,5,0.05,272718.52,28909.26,2025,7,Jul,0.106,Profit
+ORD01147,2025-07-02,CUST0110,Customer 0110,Furniture,Bookshelf,North,Punjab,4,0.05,28273.11,3945.38,2025,7,Jul,0.1395,Profit
+ORD00859,2025-07-04,CUST0044,Customer 0044,Stationery,Pen Set,North,Punjab,5,0,1255.20,258.37,2025,7,Jul,0.2058,Profit
+ORD00822,2025-07-04,CUST0005,Customer 0005,Stationery,Notebook,West,Goa,4,0.05,701.60,77.71,2025,7,Jul,0.1108,Profit
+ORD00705,2025-07-04,CUST0081,Customer 0081,Furniture,Bookshelf,South,Tamil Nadu,1,0,6900.60,1483.27,2025,7,Jul,0.2149,Profit
+ORD00172,2025-07-05,CUST0178,Customer 0178,Accessories,Backpack,West,Goa,4,0,7097.31,1311.07,2025,7,Jul,0.1847,Profit
+ORD01115,2025-07-05,CUST0049,Customer 0049,Electronics,Tablet,West,Maharashtra,1,0.05,20569.89,4660.22,2025,7,Jul,0.2266,Profit
+ORD00570,2025-07-06,CUST0035,Customer 0035,Accessories,Keyboard,South,Andhra Pradesh,5,0.15,9009.11,481.71,2025,7,Jul,0.0535,Profit
+ORD00187,2025-07-06,CUST0035,Customer 0035,Electronics,Smartphone,East,West Bengal,3,0.05,73975.32,17918.07,2025,7,Jul,0.2422,Profit
+ORD01022,2025-07-07,CUST0114,Customer 0114,Stationery,Notebook,South,Tamil Nadu,4,0,772.26,239.07,2025,7,Jul,0.3096,Profit
+ORD00763,2025-07-08,CUST0053,Customer 0053,Furniture,Bookshelf,South,Karnataka,3,0.05,19544.34,3333.37,2025,7,Jul,0.1706,Profit
+ORD01164,2025-07-08,CUST0191,Customer 0191,Furniture,Bookshelf,South,Andhra Pradesh,4,0.1,25815.69,3986.52,2025,7,Jul,0.1544,Profit
+ORD00708,2025-07-09,CUST0029,Customer 0029,Stationery,Pen Set,West,Gujarat,3,0.15,653.87,119.13,2025,7,Jul,0.1822,Profit
+ORD00795,2025-07-09,CUST0113,Customer 0113,Stationery,Notebook,South,Kerala,3,0.15,453.43,35.83,2025,7,Jul,0.079,Profit
+ORD00242,2025-07-09,CUST0036,Customer 0036,Furniture,Desk,North,Punjab,1,0.1,10598.82,1538.63,2025,7,Jul,0.1452,Profit
+ORD00586,2025-07-09,CUST0005,Customer 0005,Electronics,Printer,North,Punjab,3,0,43063.70,9138.49,2025,7,Jul,0.2122,Profit
+ORD00400,2025-07-09,CUST0095,Customer 0095,Electronics,Webcam,East,Bihar,2,0.15,7092.61,684.66,2025,7,Jul,0.0965,Profit
+ORD01075,2025-07-09,CUST0104,Customer 0104,Electronics,Tablet,South,Andhra Pradesh,5,0.2,91991.32,1607.83,2025,7,Jul,0.0175,Profit
+ORD01104,2025-07-10,CUST0103,Customer 0103,Accessories,Mouse,South,Tamil Nadu,4,0.15,3882.56,293.16,2025,7,Jul,0.0755,Profit
+ORD00374,2025-07-11,CUST0071,Customer 0071,Accessories,Keyboard,East,Odisha,1,0.2,1793.56,158.83,2025,7,Jul,0.0886,Profit
+ORD00571,2025-07-12,CUST0083,Customer 0083,Electronics,Laptop,West,Maharashtra,5,0,261181.25,78235.61,2025,7,Jul,0.2995,Profit
+ORD01058,2025-07-12,CUST0191,Customer 0191,Electronics,Smartphone,North,Punjab,3,0.15,72278.70,14427.20,2025,7,Jul,0.1996,Profit
+ORD01138,2025-07-12,CUST0018,Customer 0018,Electronics,Headphones,South,Andhra Pradesh,2,0.15,6339.49,-179.58,2025,7,Jul,-0.0283,Loss
+ORD00878,2025-07-12,CUST0007,Customer 0007,Electronics,Monitor,East,Odisha,2,0.15,26895.73,-51.82,2025,7,Jul,-0.0019,Loss
+ORD00799,2025-07-13,CUST0018,Customer 0018,Electronics,Webcam,East,Bihar,2,0,9718.16,2154.23,2025,7,Jul,0.2217,Profit
+ORD00120,2025-07-14,CUST0159,Customer 0159,Accessories,Keyboard,West,Goa,1,0,2132.74,494.44,2025,7,Jul,0.2318,Profit
+ORD01011,2025-07-14,CUST0160,Customer 0160,Electronics,Monitor,East,Jharkhand,1,0.05,13597.42,2843.79,2025,7,Jul,0.2091,Profit
+ORD01030,2025-07-14,CUST0002,Customer 0002,Electronics,Laptop,North,Uttar Pradesh,4,0.15,200173.33,-5675.15,2025,7,Jul,-0.0284,Loss
+ORD00030,2025-07-14,CUST0076,Customer 0076,Electronics,Monitor,South,Tamil Nadu,3,0,41761.02,9381.29,2025,7,Jul,0.2246,Profit
+ORD00105,2025-07-15,CUST0154,Customer 0154,Furniture,Bookshelf,West,Maharashtra,3,0.15,17392.68,254.88,2025,7,Jul,0.0147,Profit
+ORD00189,2025-07-15,CUST0074,Customer 0074,Accessories,Mouse,South,Karnataka,3,0,3772.42,877.50,2025,7,Jul,0.2326,Profit
+ORD00464,2025-07-15,CUST0184,Customer 0184,Accessories,Mouse,South,Andhra Pradesh,1,0.2,902.13,-65.80,2025,7,Jul,-0.0729,Loss
+ORD00879,2025-07-15,CUST0023,Customer 0023,Accessories,Keyboard,East,Odisha,4,0.15,6907.71,1111.56,2025,7,Jul,0.1609,Profit
+ORD01116,2025-07-16,CUST0038,Customer 0038,Furniture,Office Chair,South,Kerala,1,0,8827.71,1898.01,2025,7,Jul,0.215,Profit
+ORD00885,2025-07-16,CUST0121,Customer 0121,Accessories,Mouse,East,Odisha,5,0.05,5779.94,809.22,2025,7,Jul,0.14,Profit
+ORD01042,2025-07-16,CUST0067,Customer 0067,Electronics,Webcam,East,Jharkhand,5,0,23826.10,6832.72,2025,7,Jul,0.2868,Profit
+ORD00629,2025-07-17,CUST0058,Customer 0058,Electronics,Laptop,East,West Bengal,3,0.15,134024.12,5634.09,2025,7,Jul,0.042,Profit
+ORD00241,2025-07-17,CUST0045,Customer 0045,Electronics,Printer,East,Jharkhand,5,0.1,58834.32,5631.68,2025,7,Jul,0.0957,Profit
+ORD00945,2025-07-18,CUST0169,Customer 0169,Stationery,Pen Set,West,Maharashtra,5,0.05,1234.23,317.67,2025,7,Jul,0.2574,Profit
+ORD00739,2025-07-18,CUST0162,Customer 0162,Accessories,Mouse,North,Punjab,3,0.05,3163.96,520.44,2025,7,Jul,0.1645,Profit
+ORD00958,2025-07-18,CUST0147,Customer 0147,Electronics,Headphones,North,Haryana,4,0.15,12327.68,1175.84,2025,7,Jul,0.0954,Profit
+ORD00219,2025-07-19,CUST0093,Customer 0093,Furniture,Bookshelf,North,Delhi,4,0.2,22222.07,278.57,2025,7,Jul,0.0125,Profit
+ORD00768,2025-07-19,CUST0150,Customer 0150,Furniture,Bookshelf,West,Gujarat,2,0,13067.24,1961.52,2025,7,Jul,0.1501,Profit
+ORD00359,2025-07-20,CUST0188,Customer 0188,Electronics,Webcam,West,Maharashtra,1,0.15,3533.63,256.46,2025,7,Jul,0.0726,Profit
+ORD00159,2025-07-22,CUST0045,Customer 0045,Electronics,Printer,West,Goa,1,0.05,14260.35,2167.73,2025,7,Jul,0.152,Profit
+ORD00221,2025-07-23,CUST0155,Customer 0155,Furniture,Bookshelf,East,West Bengal,1,0,6593.48,1670.73,2025,7,Jul,0.2534,Profit
+ORD00017,2025-07-23,CUST0040,Customer 0040,Accessories,Mouse,West,Goa,5,0,6094.99,1354.79,2025,7,Jul,0.2223,Profit
+ORD00003,2025-07-23,CUST0184,Customer 0184,Stationery,Notebook,East,Odisha,4,0.2,555.56,-37.40,2025,7,Jul,-0.0673,Loss
+ORD00982,2025-07-25,CUST0086,Customer 0086,Electronics,Monitor,North,Haryana,3,0.1,38495.36,4242.75,2025,7,Jul,0.1102,Profit
+ORD00358,2025-07-25,CUST0075,Customer 0075,Electronics,Printer,North,Punjab,4,0.1,51139.40,6894.04,2025,7,Jul,0.1348,Profit
+ORD00415,2025-07-25,CUST0015,Customer 0015,Electronics,Monitor,South,Andhra Pradesh,1,0.1,13942.01,2559.20,2025,7,Jul,0.1836,Profit
+ORD00711,2025-07-25,CUST0157,Customer 0157,Furniture,Office Chair,West,Goa,4,0,33948.71,5644.27,2025,7,Jul,0.1663,Profit
+ORD00881,2025-07-26,CUST0076,Customer 0076,Electronics,Printer,East,West Bengal,3,0,39329.90,5918.13,2025,7,Jul,0.1505,Profit
+ORD00637,2025-07-26,CUST0117,Customer 0117,Electronics,Smartphone,North,Haryana,2,0,52337.07,9355.49,2025,7,Jul,0.1788,Profit
+ORD00630,2025-07-27,CUST0194,Customer 0194,Electronics,Monitor,South,Kerala,4,0.2,47922.76,3295.94,2025,7,Jul,0.0688,Profit
+ORD00038,2025-07-28,CUST0176,Customer 0176,Stationery,Notebook,North,Uttar Pradesh,3,0,504.77,118.76,2025,7,Jul,0.2353,Profit
+ORD00825,2025-07-28,CUST0106,Customer 0106,Accessories,Keyboard,North,Punjab,3,0.2,5057.08,457.05,2025,7,Jul,0.0904,Profit
+ORD00269,2025-07-28,CUST0095,Customer 0095,Accessories,Mouse,East,West Bengal,5,0.05,5920.02,1662.32,2025,7,Jul,0.2808,Profit
+ORD00894,2025-07-30,CUST0093,Customer 0093,Electronics,Headphones,North,Uttar Pradesh,5,0.15,15428.47,2725.23,2025,7,Jul,0.1766,Profit
+ORD00924,2025-07-30,CUST0063,Customer 0063,Electronics,Tablet,East,West Bengal,5,0.2,85471.67,237.33,2025,7,Jul,0.0028,Profit
+ORD00310,2025-07-30,CUST0072,Customer 0072,Accessories,Backpack,South,Tamil Nadu,5,0.05,8366.40,2030.70,2025,7,Jul,0.2427,Profit
+ORD00419,2025-07-31,CUST0069,Customer 0069,Stationery,Notebook,East,West Bengal,1,0.15,163.07,7.77,2025,7,Jul,0.0476,Profit
+ORD00994,2025-07-31,CUST0034,Customer 0034,Electronics,Tablet,West,Gujarat,4,0.15,70716.29,4574.24,2025,7,Jul,0.0647,Profit
+ORD00644,2025-08-01,CUST0013,Customer 0013,Electronics,Headphones,West,Maharashtra,3,0,9904.23,3105.11,2025,8,Aug,0.3135,Profit
+ORD00985,2025-08-03,CUST0122,Customer 0122,Electronics,Monitor,East,Jharkhand,3,0,43654.14,12329.27,2025,8,Aug,0.2824,Profit
+ORD00944,2025-08-03,CUST0002,Customer 0002,Electronics,Monitor,East,West Bengal,3,0.2,36001.88,3865.91,2025,8,Aug,0.1074,Profit
+ORD00937,2025-08-04,CUST0157,Customer 0157,Furniture,Bookshelf,North,Haryana,3,0.15,17201.73,759.81,2025,8,Aug,0.0442,Profit
+ORD00266,2025-08-05,CUST0049,Customer 0049,Stationery,Pen Set,South,Andhra Pradesh,2,0.2,413.04,21.00,2025,8,Aug,0.0508,Profit
+ORD00067,2025-08-05,CUST0117,Customer 0117,Accessories,Mouse,North,Uttar Pradesh,3,0.15,2938.71,531.11,2025,8,Aug,0.1807,Profit
+ORD00614,2025-08-05,CUST0053,Customer 0053,Furniture,Bookshelf,North,Uttar Pradesh,5,0.05,34287.78,4921.12,2025,8,Aug,0.1435,Profit
+ORD00405,2025-08-05,CUST0050,Customer 0050,Electronics,Headphones,South,Andhra Pradesh,1,0.15,2833.11,18.29,2025,8,Aug,0.0065,Profit
+ORD00078,2025-08-06,CUST0091,Customer 0091,Accessories,Backpack,North,Haryana,3,0.2,4459.06,360.89,2025,8,Aug,0.0809,Profit
+ORD00653,2025-08-06,CUST0003,Customer 0003,Stationery,Notebook,West,Goa,3,0.1,508.57,89.54,2025,8,Aug,0.1761,Profit
+ORD00486,2025-08-07,CUST0176,Customer 0176,Furniture,Office Chair,South,Kerala,5,0.15,39146.95,-826.71,2025,8,Aug,-0.0211,Loss
+ORD00170,2025-08-08,CUST0088,Customer 0088,Accessories,Backpack,East,Odisha,2,0.05,3231.19,717.13,2025,8,Aug,0.2219,Profit
+ORD00345,2025-08-09,CUST0011,Customer 0011,Electronics,Webcam,South,Andhra Pradesh,5,0.1,20666.57,2750.73,2025,8,Aug,0.1331,Profit
+ORD00707,2025-08-11,CUST0154,Customer 0154,Stationery,Notebook,South,Tamil Nadu,1,0.2,135.47,-1.91,2025,8,Aug,-0.0141,Loss
+ORD00601,2025-08-11,CUST0188,Customer 0188,Electronics,Smartphone,North,Uttar Pradesh,2,0.15,50080.57,1890.16,2025,8,Aug,0.0377,Profit
+ORD00680,2025-08-11,CUST0036,Customer 0036,Electronics,Webcam,South,Kerala,2,0.15,7688.26,832.18,2025,8,Aug,0.1082,Profit
+ORD00246,2025-08-12,CUST0196,Customer 0196,Electronics,Monitor,South,Andhra Pradesh,5,0.1,62943.51,7494.91,2025,8,Aug,0.1191,Profit
+ORD00784,2025-08-12,CUST0040,Customer 0040,Furniture,Bookshelf,West,Maharashtra,5,0.2,28849.64,-2542.35,2025,8,Aug,-0.0881,Loss
+ORD00712,2025-08-12,CUST0158,Customer 0158,Stationery,Notebook,South,Andhra Pradesh,3,0,499.81,152.90,2025,8,Aug,0.3059,Profit
+ORD00274,2025-08-12,CUST0130,Customer 0130,Furniture,Desk,North,Delhi,5,0.2,51169.93,-758.40,2025,8,Aug,-0.0148,Loss
+ORD00070,2025-08-12,CUST0120,Customer 0120,Stationery,Pen Set,North,Haryana,2,0.2,406.86,-15.05,2025,8,Aug,-0.037,Loss
+ORD00746,2025-08-12,CUST0034,Customer 0034,Accessories,Mouse,North,Punjab,1,0,1196.12,309.84,2025,8,Aug,0.259,Profit
+ORD00421,2025-08-12,CUST0120,Customer 0120,Accessories,Keyboard,East,West Bengal,1,0.2,1900.64,-174.14,2025,8,Aug,-0.0916,Loss
+ORD01154,2025-08-13,CUST0180,Customer 0180,Electronics,Smartphone,West,Gujarat,1,0.05,28702.06,8053.77,2025,8,Aug,0.2806,Profit
+ORD00382,2025-08-13,CUST0006,Customer 0006,Furniture,Bookshelf,East,West Bengal,3,0.2,15997.54,1877.76,2025,8,Aug,0.1174,Profit
+ORD00318,2025-08-14,CUST0075,Customer 0075,Electronics,Laptop,North,Punjab,5,0.1,234361.08,33470.86,2025,8,Aug,0.1428,Profit
+ORD00538,2025-08-14,CUST0174,Customer 0174,Stationery,Pen Set,West,Gujarat,4,0.1,902.38,218.63,2025,8,Aug,0.2423,Profit
+ORD00064,2025-08-14,CUST0125,Customer 0125,Electronics,Monitor,North,Uttar Pradesh,4,0,58933.03,10974.82,2025,8,Aug,0.1862,Profit
+ORD00388,2025-08-15,CUST0164,Customer 0164,Electronics,Printer,South,Andhra Pradesh,2,0.1,26189.22,5016.71,2025,8,Aug,0.1916,Profit
+ORD00942,2025-08-15,CUST0191,Customer 0191,Electronics,Laptop,North,Haryana,2,0,115566.54,22530.01,2025,8,Aug,0.195,Profit
+ORD00499,2025-08-15,CUST0183,Customer 0183,Stationery,Pen Set,East,Bihar,3,0.05,732.97,157.15,2025,8,Aug,0.2144,Profit
+ORD00943,2025-08-15,CUST0060,Customer 0060,Furniture,Desk,North,Delhi,3,0.15,32580.47,1096.48,2025,8,Aug,0.0337,Profit
+ORD01088,2025-08-16,CUST0097,Customer 0097,Electronics,Smartphone,South,Kerala,5,0.1,127790.75,8326.33,2025,8,Aug,0.0652,Profit
+ORD00461,2025-08-17,CUST0117,Customer 0117,Accessories,Mouse,East,Bihar,4,0,4490.83,845.25,2025,8,Aug,0.1882,Profit
+ORD00457,2025-08-17,CUST0141,Customer 0141,Stationery,Notebook,East,Jharkhand,2,0,357.64,57.13,2025,8,Aug,0.1597,Profit
+ORD00510,2025-08-17,CUST0133,Customer 0133,Furniture,Office Chair,North,Haryana,4,0.15,32495.59,6448.67,2025,8,Aug,0.1984,Profit
+ORD00474,2025-08-18,CUST0191,Customer 0191,Stationery,Notebook,East,Odisha,5,0.1,835.00,195.39,2025,8,Aug,0.234,Profit
+ORD01056,2025-08-18,CUST0148,Customer 0148,Accessories,Backpack,South,Karnataka,4,0.15,6270.72,95.79,2025,8,Aug,0.0153,Profit
+ORD01064,2025-08-19,CUST0180,Customer 0180,Stationery,Pen Set,South,Kerala,4,0.15,822.68,6.77,2025,8,Aug,0.0082,Profit
+ORD00392,2025-08-19,CUST0042,Customer 0042,Furniture,Desk,South,Tamil Nadu,3,0,34955.81,4532.64,2025,8,Aug,0.1297,Profit
+ORD00335,2025-08-20,CUST0133,Customer 0133,Stationery,Notebook,East,West Bengal,1,0.1,170.22,4.23,2025,8,Aug,0.0249,Profit
+ORD00950,2025-08-20,CUST0177,Customer 0177,Furniture,Office Chair,South,Kerala,2,0.05,16632.76,4507.15,2025,8,Aug,0.271,Profit
+ORD00146,2025-08-20,CUST0110,Customer 0110,Electronics,Tablet,South,Karnataka,1,0.05,20141.82,2491.61,2025,8,Aug,0.1237,Profit
+ORD00788,2025-08-21,CUST0079,Customer 0079,Electronics,Headphones,West,Maharashtra,1,0.15,3065.83,47.59,2025,8,Aug,0.0155,Profit
+ORD00737,2025-08-22,CUST0026,Customer 0026,Electronics,Monitor,East,Odisha,4,0.05,53110.59,8552.57,2025,8,Aug,0.161,Profit
+ORD00007,2025-08-22,CUST0198,Customer 0198,Accessories,Keyboard,South,Kerala,1,0.15,1803.57,90.95,2025,8,Aug,0.0504,Profit
+ORD00412,2025-08-22,CUST0035,Customer 0035,Accessories,Keyboard,East,Bihar,3,0.15,5704.23,1021.01,2025,8,Aug,0.179,Profit
+ORD00946,2025-08-22,CUST0134,Customer 0134,Stationery,Pen Set,North,Punjab,1,0.2,203.66,-4.11,2025,8,Aug,-0.0202,Loss
+ORD01094,2025-08-23,CUST0079,Customer 0079,Stationery,Notebook,South,Karnataka,4,0.1,683.80,70.71,2025,8,Aug,0.1034,Profit
+ORD00022,2025-08-24,CUST0151,Customer 0151,Electronics,Monitor,South,Tamil Nadu,1,0.05,13263.67,3681.96,2025,8,Aug,0.2776,Profit
+ORD00154,2025-08-24,CUST0129,Customer 0129,Furniture,Bookshelf,North,Delhi,4,0,27714.26,6320.21,2025,8,Aug,0.228,Profit
+ORD01117,2025-08-25,CUST0057,Customer 0057,Accessories,Mouse,East,Jharkhand,1,0.2,948.80,130.07,2025,8,Aug,0.1371,Profit
+ORD01172,2025-08-26,CUST0056,Customer 0056,Accessories,Backpack,West,Goa,2,0.2,2887.51,-92.92,2025,8,Aug,-0.0322,Loss
+ORD00908,2025-08-28,CUST0090,Customer 0090,Accessories,Keyboard,North,Punjab,4,0.2,7307.53,903.89,2025,8,Aug,0.1237,Profit
+ORD00612,2025-08-28,CUST0052,Customer 0052,Stationery,Notebook,North,Punjab,1,0,186.90,50.72,2025,8,Aug,0.2714,Profit
+ORD00334,2025-08-28,CUST0110,Customer 0110,Stationery,Notebook,South,Tamil Nadu,1,0.05,170.37,43.66,2025,8,Aug,0.2563,Profit
+ORD00736,2025-08-29,CUST0185,Customer 0185,Furniture,Desk,North,Uttar Pradesh,2,0.1,20667.10,4546.15,2025,8,Aug,0.22,Profit
+ORD00977,2025-08-29,CUST0102,Customer 0102,Electronics,Monitor,North,Uttar Pradesh,4,0.2,45367.37,-2749.62,2025,8,Aug,-0.0606,Loss
+ORD00851,2025-08-29,CUST0121,Customer 0121,Electronics,Webcam,North,Delhi,1,0.1,4052.94,647.62,2025,8,Aug,0.1598,Profit
+ORD01024,2025-08-30,CUST0130,Customer 0130,Electronics,Smartphone,East,Jharkhand,3,0.05,82630.33,19223.73,2025,8,Aug,0.2326,Profit
+ORD00028,2025-08-31,CUST0043,Customer 0043,Furniture,Office Chair,East,Jharkhand,2,0.15,16285.18,2626.18,2025,8,Aug,0.1613,Profit
+ORD00173,2025-09-01,CUST0114,Customer 0114,Electronics,Printer,North,Uttar Pradesh,2,0.2,21465.18,-1961.90,2025,9,Sep,-0.0914,Loss
+ORD00660,2025-09-01,CUST0096,Customer 0096,Furniture,Desk,North,Punjab,5,0.1,51192.11,8256.54,2025,9,Sep,0.1613,Profit
+ORD01019,2025-09-01,CUST0186,Customer 0186,Electronics,Printer,East,Bihar,2,0.1,24464.32,1701.79,2025,9,Sep,0.0696,Profit
+ORD00720,2025-09-02,CUST0126,Customer 0126,Furniture,Office Chair,South,Karnataka,4,0.2,30942.51,-1638.23,2025,9,Sep,-0.0529,Loss
+ORD00970,2025-09-03,CUST0095,Customer 0095,Accessories,Backpack,North,Punjab,5,0.2,7639.68,-531.69,2025,9,Sep,-0.0696,Loss
+ORD00267,2025-09-03,CUST0142,Customer 0142,Accessories,Mouse,North,Uttar Pradesh,4,0.2,3931.37,286.57,2025,9,Sep,0.0729,Profit
+ORD00379,2025-09-04,CUST0069,Customer 0069,Furniture,Bookshelf,South,Kerala,5,0.15,29058.87,73.69,2025,9,Sep,0.0025,Profit
+ORD00115,2025-09-04,CUST0128,Customer 0128,Electronics,Webcam,West,Maharashtra,4,0.1,16095.21,1549.29,2025,9,Sep,0.0963,Profit
+ORD00541,2025-09-05,CUST0068,Customer 0068,Electronics,Monitor,West,Maharashtra,2,0.2,23447.15,-1048.89,2025,9,Sep,-0.0447,Loss
+ORD01021,2025-09-06,CUST0053,Customer 0053,Furniture,Bookshelf,South,Kerala,2,0.2,11867.89,232.99,2025,9,Sep,0.0196,Profit
+ORD00291,2025-09-06,CUST0147,Customer 0147,Furniture,Bookshelf,West,Goa,4,0.05,25062.90,5534.25,2025,9,Sep,0.2208,Profit
+ORD00959,2025-09-06,CUST0036,Customer 0036,Accessories,Backpack,South,Tamil Nadu,2,0.1,3283.82,428.27,2025,9,Sep,0.1304,Profit
+ORD01004,2025-09-06,CUST0183,Customer 0183,Furniture,Desk,West,Gujarat,3,0.05,32397.46,9084.48,2025,9,Sep,0.2804,Profit
+ORD00278,2025-09-07,CUST0179,Customer 0179,Electronics,Monitor,North,Delhi,1,0,14772.67,3612.90,2025,9,Sep,0.2446,Profit
+ORD00676,2025-09-07,CUST0141,Customer 0141,Electronics,Headphones,East,Jharkhand,1,0.1,3002.95,270.89,2025,9,Sep,0.0902,Profit
+ORD00483,2025-09-07,CUST0011,Customer 0011,Stationery,Notebook,North,Uttar Pradesh,1,0.15,147.04,4.36,2025,9,Sep,0.0297,Profit
+ORD00081,2025-09-07,CUST0079,Customer 0079,Stationery,Notebook,North,Uttar Pradesh,5,0.2,702.00,-69.61,2025,9,Sep,-0.0992,Loss
+ORD00009,2025-09-08,CUST0042,Customer 0042,Furniture,Desk,East,Bihar,5,0.05,58683.68,6265.54,2025,9,Sep,0.1068,Profit
+ORD00777,2025-09-08,CUST0008,Customer 0008,Electronics,Smartphone,North,Uttar Pradesh,1,0.2,23280.11,110.20,2025,9,Sep,0.0047,Profit
+ORD00354,2025-09-08,CUST0012,Customer 0012,Furniture,Desk,North,Uttar Pradesh,2,0.05,24372.87,2527.16,2025,9,Sep,0.1037,Profit
+ORD01181,2025-09-08,CUST0180,Customer 0180,Electronics,Tablet,South,Kerala,1,0.1,19406.60,2285.09,2025,9,Sep,0.1177,Profit
+ORD00668,2025-09-08,CUST0044,Customer 0044,Electronics,Smartphone,North,Haryana,5,0.15,110445.83,21335.73,2025,9,Sep,0.1932,Profit
+ORD00211,2025-09-08,CUST0176,Customer 0176,Furniture,Office Chair,North,Uttar Pradesh,1,0,8507.64,2015.26,2025,9,Sep,0.2369,Profit
+ORD00633,2025-09-09,CUST0133,Customer 0133,Furniture,Bookshelf,East,West Bengal,5,0.15,29826.76,1539.42,2025,9,Sep,0.0516,Profit
+ORD00743,2025-09-10,CUST0064,Customer 0064,Accessories,Mouse,East,Odisha,5,0.05,6077.34,577.98,2025,9,Sep,0.0951,Profit
+ORD00321,2025-09-11,CUST0077,Customer 0077,Electronics,Tablet,South,Andhra Pradesh,3,0.1,62842.35,14146.75,2025,9,Sep,0.2251,Profit
+ORD01086,2025-09-11,CUST0020,Customer 0020,Accessories,Keyboard,South,Tamil Nadu,5,0.15,8700.68,429.56,2025,9,Sep,0.0494,Profit
+ORD01114,2025-09-11,CUST0171,Customer 0171,Electronics,Tablet,East,Odisha,4,0,90832.12,19940.67,2025,9,Sep,0.2195,Profit
+ORD01049,2025-09-12,CUST0095,Customer 0095,Furniture,Desk,East,Jharkhand,2,0,25866.94,3323.66,2025,9,Sep,0.1285,Profit
+ORD00044,2025-09-12,CUST0069,Customer 0069,Electronics,Headphones,South,Andhra Pradesh,1,0.15,2842.88,22.35,2025,9,Sep,0.0079,Profit
+ORD00435,2025-09-12,CUST0058,Customer 0058,Stationery,Pen Set,North,Haryana,2,0,490.68,99.24,2025,9,Sep,0.2022,Profit
+ORD00027,2025-09-13,CUST0020,Customer 0020,Furniture,Desk,South,Tamil Nadu,5,0,64502.36,8690.18,2025,9,Sep,0.1347,Profit
+ORD00568,2025-09-13,CUST0042,Customer 0042,Stationery,Pen Set,East,Jharkhand,2,0.1,419.70,44.27,2025,9,Sep,0.1055,Profit
+ORD00042,2025-09-13,CUST0171,Customer 0171,Electronics,Smartphone,North,Uttar Pradesh,5,0.05,142060.25,33294.81,2025,9,Sep,0.2344,Profit
+ORD00575,2025-09-14,CUST0098,Customer 0098,Electronics,Tablet,South,Tamil Nadu,2,0.15,39023.01,3737.38,2025,9,Sep,0.0958,Profit
+ORD00713,2025-09-14,CUST0199,Customer 0199,Furniture,Desk,South,Andhra Pradesh,2,0,25662.31,4800.87,2025,9,Sep,0.1871,Profit
+ORD00441,2025-09-16,CUST0122,Customer 0122,Stationery,Pen Set,West,Maharashtra,1,0.1,222.15,49.32,2025,9,Sep,0.222,Profit
+ORD00167,2025-09-16,CUST0186,Customer 0186,Electronics,Tablet,West,Gujarat,1,0.2,18060.73,-1430.17,2025,9,Sep,-0.0792,Loss
+ORD00872,2025-09-17,CUST0091,Customer 0091,Accessories,Keyboard,South,Tamil Nadu,1,0.15,1774.12,278.76,2025,9,Sep,0.1571,Profit
+ORD00185,2025-09-17,CUST0192,Customer 0192,Electronics,Laptop,North,Delhi,3,0.05,162592.16,24705.21,2025,9,Sep,0.1519,Profit
+ORD00978,2025-09-18,CUST0141,Customer 0141,Electronics,Smartphone,West,Maharashtra,3,0.15,71615.01,10444.38,2025,9,Sep,0.1458,Profit
+ORD00597,2025-09-18,CUST0093,Customer 0093,Furniture,Desk,East,Jharkhand,1,0,12927.28,2596.41,2025,9,Sep,0.2008,Profit
+ORD01035,2025-09-18,CUST0064,Customer 0064,Electronics,Printer,West,Maharashtra,1,0,14323.45,1956.92,2025,9,Sep,0.1366,Profit
+ORD00153,2025-09-19,CUST0075,Customer 0075,Accessories,Mouse,South,Tamil Nadu,4,0.15,3868.29,427.60,2025,9,Sep,0.1105,Profit
+ORD00836,2025-09-19,CUST0078,Customer 0078,Electronics,Smartphone,West,Gujarat,2,0.05,56740.06,8584.44,2025,9,Sep,0.1513,Profit
+ORD01055,2025-09-21,CUST0171,Customer 0171,Furniture,Desk,South,Kerala,5,0.15,47658.00,1774.17,2025,9,Sep,0.0372,Profit
+ORD00926,2025-09-21,CUST0024,Customer 0024,Electronics,Smartphone,South,Kerala,3,0.05,75748.32,9276.31,2025,9,Sep,0.1225,Profit
+ORD00553,2025-09-21,CUST0089,Customer 0089,Electronics,Laptop,East,West Bengal,3,0.2,125642.00,757.17,2025,9,Sep,0.006,Profit
+ORD00891,2025-09-22,CUST0088,Customer 0088,Accessories,Backpack,North,Delhi,5,0.1,8613.63,472.01,2025,9,Sep,0.0548,Profit
+ORD00427,2025-09-22,CUST0186,Customer 0186,Accessories,Backpack,West,Goa,3,0,5160.03,1420.74,2025,9,Sep,0.2753,Profit
+ORD00875,2025-09-23,CUST0173,Customer 0173,Electronics,Smartphone,East,West Bengal,1,0.15,22340.31,3565.33,2025,9,Sep,0.1596,Profit
+ORD00650,2025-09-23,CUST0135,Customer 0135,Electronics,Printer,North,Punjab,5,0.2,55967.72,-1807.54,2025,9,Sep,-0.0323,Loss
+ORD00779,2025-09-23,CUST0042,Customer 0042,Electronics,Printer,South,Kerala,3,0.15,37860.95,6365.12,2025,9,Sep,0.1681,Profit
+ORD00854,2025-09-24,CUST0030,Customer 0030,Accessories,Mouse,South,Kerala,4,0.1,4491.30,173.43,2025,9,Sep,0.0386,Profit
+ORD00807,2025-09-25,CUST0139,Customer 0139,Accessories,Mouse,South,Tamil Nadu,4,0,4710.63,1211.05,2025,9,Sep,0.2571,Profit
+ORD00047,2025-09-25,CUST0046,Customer 0046,Electronics,Printer,North,Delhi,1,0.2,11082.74,-356.16,2025,9,Sep,-0.0321,Loss
+ORD00125,2025-09-26,CUST0150,Customer 0150,Furniture,Office Chair,North,Delhi,2,0.15,14137.26,-113.88,2025,9,Sep,-0.0081,Loss
+ORD00539,2025-09-27,CUST0064,Customer 0064,Accessories,Keyboard,South,Andhra Pradesh,3,0,6657.61,1892.78,2025,9,Sep,0.2843,Profit
+ORD00016,2025-09-27,CUST0129,Customer 0129,Accessories,Backpack,West,Goa,1,0.1,1708.56,224.90,2025,9,Sep,0.1316,Profit
+ORD00012,2025-09-27,CUST0192,Customer 0192,Electronics,Printer,East,Jharkhand,3,0.05,43074.93,10987.90,2025,9,Sep,0.2551,Profit
+ORD00401,2025-09-27,CUST0058,Customer 0058,Electronics,Tablet,North,Delhi,2,0,41083.38,10321.86,2025,9,Sep,0.2512,Profit
+ORD01132,2025-09-28,CUST0185,Customer 0185,Electronics,Headphones,East,Bihar,3,0,10711.60,3405.41,2025,9,Sep,0.3179,Profit
+ORD00700,2025-09-28,CUST0194,Customer 0194,Electronics,Tablet,South,Tamil Nadu,2,0.15,36794.09,4749.75,2025,9,Sep,0.1291,Profit
+ORD00447,2025-09-28,CUST0119,Customer 0119,Electronics,Laptop,South,Kerala,1,0.1,48392.90,4551.44,2025,9,Sep,0.0941,Profit
+ORD00507,2025-09-28,CUST0095,Customer 0095,Electronics,Monitor,South,Kerala,5,0.1,66291.41,2682.57,2025,9,Sep,0.0405,Profit
+ORD00396,2025-09-29,CUST0170,Customer 0170,Accessories,Keyboard,North,Punjab,1,0,2162.30,454.23,2025,9,Sep,0.2101,Profit
+ORD00714,2025-09-30,CUST0039,Customer 0039,Stationery,Pen Set,North,Uttar Pradesh,5,0,1253.08,165.43,2025,9,Sep,0.132,Profit
+ORD00627,2025-10-01,CUST0156,Customer 0156,Electronics,Printer,West,Goa,2,0.05,27397.48,5714.47,2025,10,Oct,0.2086,Profit
+ORD00106,2025-10-01,CUST0001,Customer 0001,Accessories,Keyboard,North,Uttar Pradesh,2,0.15,3763.09,447.04,2025,10,Oct,0.1188,Profit
+ORD00243,2025-10-01,CUST0085,Customer 0085,Accessories,Keyboard,South,Karnataka,3,0.05,5830.72,1512.03,2025,10,Oct,0.2593,Profit
+ORD00015,2025-10-01,CUST0197,Customer 0197,Stationery,Notebook,North,Delhi,3,0.15,433.90,86.45,2025,10,Oct,0.1992,Profit
+ORD00351,2025-10-03,CUST0188,Customer 0188,Electronics,Webcam,South,Tamil Nadu,3,0.15,11056.36,2045.11,2025,10,Oct,0.185,Profit
+ORD00572,2025-10-03,CUST0033,Customer 0033,Stationery,Pen Set,East,West Bengal,2,0,472.05,104.45,2025,10,Oct,0.2213,Profit
+ORD00549,2025-10-04,CUST0061,Customer 0061,Furniture,Bookshelf,East,Jharkhand,2,0.05,13938.48,1794.27,2025,10,Oct,0.1287,Profit
+ORD00749,2025-10-04,CUST0179,Customer 0179,Electronics,Printer,West,Goa,1,0.2,11882.48,-403.29,2025,10,Oct,-0.0339,Loss
+ORD00616,2025-10-05,CUST0014,Customer 0014,Furniture,Desk,South,Tamil Nadu,4,0.1,44326.53,1843.31,2025,10,Oct,0.0416,Profit
+ORD00563,2025-10-06,CUST0141,Customer 0141,Furniture,Desk,West,Goa,5,0.05,57828.38,10877.30,2025,10,Oct,0.1881,Profit
+ORD00234,2025-10-06,CUST0036,Customer 0036,Electronics,Smartphone,West,Maharashtra,1,0.2,21416.81,1965.87,2025,10,Oct,0.0918,Profit
+ORD01006,2025-10-07,CUST0040,Customer 0040,Furniture,Desk,North,Punjab,2,0,25507.92,5446.97,2025,10,Oct,0.2135,Profit
+ORD00468,2025-10-08,CUST0102,Customer 0102,Accessories,Mouse,North,Uttar Pradesh,2,0.05,2248.17,307.64,2025,10,Oct,0.1368,Profit
+ORD00832,2025-10-09,CUST0113,Customer 0113,Furniture,Office Chair,North,Delhi,4,0.2,28222.64,-2460.39,2025,10,Oct,-0.0872,Loss
+ORD00599,2025-10-10,CUST0142,Customer 0142,Furniture,Bookshelf,West,Maharashtra,1,0.15,5812.58,973.22,2025,10,Oct,0.1674,Profit
+ORD00407,2025-10-10,CUST0134,Customer 0134,Furniture,Desk,South,Andhra Pradesh,1,0.15,9628.22,642.05,2025,10,Oct,0.0667,Profit
+ORD00039,2025-10-11,CUST0012,Customer 0012,Electronics,Laptop,North,Punjab,3,0.05,162800.07,27361.36,2025,10,Oct,0.1681,Profit
+ORD00097,2025-10-12,CUST0047,Customer 0047,Electronics,Printer,East,Jharkhand,1,0.15,11610.52,1411.55,2025,10,Oct,0.1216,Profit
+ORD00696,2025-10-12,CUST0065,Customer 0065,Electronics,Headphones,North,Haryana,3,0,10905.60,2172.78,2025,10,Oct,0.1992,Profit
+ORD00921,2025-10-12,CUST0166,Customer 0166,Electronics,Smartphone,West,Goa,1,0.2,22866.31,-980.94,2025,10,Oct,-0.0429,Loss
+ORD01013,2025-10-13,CUST0167,Customer 0167,Electronics,Printer,North,Delhi,1,0.05,13110.81,1607.67,2025,10,Oct,0.1226,Profit
+ORD00230,2025-10-13,CUST0143,Customer 0143,Accessories,Keyboard,West,Gujarat,3,0.05,6460.85,1171.11,2025,10,Oct,0.1813,Profit
+ORD00129,2025-10-14,CUST0009,Customer 0009,Stationery,Pen Set,North,Punjab,4,0.15,911.28,-1.16,2025,10,Oct,-0.0013,Loss
+ORD00691,2025-10-14,CUST0120,Customer 0120,Furniture,Bookshelf,South,Tamil Nadu,2,0.15,12148.78,532.44,2025,10,Oct,0.0438,Profit
+ORD00378,2025-10-15,CUST0015,Customer 0015,Accessories,Backpack,East,Bihar,5,0.05,9198.40,2420.37,2025,10,Oct,0.2631,Profit
+ORD00740,2025-10-15,CUST0035,Customer 0035,Electronics,Smartphone,East,Jharkhand,4,0.05,110832.02,26369.77,2025,10,Oct,0.2379,Profit
+ORD01146,2025-10-16,CUST0092,Customer 0092,Electronics,Smartphone,North,Delhi,3,0,89316.68,17782.84,2025,10,Oct,0.1991,Profit
+ORD00855,2025-10-17,CUST0068,Customer 0068,Electronics,Printer,North,Haryana,4,0.05,51629.90,3863.38,2025,10,Oct,0.0748,Profit
+ORD01029,2025-10-18,CUST0097,Customer 0097,Furniture,Bookshelf,East,West Bengal,3,0.05,20635.84,5014.65,2025,10,Oct,0.243,Profit
+ORD00418,2025-10-19,CUST0008,Customer 0008,Furniture,Office Chair,South,Kerala,5,0.05,45192.64,6684.90,2025,10,Oct,0.1479,Profit
+ORD00341,2025-10-19,CUST0200,Customer 0200,Stationery,Pen Set,South,Karnataka,2,0.2,406.84,41.84,2025,10,Oct,0.1028,Profit
+ORD00086,2025-10-19,CUST0121,Customer 0121,Furniture,Desk,East,Bihar,2,0,23049.52,3403.39,2025,10,Oct,0.1477,Profit
+ORD00497,2025-10-19,CUST0159,Customer 0159,Electronics,Smartphone,West,Gujarat,4,0.15,92585.37,4151.70,2025,10,Oct,0.0448,Profit
+ORD00646,2025-10-19,CUST0157,Customer 0157,Stationery,Notebook,West,Gujarat,5,0.1,865.92,193.75,2025,10,Oct,0.2238,Profit
+ORD00276,2025-10-21,CUST0005,Customer 0005,Furniture,Bookshelf,East,Odisha,1,0,7027.31,1910.07,2025,10,Oct,0.2718,Profit
+ORD01145,2025-10-21,CUST0058,Customer 0058,Electronics,Webcam,East,West Bengal,4,0.05,18442.74,4369.87,2025,10,Oct,0.2369,Profit
+ORD01148,2025-10-21,CUST0090,Customer 0090,Electronics,Webcam,South,Karnataka,4,0.1,17322.03,1113.54,2025,10,Oct,0.0643,Profit
+ORD00112,2025-10-22,CUST0059,Customer 0059,Stationery,Pen Set,South,Andhra Pradesh,1,0,247.75,44.89,2025,10,Oct,0.1812,Profit
+ORD00702,2025-10-23,CUST0115,Customer 0115,Furniture,Office Chair,North,Delhi,1,0.2,7358.31,-655.23,2025,10,Oct,-0.089,Loss
+ORD00094,2025-10-23,CUST0113,Customer 0113,Electronics,Smartphone,East,Bihar,4,0.1,100807.62,13580.02,2025,10,Oct,0.1347,Profit
+ORD01126,2025-10-24,CUST0012,Customer 0012,Electronics,Printer,South,Kerala,4,0.15,49006.63,-233.57,2025,10,Oct,-0.0048,Loss
+ORD00504,2025-10-25,CUST0035,Customer 0035,Furniture,Desk,South,Andhra Pradesh,3,0.2,26544.81,2396.46,2025,10,Oct,0.0903,Profit
+ORD00557,2025-10-26,CUST0182,Customer 0182,Accessories,Keyboard,East,Bihar,4,0.1,8234.13,1059.57,2025,10,Oct,0.1287,Profit
+ORD00758,2025-10-26,CUST0049,Customer 0049,Electronics,Smartphone,South,Kerala,5,0.1,124219.71,20902.25,2025,10,Oct,0.1683,Profit
+ORD00296,2025-10-26,CUST0189,Customer 0189,Stationery,Pen Set,East,Odisha,3,0.15,615.09,9.28,2025,10,Oct,0.0151,Profit
+ORD00695,2025-10-26,CUST0189,Customer 0189,Electronics,Printer,South,Karnataka,4,0,52656.32,16040.57,2025,10,Oct,0.3046,Profit
+ORD00567,2025-10-27,CUST0153,Customer 0153,Electronics,Monitor,South,Karnataka,2,0.15,27059.22,2628.84,2025,10,Oct,0.0972,Profit
+ORD01043,2025-10-28,CUST0022,Customer 0022,Furniture,Office Chair,South,Karnataka,1,0.1,7490.45,1440.20,2025,10,Oct,0.1923,Profit
+ORD01080,2025-10-28,CUST0169,Customer 0169,Furniture,Bookshelf,East,Odisha,5,0.15,30678.68,2362.86,2025,10,Oct,0.077,Profit
+ORD00192,2025-10-28,CUST0083,Customer 0083,Electronics,Smartphone,South,Karnataka,3,0.1,74945.80,6367.68,2025,10,Oct,0.085,Profit
+ORD00492,2025-10-30,CUST0163,Customer 0163,Electronics,Headphones,North,Haryana,1,0.2,2967.90,340.29,2025,10,Oct,0.1147,Profit
+ORD00375,2025-10-30,CUST0128,Customer 0128,Furniture,Office Chair,East,West Bengal,1,0.1,7948.39,1202.44,2025,10,Oct,0.1513,Profit
+ORD00051,2025-10-30,CUST0142,Customer 0142,Electronics,Headphones,West,Gujarat,4,0.05,13545.82,2991.63,2025,10,Oct,0.2209,Profit
+ORD00741,2025-10-30,CUST0155,Customer 0155,Electronics,Headphones,West,Goa,5,0.05,15525.02,1611.42,2025,10,Oct,0.1038,Profit
+ORD01129,2025-10-31,CUST0182,Customer 0182,Accessories,Keyboard,South,Kerala,2,0,4423.63,1157.36,2025,10,Oct,0.2616,Profit
+ORD00645,2025-11-02,CUST0085,Customer 0085,Electronics,Webcam,South,Tamil Nadu,1,0.15,4127.17,668.76,2025,11,Nov,0.162,Profit
+ORD00928,2025-11-02,CUST0100,Customer 0100,Electronics,Smartphone,North,Punjab,4,0.1,96895.96,3411.22,2025,11,Nov,0.0352,Profit
+ORD00829,2025-11-02,CUST0017,Customer 0017,Electronics,Webcam,East,Bihar,1,0.15,4096.22,121.22,2025,11,Nov,0.0296,Profit
+ORD01106,2025-11-03,CUST0094,Customer 0094,Furniture,Office Chair,West,Goa,3,0,29114.08,5495.11,2025,11,Nov,0.1887,Profit
+ORD00988,2025-11-03,CUST0084,Customer 0084,Electronics,Printer,South,Tamil Nadu,2,0.05,28631.15,2144.28,2025,11,Nov,0.0749,Profit
+ORD01160,2025-11-03,CUST0121,Customer 0121,Furniture,Office Chair,North,Uttar Pradesh,1,0.1,7596.20,1755.56,2025,11,Nov,0.2311,Profit
+ORD01082,2025-11-03,CUST0056,Customer 0056,Electronics,Headphones,West,Goa,3,0.1,8888.28,943.52,2025,11,Nov,0.1062,Profit
+ORD00224,2025-11-03,CUST0122,Customer 0122,Electronics,Tablet,South,Karnataka,3,0,71067.72,14445.19,2025,11,Nov,0.2033,Profit
+ORD00647,2025-11-03,CUST0083,Customer 0083,Accessories,Mouse,East,West Bengal,4,0.2,3572.69,115.38,2025,11,Nov,0.0323,Profit
+ORD01028,2025-11-04,CUST0153,Customer 0153,Furniture,Bookshelf,West,Goa,2,0.1,12358.99,2181.10,2025,11,Nov,0.1765,Profit
+ORD00034,2025-11-04,CUST0118,Customer 0118,Accessories,Mouse,South,Tamil Nadu,4,0.2,4146.25,-410.58,2025,11,Nov,-0.099,Loss
+ORD00782,2025-11-05,CUST0070,Customer 0070,Stationery,Notebook,North,Delhi,5,0.2,702.91,80.18,2025,11,Nov,0.1141,Profit
+ORD01037,2025-11-06,CUST0129,Customer 0129,Furniture,Bookshelf,East,Bihar,4,0,26249.55,5393.70,2025,11,Nov,0.2055,Profit
+ORD00161,2025-11-07,CUST0071,Customer 0071,Electronics,Printer,South,Karnataka,5,0,67876.57,15585.63,2025,11,Nov,0.2296,Profit
+ORD00299,2025-11-07,CUST0062,Customer 0062,Accessories,Keyboard,West,Goa,4,0.15,6970.12,-230.75,2025,11,Nov,-0.0331,Loss
+ORD00460,2025-11-08,CUST0131,Customer 0131,Furniture,Bookshelf,West,Goa,4,0.1,24649.00,5728.02,2025,11,Nov,0.2324,Profit
+ORD00088,2025-11-08,CUST0022,Customer 0022,Electronics,Monitor,South,Andhra Pradesh,5,0.2,62791.11,5875.88,2025,11,Nov,0.0936,Profit
+ORD00694,2025-11-08,CUST0187,Customer 0187,Accessories,Backpack,North,Delhi,4,0.2,5455.02,747.85,2025,11,Nov,0.1371,Profit
+ORD00244,2025-11-11,CUST0041,Customer 0041,Furniture,Office Chair,North,Delhi,3,0.1,24745.66,4843.94,2025,11,Nov,0.1957,Profit
+ORD00526,2025-11-11,CUST0148,Customer 0148,Accessories,Mouse,East,Odisha,1,0.05,1130.26,154.83,2025,11,Nov,0.137,Profit
+ORD00428,2025-11-11,CUST0108,Customer 0108,Accessories,Backpack,North,Haryana,3,0.2,4177.65,-262.37,2025,11,Nov,-0.0628,Loss
+ORD00250,2025-11-12,CUST0186,Customer 0186,Electronics,Laptop,East,Bihar,1,0.05,52904.68,14531.64,2025,11,Nov,0.2747,Profit
+ORD00565,2025-11-12,CUST0094,Customer 0094,Furniture,Office Chair,North,Punjab,3,0,24840.40,3898.06,2025,11,Nov,0.1569,Profit
+ORD00640,2025-11-12,CUST0080,Customer 0080,Stationery,Pen Set,East,Bihar,2,0,531.88,68.03,2025,11,Nov,0.1279,Profit
+ORD00771,2025-11-12,CUST0115,Customer 0115,Electronics,Tablet,South,Kerala,4,0.15,78434.51,10360.11,2025,11,Nov,0.1321,Profit
+ORD00288,2025-11-12,CUST0114,Customer 0114,Accessories,Mouse,North,Delhi,2,0,2279.96,524.92,2025,11,Nov,0.2302,Profit
+ORD00216,2025-11-12,CUST0128,Customer 0128,Electronics,Laptop,South,Andhra Pradesh,5,0.15,251204.08,37524.31,2025,11,Nov,0.1494,Profit
+ORD00834,2025-11-12,CUST0006,Customer 0006,Stationery,Notebook,South,Tamil Nadu,2,0.1,326.73,57.41,2025,11,Nov,0.1757,Profit
+ORD00922,2025-11-13,CUST0144,Customer 0144,Stationery,Notebook,South,Tamil Nadu,2,0.2,289.93,-11.42,2025,11,Nov,-0.0394,Loss
+ORD01167,2025-11-13,CUST0049,Customer 0049,Furniture,Bookshelf,West,Goa,1,0.05,6404.39,503.36,2025,11,Nov,0.0786,Profit
+ORD00347,2025-11-14,CUST0021,Customer 0021,Furniture,Bookshelf,West,Maharashtra,5,0.1,30949.29,3202.95,2025,11,Nov,0.1035,Profit
+ORD00995,2025-11-14,CUST0151,Customer 0151,Electronics,Monitor,East,Bihar,2,0,32357.21,7469.78,2025,11,Nov,0.2309,Profit
+ORD00168,2025-11-14,CUST0168,Customer 0168,Stationery,Pen Set,East,Odisha,5,0,1211.92,296.52,2025,11,Nov,0.2447,Profit
+ORD00665,2025-11-16,CUST0006,Customer 0006,Electronics,Printer,North,Punjab,3,0.05,37937.21,8572.61,2025,11,Nov,0.226,Profit
+ORD00798,2025-11-16,CUST0176,Customer 0176,Electronics,Tablet,East,Odisha,5,0.15,90367.22,-114.09,2025,11,Nov,-0.0013,Loss
+ORD00821,2025-11-17,CUST0052,Customer 0052,Furniture,Office Chair,East,Bihar,5,0.2,35730.60,-1459.97,2025,11,Nov,-0.0409,Loss
+ORD00831,2025-11-17,CUST0085,Customer 0085,Electronics,Tablet,East,Odisha,4,0.05,78841.86,19500.43,2025,11,Nov,0.2473,Profit
+ORD00313,2025-11-17,CUST0031,Customer 0031,Electronics,Monitor,North,Delhi,2,0.1,27835.65,3644.46,2025,11,Nov,0.1309,Profit
+ORD00540,2025-11-18,CUST0091,Customer 0091,Electronics,Monitor,North,Punjab,2,0.15,26467.42,3830.86,2025,11,Nov,0.1447,Profit
+ORD00048,2025-11-18,CUST0112,Customer 0112,Electronics,Printer,South,Andhra Pradesh,5,0.05,63890.25,8624.71,2025,11,Nov,0.135,Profit
+ORD00050,2025-11-18,CUST0170,Customer 0170,Electronics,Tablet,South,Karnataka,5,0.1,101643.58,17478.56,2025,11,Nov,0.172,Profit
+ORD01047,2025-11-19,CUST0062,Customer 0062,Accessories,Mouse,East,Jharkhand,5,0,6456.29,938.64,2025,11,Nov,0.1454,Profit
+ORD00282,2025-11-19,CUST0005,Customer 0005,Electronics,Monitor,West,Goa,4,0,58073.06,12033.23,2025,11,Nov,0.2072,Profit
+ORD00011,2025-11-19,CUST0055,Customer 0055,Stationery,Notebook,East,Jharkhand,4,0.05,658.27,152.91,2025,11,Nov,0.2323,Profit
+ORD00543,2025-11-19,CUST0127,Customer 0127,Electronics,Webcam,North,Uttar Pradesh,2,0.2,6946.87,656.32,2025,11,Nov,0.0945,Profit
+ORD00489,2025-11-20,CUST0005,Customer 0005,Furniture,Office Chair,South,Tamil Nadu,5,0,46842.92,9503.42,2025,11,Nov,0.2029,Profit
+ORD00949,2025-11-20,CUST0002,Customer 0002,Furniture,Office Chair,West,Gujarat,1,0.2,7554.44,-737.06,2025,11,Nov,-0.0976,Loss
+ORD00618,2025-11-20,CUST0125,Customer 0125,Electronics,Tablet,South,Kerala,2,0.2,37828.97,371.79,2025,11,Nov,0.0098,Profit
+ORD00083,2025-11-20,CUST0031,Customer 0031,Stationery,Pen Set,West,Maharashtra,2,0.15,409.80,25.11,2025,11,Nov,0.0613,Profit
+ORD00058,2025-11-21,CUST0194,Customer 0194,Electronics,Webcam,East,Jharkhand,5,0.15,20340.46,508.97,2025,11,Nov,0.025,Profit
+ORD00833,2025-11-21,CUST0140,Customer 0140,Furniture,Office Chair,East,Odisha,3,0.05,25087.74,3350.29,2025,11,Nov,0.1335,Profit
+ORD00480,2025-11-22,CUST0135,Customer 0135,Electronics,Monitor,West,Goa,1,0.2,11345.99,161.45,2025,11,Nov,0.0142,Profit
+ORD00666,2025-11-23,CUST0198,Customer 0198,Furniture,Desk,South,Karnataka,2,0.05,21974.23,6174.73,2025,11,Nov,0.281,Profit
+ORD00765,2025-11-24,CUST0040,Customer 0040,Electronics,Laptop,North,Haryana,4,0.1,212877.10,16360.23,2025,11,Nov,0.0769,Profit
+ORD00389,2025-11-24,CUST0043,Customer 0043,Stationery,Notebook,South,Karnataka,4,0,692.95,187.16,2025,11,Nov,0.2701,Profit
+ORD00485,2025-11-25,CUST0132,Customer 0132,Electronics,Smartphone,South,Kerala,5,0.2,103171.36,13787.00,2025,11,Nov,0.1336,Profit
+ORD00259,2025-11-25,CUST0061,Customer 0061,Accessories,Keyboard,West,Goa,5,0.05,10305.47,2331.95,2025,11,Nov,0.2263,Profit
+ORD00938,2025-11-26,CUST0088,Customer 0088,Electronics,Monitor,East,Bihar,1,0.05,14583.89,4138.61,2025,11,Nov,0.2838,Profit
+ORD01050,2025-11-26,CUST0005,Customer 0005,Stationery,Notebook,North,Delhi,3,0.15,439.43,37.78,2025,11,Nov,0.086,Profit
+ORD00577,2025-11-27,CUST0041,Customer 0041,Stationery,Notebook,South,Tamil Nadu,3,0.15,469.17,71.89,2025,11,Nov,0.1532,Profit
+ORD00290,2025-11-29,CUST0099,Customer 0099,Electronics,Laptop,North,Uttar Pradesh,4,0,227914.50,47427.34,2025,11,Nov,0.2081,Profit
+ORD00596,2025-11-29,CUST0096,Customer 0096,Furniture,Office Chair,East,Bihar,5,0.05,43181.91,10327.95,2025,11,Nov,0.2392,Profit
+ORD00423,2025-11-29,CUST0071,Customer 0071,Accessories,Keyboard,North,Punjab,2,0.2,3669.52,-274.92,2025,11,Nov,-0.0749,Loss
+ORD00863,2025-11-29,CUST0188,Customer 0188,Stationery,Pen Set,West,Maharashtra,1,0.1,218.63,50.74,2025,11,Nov,0.2321,Profit
+ORD00156,2025-11-29,CUST0044,Customer 0044,Accessories,Backpack,East,Bihar,1,0.15,1614.33,230.44,2025,11,Nov,0.1427,Profit
+ORD01135,2025-11-29,CUST0069,Customer 0069,Electronics,Monitor,East,Odisha,4,0.05,59095.88,11397.37,2025,11,Nov,0.1929,Profit
+ORD00139,2025-11-29,CUST0098,Customer 0098,Electronics,Printer,North,Uttar Pradesh,5,0.2,55374.59,-2673.15,2025,11,Nov,-0.0483,Loss
+ORD00149,2025-11-29,CUST0199,Customer 0199,Electronics,Printer,South,Tamil Nadu,2,0.05,27682.88,7577.75,2025,11,Nov,0.2737,Profit
+ORD00759,2025-12-01,CUST0125,Customer 0125,Electronics,Printer,East,Jharkhand,3,0.2,31621.39,-1496.86,2025,12,Dec,-0.0473,Loss
+ORD00839,2025-12-01,CUST0117,Customer 0117,Stationery,Pen Set,South,Tamil Nadu,2,0.15,444.79,74.72,2025,12,Dec,0.168,Profit
+ORD00126,2025-12-02,CUST0157,Customer 0157,Electronics,Monitor,South,Andhra Pradesh,3,0.15,35904.06,6797.72,2025,12,Dec,0.1893,Profit
+ORD01184,2025-12-03,CUST0017,Customer 0017,Accessories,Mouse,North,Uttar Pradesh,2,0.15,1914.12,178.09,2025,12,Dec,0.093,Profit
+ORD00169,2025-12-03,CUST0033,Customer 0033,Stationery,Notebook,South,Andhra Pradesh,5,0.1,747.56,131.42,2025,12,Dec,0.1758,Profit
+ORD00623,2025-12-04,CUST0115,Customer 0115,Furniture,Bookshelf,West,Maharashtra,2,0.2,11274.11,-564.00,2025,12,Dec,-0.05,Loss
+ORD00308,2025-12-05,CUST0144,Customer 0144,Furniture,Office Chair,East,Odisha,4,0.05,32483.91,4737.13,2025,12,Dec,0.1458,Profit
+ORD00023,2025-12-05,CUST0019,Customer 0019,Furniture,Bookshelf,West,Gujarat,4,0.05,26766.98,3531.25,2025,12,Dec,0.1319,Profit
+ORD00082,2025-12-05,CUST0091,Customer 0091,Stationery,Pen Set,East,Bihar,3,0.1,645.90,54.36,2025,12,Dec,0.0842,Profit
+ORD00673,2025-12-05,CUST0084,Customer 0084,Furniture,Desk,East,West Bengal,1,0.15,9568.23,836.03,2025,12,Dec,0.0874,Profit
+ORD00280,2025-12-06,CUST0145,Customer 0145,Electronics,Tablet,South,Tamil Nadu,2,0.05,44483.71,6159.47,2025,12,Dec,0.1385,Profit
+ORD00186,2025-12-07,CUST0035,Customer 0035,Electronics,Laptop,North,Haryana,2,0.15,100693.06,8801.02,2025,12,Dec,0.0874,Profit
+ORD00603,2025-12-09,CUST0090,Customer 0090,Electronics,Webcam,East,Jharkhand,1,0.05,4444.41,468.32,2025,12,Dec,0.1054,Profit
+ORD00054,2025-12-10,CUST0024,Customer 0024,Electronics,Tablet,West,Goa,3,0.05,65775.44,16653.59,2025,12,Dec,0.2532,Profit
+ORD00639,2025-12-10,CUST0145,Customer 0145,Electronics,Tablet,West,Maharashtra,2,0.05,43600.12,11920.63,2025,12,Dec,0.2734,Profit
+ORD00179,2025-12-10,CUST0038,Customer 0038,Electronics,Headphones,South,Karnataka,4,0.05,13850.81,2568.64,2025,12,Dec,0.1855,Profit
+ORD01197,2025-12-10,CUST0030,Customer 0030,Electronics,Webcam,West,Gujarat,4,0.1,15362.51,1724.38,2025,12,Dec,0.1122,Profit
+ORD01166,2025-12-10,CUST0008,Customer 0008,Electronics,Monitor,North,Punjab,5,0,69783.83,13997.09,2025,12,Dec,0.2006,Profit
+ORD00437,2025-12-12,CUST0112,Customer 0112,Electronics,Webcam,West,Gujarat,4,0.1,16848.30,3501.14,2025,12,Dec,0.2078,Profit
+ORD00271,2025-12-12,CUST0066,Customer 0066,Accessories,Backpack,East,Jharkhand,4,0.05,7094.75,1490.38,2025,12,Dec,0.2101,Profit
+ORD00330,2025-12-12,CUST0141,Customer 0141,Electronics,Printer,West,Goa,4,0.1,53578.46,4021.31,2025,12,Dec,0.0751,Profit
+ORD00209,2025-12-12,CUST0145,Customer 0145,Electronics,Laptop,South,Tamil Nadu,1,0.2,42343.18,4119.90,2025,12,Dec,0.0973,Profit
+ORD00454,2025-12-13,CUST0133,Customer 0133,Furniture,Bookshelf,South,Andhra Pradesh,2,0.15,11606.31,474.37,2025,12,Dec,0.0409,Profit
+ORD00123,2025-12-13,CUST0030,Customer 0030,Furniture,Desk,South,Kerala,2,0.15,21925.17,234.28,2025,12,Dec,0.0107,Profit
+ORD00394,2025-12-13,CUST0153,Customer 0153,Electronics,Printer,East,West Bengal,4,0.05,54113.49,10433.08,2025,12,Dec,0.1928,Profit
+ORD00147,2025-12-14,CUST0090,Customer 0090,Electronics,Laptop,West,Maharashtra,5,0.15,217652.49,5583.73,2025,12,Dec,0.0257,Profit
+ORD00537,2025-12-14,CUST0199,Customer 0199,Furniture,Desk,East,West Bengal,4,0,46140.06,11233.51,2025,12,Dec,0.2435,Profit
+ORD00074,2025-12-16,CUST0004,Customer 0004,Electronics,Tablet,East,Jharkhand,1,0.15,20078.68,1012.98,2025,12,Dec,0.0505,Profit
+ORD00787,2025-12-17,CUST0045,Customer 0045,Stationery,Pen Set,North,Delhi,1,0.05,223.39,30.84,2025,12,Dec,0.1381,Profit
+ORD00573,2025-12-17,CUST0108,Customer 0108,Accessories,Keyboard,East,Bihar,4,0,8560.99,1295.20,2025,12,Dec,0.1513,Profit
+ORD00547,2025-12-18,CUST0094,Customer 0094,Electronics,Headphones,East,Jharkhand,2,0.15,6141.08,690.24,2025,12,Dec,0.1124,Profit
+ORD01038,2025-12-19,CUST0037,Customer 0037,Accessories,Keyboard,West,Goa,4,0.1,7294.54,1510.14,2025,12,Dec,0.207,Profit
+ORD00494,2025-12-19,CUST0055,Customer 0055,Furniture,Office Chair,West,Maharashtra,2,0.05,17419.80,4024.01,2025,12,Dec,0.231,Profit
+ORD00682,2025-12-19,CUST0023,Customer 0023,Electronics,Printer,South,Andhra Pradesh,2,0.1,23435.64,1035.98,2025,12,Dec,0.0442,Profit
+ORD00251,2025-12-19,CUST0180,Customer 0180,Electronics,Smartphone,South,Tamil Nadu,4,0,108184.67,30724.85,2025,12,Dec,0.284,Profit
+ORD00470,2025-12-20,CUST0173,Customer 0173,Electronics,Headphones,West,Goa,5,0.1,16280.09,1227.25,2025,12,Dec,0.0754,Profit
+ORD00582,2025-12-22,CUST0113,Customer 0113,Stationery,Pen Set,West,Maharashtra,4,0.1,932.31,175.96,2025,12,Dec,0.1887,Profit
+ORD00306,2025-12-23,CUST0122,Customer 0122,Electronics,Smartphone,East,Jharkhand,3,0,81315.55,12844.83,2025,12,Dec,0.158,Profit
+ORD00534,2025-12-23,CUST0089,Customer 0089,Electronics,Tablet,North,Punjab,5,0.05,103743.57,20662.30,2025,12,Dec,0.1992,Profit
+ORD00312,2025-12-23,CUST0091,Customer 0091,Electronics,Tablet,East,Odisha,3,0.2,53561.74,-965.59,2025,12,Dec,-0.018,Loss
+ORD00584,2025-12-23,CUST0083,Customer 0083,Stationery,Pen Set,East,Bihar,5,0.2,945.65,16.28,2025,12,Dec,0.0172,Profit
+ORD00620,2025-12-27,CUST0091,Customer 0091,Stationery,Notebook,North,Punjab,5,0.1,850.42,89.62,2025,12,Dec,0.1054,Profit
+ORD01081,2025-12-27,CUST0156,Customer 0156,Furniture,Bookshelf,West,Goa,1,0,6705.55,1893.55,2025,12,Dec,0.2824,Profit
+ORD00217,2025-12-28,CUST0013,Customer 0013,Electronics,Laptop,North,Uttar Pradesh,5,0.15,225736.99,44713.06,2025,12,Dec,0.1981,Profit
+ORD00658,2025-12-29,CUST0017,Customer 0017,Electronics,Headphones,North,Delhi,3,0.15,9105.66,16.27,2025,12,Dec,0.0018,Profit
+ORD01093,2025-12-29,CUST0120,Customer 0120,Furniture,Bookshelf,North,Haryana,4,0.2,23982.97,-1687.13,2025,12,Dec,-0.0703,Loss
+ORD01133,2025-12-31,CUST0057,Customer 0057,Stationery,Pen Set,North,Punjab,3,0,754.49,93.75,2025,12,Dec,0.1243,Profit
+ORD00368,2025-12-31,CUST0102,Customer 0102,Furniture,Bookshelf,South,Karnataka,3,0.05,18453.21,3673.58,2025,12,Dec,0.1991,Profit
+ORD01169,2026-01-01,CUST0193,Customer 0193,Accessories,Keyboard,East,Odisha,3,0.15,5812.58,-169.38,2026,1,Jan,-0.0291,Loss
+ORD00444,2026-01-02,CUST0181,Customer 0181,Furniture,Office Chair,North,Punjab,1,0.2,7195.80,705.74,2026,1,Jan,0.0981,Profit
+ORD00449,2026-01-02,CUST0113,Customer 0113,Electronics,Printer,North,Delhi,3,0.1,35881.99,5575.44,2026,1,Jan,0.1554,Profit
+ORD00960,2026-01-02,CUST0080,Customer 0080,Electronics,Printer,West,Maharashtra,4,0.1,51233.25,9209.87,2026,1,Jan,0.1798,Profit
+ORD00941,2026-01-02,CUST0100,Customer 0100,Electronics,Headphones,South,Tamil Nadu,4,0.1,13479.48,1963.28,2026,1,Jan,0.1456,Profit
+ORD00981,2026-01-03,CUST0022,Customer 0022,Accessories,Keyboard,South,Karnataka,2,0,4131.49,1024.42,2026,1,Jan,0.248,Profit
+ORD00452,2026-01-03,CUST0157,Customer 0157,Electronics,Laptop,West,Gujarat,4,0,233643.31,54173.11,2026,1,Jan,0.2319,Profit
+ORD00617,2026-01-04,CUST0028,Customer 0028,Electronics,Laptop,North,Uttar Pradesh,2,0.15,93627.76,3091.06,2026,1,Jan,0.033,Profit
+ORD00268,2026-01-04,CUST0132,Customer 0132,Electronics,Webcam,East,Jharkhand,1,0.15,3985.12,496.75,2026,1,Jan,0.1247,Profit
+ORD00967,2026-01-04,CUST0012,Customer 0012,Electronics,Laptop,West,Maharashtra,3,0.05,149701.14,34289.47,2026,1,Jan,0.2291,Profit
+ORD00797,2026-01-05,CUST0181,Customer 0181,Accessories,Keyboard,South,Tamil Nadu,3,0.15,5265.07,701.66,2026,1,Jan,0.1333,Profit
+ORD00770,2026-01-05,CUST0102,Customer 0102,Electronics,Headphones,East,Bihar,4,0.1,11616.58,1949.21,2026,1,Jan,0.1678,Profit
+ORD00293,2026-01-05,CUST0065,Customer 0065,Electronics,Monitor,East,Odisha,4,0,56500.70,18003.75,2026,1,Jan,0.3186,Profit
+ORD00512,2026-01-06,CUST0155,Customer 0155,Stationery,Pen Set,South,Kerala,4,0.1,931.72,128.06,2026,1,Jan,0.1374,Profit
+ORD01034,2026-01-06,CUST0162,Customer 0162,Stationery,Pen Set,South,Kerala,3,0.2,595.73,-12.07,2026,1,Jan,-0.0203,Loss
+ORD01087,2026-01-07,CUST0086,Customer 0086,Accessories,Backpack,North,Punjab,2,0.1,2985.91,479.63,2026,1,Jan,0.1606,Profit
+ORD00966,2026-01-07,CUST0003,Customer 0003,Electronics,Smartphone,North,Delhi,5,0,131989.80,30610.86,2026,1,Jan,0.2319,Profit
+ORD00638,2026-01-07,CUST0022,Customer 0022,Furniture,Bookshelf,East,Odisha,4,0.2,21972.10,-924.25,2026,1,Jan,-0.0421,Loss
+ORD00835,2026-01-07,CUST0176,Customer 0176,Electronics,Smartphone,West,Gujarat,4,0,119343.42,28810.08,2026,1,Jan,0.2414,Profit
+ORD01177,2026-01-08,CUST0091,Customer 0091,Electronics,Smartphone,South,Kerala,4,0.1,108640.52,2933.69,2026,1,Jan,0.027,Profit
+ORD00734,2026-01-08,CUST0073,Customer 0073,Electronics,Monitor,East,Bihar,3,0.2,37757.69,-1495.28,2026,1,Jan,-0.0396,Loss
+ORD00895,2026-01-08,CUST0086,Customer 0086,Electronics,Tablet,West,Maharashtra,2,0.15,40210.31,764.29,2026,1,Jan,0.019,Profit
+ORD00008,2026-01-09,CUST0042,Customer 0042,Accessories,Mouse,North,Punjab,3,0,3662.86,1046.74,2026,1,Jan,0.2858,Profit
+ORD00384,2026-01-09,CUST0019,Customer 0019,Accessories,Mouse,East,West Bengal,3,0.1,3148.04,86.85,2026,1,Jan,0.0276,Profit
+ORD00297,2026-01-09,CUST0030,Customer 0030,Electronics,Webcam,West,Goa,5,0.05,21996.46,3704.21,2026,1,Jan,0.1684,Profit
+ORD00121,2026-01-09,CUST0188,Customer 0188,Electronics,Headphones,South,Karnataka,3,0.15,8461.81,1429.23,2026,1,Jan,0.1689,Profit
+ORD00122,2026-01-10,CUST0136,Customer 0136,Furniture,Bookshelf,North,Punjab,3,0.15,19184.85,2504.68,2026,1,Jan,0.1306,Profit
+ORD00124,2026-01-10,CUST0024,Customer 0024,Accessories,Backpack,East,West Bengal,3,0.2,4059.82,234.87,2026,1,Jan,0.0579,Profit
+ORD00751,2026-01-10,CUST0094,Customer 0094,Electronics,Headphones,South,Kerala,2,0.1,6036.54,1323.26,2026,1,Jan,0.2192,Profit
+ORD00600,2026-01-11,CUST0150,Customer 0150,Electronics,Monitor,West,Gujarat,3,0,45507.51,9383.06,2026,1,Jan,0.2062,Profit
+ORD00812,2026-01-11,CUST0090,Customer 0090,Accessories,Backpack,South,Karnataka,4,0,7117.23,865.54,2026,1,Jan,0.1216,Profit
+ORD00867,2026-01-12,CUST0132,Customer 0132,Electronics,Monitor,East,Jharkhand,4,0.15,49110.79,2884.93,2026,1,Jan,0.0587,Profit
+ORD01033,2026-01-13,CUST0179,Customer 0179,Electronics,Laptop,East,Jharkhand,2,0.05,104127.57,9394.09,2026,1,Jan,0.0902,Profit
+ORD00328,2026-01-13,CUST0117,Customer 0117,Furniture,Desk,North,Delhi,1,0.15,10420.06,374.41,2026,1,Jan,0.0359,Profit
+ORD00914,2026-01-14,CUST0031,Customer 0031,Electronics,Printer,East,West Bengal,1,0.1,12744.68,3001.28,2026,1,Jan,0.2355,Profit
+ORD01092,2026-01-15,CUST0182,Customer 0182,Accessories,Backpack,West,Goa,5,0.15,7903.11,1240.13,2026,1,Jan,0.1569,Profit
+ORD00748,2026-01-15,CUST0161,Customer 0161,Furniture,Desk,South,Tamil Nadu,4,0.1,43413.72,7750.89,2026,1,Jan,0.1785,Profit
+ORD00213,2026-01-15,CUST0132,Customer 0132,Furniture,Bookshelf,South,Karnataka,2,0.15,11181.28,1053.42,2026,1,Jan,0.0942,Profit
+ORD00362,2026-01-17,CUST0118,Customer 0118,Stationery,Pen Set,South,Tamil Nadu,5,0.05,1213.57,244.16,2026,1,Jan,0.2012,Profit
+ORD00143,2026-01-17,CUST0034,Customer 0034,Furniture,Bookshelf,South,Karnataka,1,0.15,5810.63,252.47,2026,1,Jan,0.0434,Profit
+ORD01180,2026-01-18,CUST0022,Customer 0022,Stationery,Notebook,East,Jharkhand,3,0,550.42,105.25,2026,1,Jan,0.1912,Profit
+ORD01031,2026-01-18,CUST0099,Customer 0099,Furniture,Desk,North,Delhi,4,0,51782.19,15281.16,2026,1,Jan,0.2951,Profit
+ORD00178,2026-01-18,CUST0061,Customer 0061,Furniture,Office Chair,South,Karnataka,2,0,17477.81,5246.55,2026,1,Jan,0.3002,Profit
+ORD00933,2026-01-18,CUST0139,Customer 0139,Electronics,Headphones,West,Goa,4,0.2,11113.52,1664.25,2026,1,Jan,0.1498,Profit
+ORD00021,2026-01-18,CUST0113,Customer 0113,Electronics,Webcam,East,West Bengal,2,0.05,7953.59,2225.28,2026,1,Jan,0.2798,Profit
+ORD00422,2026-01-19,CUST0144,Customer 0144,Stationery,Notebook,North,Haryana,1,0.15,142.32,-4.64,2026,1,Jan,-0.0326,Loss
+ORD00072,2026-01-20,CUST0102,Customer 0102,Stationery,Pen Set,West,Maharashtra,5,0.05,1111.86,135.18,2026,1,Jan,0.1216,Profit
+ORD00253,2026-01-20,CUST0021,Customer 0021,Stationery,Notebook,West,Goa,3,0,512.22,108.87,2026,1,Jan,0.2125,Profit
+ORD00286,2026-01-20,CUST0111,Customer 0111,Electronics,Headphones,East,West Bengal,5,0.1,16501.10,1418.70,2026,1,Jan,0.086,Profit
+ORD00808,2026-01-21,CUST0114,Customer 0114,Furniture,Desk,South,Tamil Nadu,2,0.2,19689.71,-883.00,2026,1,Jan,-0.0448,Loss
+ORD00615,2026-01-21,CUST0150,Customer 0150,Electronics,Webcam,South,Karnataka,2,0,8688.98,1409.03,2026,1,Jan,0.1622,Profit
+ORD00843,2026-01-22,CUST0147,Customer 0147,Electronics,Monitor,South,Tamil Nadu,5,0.2,61215.62,-4695.93,2026,1,Jan,-0.0767,Loss
+ORD01008,2026-01-22,CUST0197,Customer 0197,Electronics,Monitor,West,Gujarat,2,0.05,26636.72,5205.75,2026,1,Jan,0.1954,Profit
+ORD00107,2026-01-22,CUST0117,Customer 0117,Electronics,Webcam,North,Punjab,2,0.2,7065.18,-452.20,2026,1,Jan,-0.064,Loss
+ORD00816,2026-01-22,CUST0147,Customer 0147,Furniture,Office Chair,North,Delhi,4,0,37099.38,10343.99,2026,1,Jan,0.2788,Profit
+ORD00935,2026-01-25,CUST0090,Customer 0090,Electronics,Tablet,West,Goa,5,0.1,91800.48,7360.71,2026,1,Jan,0.0802,Profit
+ORD00063,2026-01-25,CUST0123,Customer 0123,Electronics,Laptop,North,Haryana,4,0.15,188143.56,5107.14,2026,1,Jan,0.0271,Profit
+ORD01165,2026-01-25,CUST0043,Customer 0043,Electronics,Laptop,North,Uttar Pradesh,2,0.1,92797.07,21079.19,2026,1,Jan,0.2272,Profit
+ORD00226,2026-01-25,CUST0038,Customer 0038,Electronics,Tablet,West,Maharashtra,5,0,104557.80,24235.69,2026,1,Jan,0.2318,Profit
+ORD00475,2026-01-26,CUST0100,Customer 0100,Furniture,Office Chair,North,Delhi,1,0.1,7715.20,396.30,2026,1,Jan,0.0514,Profit
+ORD00118,2026-01-26,CUST0147,Customer 0147,Accessories,Mouse,North,Haryana,1,0.15,983.20,65.72,2026,1,Jan,0.0668,Profit
+ORD01072,2026-01-27,CUST0071,Customer 0071,Stationery,Notebook,East,Bihar,1,0,168.96,49.94,2026,1,Jan,0.2956,Profit
+ORD00699,2026-01-28,CUST0061,Customer 0061,Stationery,Notebook,East,Odisha,2,0.2,298.80,19.04,2026,1,Jan,0.0637,Profit
+ORD00340,2026-01-29,CUST0090,Customer 0090,Furniture,Office Chair,North,Punjab,2,0.1,16574.86,3137.56,2026,1,Jan,0.1893,Profit
+ORD00930,2026-01-30,CUST0030,Customer 0030,Accessories,Keyboard,South,Karnataka,4,0.2,6935.33,200.83,2026,1,Jan,0.029,Profit
+ORD01151,2026-01-30,CUST0091,Customer 0091,Accessories,Mouse,East,Jharkhand,4,0.15,4146.42,208.20,2026,1,Jan,0.0502,Profit
+ORD00455,2026-01-30,CUST0039,Customer 0039,Electronics,Tablet,South,Tamil Nadu,2,0.2,37164.70,-2340.18,2026,1,Jan,-0.063,Loss
+ORD00621,2026-02-01,CUST0008,Customer 0008,Furniture,Bookshelf,North,Punjab,2,0.1,13400.71,1319.43,2026,2,Feb,0.0985,Profit
+ORD00198,2026-02-01,CUST0144,Customer 0144,Electronics,Smartphone,North,Haryana,4,0.05,114850.12,25736.66,2026,2,Feb,0.2241,Profit
+ORD00587,2026-02-01,CUST0049,Customer 0049,Furniture,Bookshelf,East,Odisha,5,0.1,30605.90,3122.45,2026,2,Feb,0.102,Profit
+ORD00467,2026-02-01,CUST0169,Customer 0169,Electronics,Printer,North,Uttar Pradesh,4,0.2,47781.24,-1939.62,2026,2,Feb,-0.0406,Loss
+ORD01015,2026-02-02,CUST0174,Customer 0174,Electronics,Webcam,West,Gujarat,2,0.1,8719.52,840.23,2026,2,Feb,0.0964,Profit
+ORD00283,2026-02-03,CUST0174,Customer 0174,Electronics,Webcam,North,Uttar Pradesh,2,0,9001.14,1126.36,2026,2,Feb,0.1251,Profit
+ORD01090,2026-02-03,CUST0047,Customer 0047,Accessories,Mouse,East,Jharkhand,5,0.05,5480.26,765.32,2026,2,Feb,0.1397,Profit
+ORD00659,2026-02-03,CUST0048,Customer 0048,Electronics,Printer,South,Karnataka,3,0,40464.46,12246.18,2026,2,Feb,0.3026,Profit
+ORD00561,2026-02-04,CUST0080,Customer 0080,Electronics,Monitor,West,Goa,3,0.15,39024.06,6599.41,2026,2,Feb,0.1691,Profit
+ORD01066,2026-02-05,CUST0019,Customer 0019,Furniture,Bookshelf,North,Haryana,2,0.2,11009.64,1291.15,2026,2,Feb,0.1173,Profit
+ORD00704,2026-02-05,CUST0119,Customer 0119,Accessories,Backpack,West,Goa,5,0.05,8577.29,1213.97,2026,2,Feb,0.1415,Profit
+ORD00387,2026-02-05,CUST0198,Customer 0198,Electronics,Printer,South,Kerala,5,0.1,67244.07,1979.50,2026,2,Feb,0.0294,Profit
+ORD00989,2026-02-05,CUST0098,Customer 0098,Electronics,Monitor,East,West Bengal,5,0.15,60571.05,10565.89,2026,2,Feb,0.1744,Profit
+ORD00342,2026-02-06,CUST0076,Customer 0076,Stationery,Notebook,South,Kerala,4,0.15,574.08,47.33,2026,2,Feb,0.0824,Profit
+ORD00873,2026-02-07,CUST0012,Customer 0012,Electronics,Smartphone,East,Bihar,3,0.2,69609.47,-2738.33,2026,2,Feb,-0.0393,Loss
+ORD00364,2026-02-07,CUST0180,Customer 0180,Electronics,Tablet,North,Haryana,4,0.1,75824.32,2636.08,2026,2,Feb,0.0348,Profit
+ORD00940,2026-02-07,CUST0138,Customer 0138,Electronics,Smartphone,South,Tamil Nadu,4,0,109365.67,17218.94,2026,2,Feb,0.1574,Profit
+ORD01102,2026-02-08,CUST0056,Customer 0056,Electronics,Webcam,North,Delhi,4,0.2,15202.60,2061.86,2026,2,Feb,0.1356,Profit
+ORD00684,2026-02-08,CUST0161,Customer 0161,Accessories,Mouse,East,Jharkhand,4,0.15,4109.45,181.31,2026,2,Feb,0.0441,Profit
+ORD00232,2026-02-09,CUST0089,Customer 0089,Accessories,Backpack,West,Gujarat,1,0.1,1738.02,394.33,2026,2,Feb,0.2269,Profit
+ORD00852,2026-02-09,CUST0172,Customer 0172,Accessories,Mouse,West,Goa,1,0.2,910.75,97.93,2026,2,Feb,0.1075,Profit
+ORD00877,2026-02-09,CUST0078,Customer 0078,Electronics,Smartphone,West,Maharashtra,1,0.05,24948.30,7007.14,2026,2,Feb,0.2809,Profit
+ORD00294,2026-02-10,CUST0086,Customer 0086,Electronics,Tablet,East,Bihar,4,0.1,78320.77,4811.76,2026,2,Feb,0.0614,Profit
+ORD00309,2026-02-10,CUST0008,Customer 0008,Stationery,Pen Set,West,Gujarat,5,0.15,1043.60,35.67,2026,2,Feb,0.0342,Profit
+ORD00285,2026-02-11,CUST0199,Customer 0199,Accessories,Mouse,South,Karnataka,4,0.15,3902.53,272.68,2026,2,Feb,0.0699,Profit
+ORD00525,2026-02-11,CUST0194,Customer 0194,Electronics,Monitor,East,Jharkhand,2,0.1,27255.29,3732.40,2026,2,Feb,0.1369,Profit
+ORD01071,2026-02-11,CUST0126,Customer 0126,Accessories,Keyboard,West,Goa,4,0,9191.04,1351.27,2026,2,Feb,0.147,Profit
+ORD01036,2026-02-12,CUST0181,Customer 0181,Electronics,Printer,South,Kerala,4,0.05,56006.83,12936.15,2026,2,Feb,0.231,Profit
+ORD00197,2026-02-12,CUST0081,Customer 0081,Stationery,Notebook,North,Punjab,1,0,186.79,41.13,2026,2,Feb,0.2202,Profit
+ORD00996,2026-02-13,CUST0155,Customer 0155,Accessories,Backpack,West,Goa,3,0.2,4582.13,160.14,2026,2,Feb,0.0349,Profit
+ORD00141,2026-02-13,CUST0107,Customer 0107,Stationery,Pen Set,South,Karnataka,4,0.1,923.78,148.98,2026,2,Feb,0.1613,Profit
+ORD00865,2026-02-13,CUST0023,Customer 0023,Electronics,Laptop,West,Maharashtra,4,0.15,180565.28,4139.89,2026,2,Feb,0.0229,Profit
+ORD00803,2026-02-14,CUST0092,Customer 0092,Furniture,Desk,East,Jharkhand,5,0.1,50953.31,7307.44,2026,2,Feb,0.1434,Profit
+ORD00190,2026-02-14,CUST0191,Customer 0191,Furniture,Desk,East,Bihar,2,0.15,21026.91,2387.93,2026,2,Feb,0.1136,Profit
+ORD00302,2026-02-14,CUST0193,Customer 0193,Accessories,Mouse,East,West Bengal,1,0,1153.68,251.35,2026,2,Feb,0.2179,Profit
+ORD00548,2026-02-15,CUST0072,Customer 0072,Furniture,Desk,West,Goa,2,0.2,19771.43,-1058.71,2026,2,Feb,-0.0535,Loss
+ORD00530,2026-02-15,CUST0158,Customer 0158,Stationery,Notebook,North,Delhi,2,0.15,303.01,46.22,2026,2,Feb,0.1525,Profit
+ORD00157,2026-02-15,CUST0135,Customer 0135,Electronics,Smartphone,East,Bihar,3,0.05,77668.62,19325.05,2026,2,Feb,0.2488,Profit
+ORD01179,2026-02-15,CUST0105,Customer 0105,Electronics,Tablet,West,Gujarat,3,0.2,55713.17,-4903.39,2026,2,Feb,-0.088,Loss
+ORD00840,2026-02-15,CUST0052,Customer 0052,Stationery,Notebook,North,Haryana,5,0,843.96,227.94,2026,2,Feb,0.2701,Profit
+ORD00410,2026-02-16,CUST0010,Customer 0010,Furniture,Office Chair,North,Punjab,1,0.15,8165.10,-90.36,2026,2,Feb,-0.0111,Loss
+ORD00595,2026-02-16,CUST0130,Customer 0130,Accessories,Mouse,West,Goa,5,0.15,5453.75,-67.35,2026,2,Feb,-0.0123,Loss
+ORD00726,2026-02-16,CUST0084,Customer 0084,Electronics,Smartphone,West,Gujarat,2,0,56834.04,14373.28,2026,2,Feb,0.2529,Profit
+ORD00819,2026-02-16,CUST0058,Customer 0058,Electronics,Printer,South,Tamil Nadu,5,0.1,60715.52,7199.13,2026,2,Feb,0.1186,Profit
+ORD00984,2026-02-18,CUST0104,Customer 0104,Electronics,Tablet,South,Andhra Pradesh,5,0.05,110610.59,26137.20,2026,2,Feb,0.2363,Profit
+ORD00481,2026-02-18,CUST0024,Customer 0024,Accessories,Mouse,West,Maharashtra,3,0.1,3167.84,620.59,2026,2,Feb,0.1959,Profit
+ORD00802,2026-02-18,CUST0032,Customer 0032,Electronics,Monitor,East,Jharkhand,3,0.2,36539.42,-1427.81,2026,2,Feb,-0.0391,Loss
+ORD00438,2026-02-18,CUST0005,Customer 0005,Electronics,Monitor,West,Goa,2,0.05,29567.39,4732.69,2026,2,Feb,0.1601,Profit
+ORD00032,2026-02-18,CUST0031,Customer 0031,Electronics,Webcam,West,Goa,5,0,22929.77,5414.98,2026,2,Feb,0.2362,Profit
+ORD00424,2026-02-18,CUST0170,Customer 0170,Accessories,Mouse,West,Goa,1,0.15,1101.19,153.02,2026,2,Feb,0.139,Profit
+ORD00065,2026-02-19,CUST0186,Customer 0186,Electronics,Headphones,East,Odisha,5,0.2,12940.40,666.36,2026,2,Feb,0.0515,Profit
+ORD00679,2026-02-20,CUST0018,Customer 0018,Electronics,Printer,South,Andhra Pradesh,3,0.15,36528.18,6777.21,2026,2,Feb,0.1855,Profit
+ORD00515,2026-02-20,CUST0154,Customer 0154,Electronics,Printer,South,Karnataka,1,0.05,13191.90,992.09,2026,2,Feb,0.0752,Profit
+ORD00837,2026-02-21,CUST0009,Customer 0009,Accessories,Keyboard,South,Andhra Pradesh,4,0.15,7990.43,972.53,2026,2,Feb,0.1217,Profit
+ORD00796,2026-02-22,CUST0029,Customer 0029,Accessories,Backpack,North,Delhi,4,0,7222.73,1595.05,2026,2,Feb,0.2208,Profit
+ORD00931,2026-02-22,CUST0163,Customer 0163,Electronics,Monitor,South,Karnataka,5,0.2,61680.94,5453.89,2026,2,Feb,0.0884,Profit
+ORD00463,2026-02-24,CUST0028,Customer 0028,Accessories,Keyboard,West,Maharashtra,1,0.15,1784.90,10.68,2026,2,Feb,0.006,Profit
+ORD00920,2026-02-24,CUST0100,Customer 0100,Electronics,Monitor,East,Bihar,5,0,80496.95,11429.87,2026,2,Feb,0.142,Profit
+ORD00993,2026-02-25,CUST0101,Customer 0101,Electronics,Headphones,South,Kerala,5,0.15,14823.24,2724.82,2026,2,Feb,0.1838,Profit
+ORD00108,2026-02-25,CUST0012,Customer 0012,Accessories,Mouse,East,Jharkhand,4,0.05,4556.59,1259.52,2026,2,Feb,0.2764,Profit
+ORD00114,2026-02-26,CUST0145,Customer 0145,Stationery,Notebook,West,Maharashtra,2,0,366.31,89.20,2026,2,Feb,0.2435,Profit
+ORD00813,2026-02-26,CUST0090,Customer 0090,Electronics,Laptop,West,Maharashtra,2,0.1,100465.70,4233.20,2026,2,Feb,0.0421,Profit
+ORD00402,2026-02-28,CUST0194,Customer 0194,Electronics,Printer,West,Goa,1,0.15,12506.24,1269.36,2026,2,Feb,0.1015,Profit
+ORD00626,2026-02-28,CUST0106,Customer 0106,Accessories,Keyboard,East,Bihar,2,0.05,3917.01,960.91,2026,2,Feb,0.2453,Profit
+ORD00327,2026-03-01,CUST0097,Customer 0097,Furniture,Desk,South,Tamil Nadu,4,0.2,39934.79,-945.49,2026,3,Mar,-0.0237,Loss
+ORD00774,2026-03-01,CUST0045,Customer 0045,Furniture,Bookshelf,East,Odisha,2,0.05,14007.10,3127.38,2026,3,Mar,0.2233,Profit
+ORD00897,2026-03-01,CUST0093,Customer 0093,Stationery,Notebook,West,Maharashtra,5,0.15,800.16,134.06,2026,3,Mar,0.1675,Profit
+ORD00594,2026-03-02,CUST0192,Customer 0192,Electronics,Smartphone,North,Uttar Pradesh,4,0,106029.22,30103.89,2026,3,Mar,0.2839,Profit
+ORD00346,2026-03-02,CUST0109,Customer 0109,Stationery,Pen Set,East,West Bengal,5,0.2,1018.57,82.13,2026,3,Mar,0.0806,Profit
+ORD01144,2026-03-02,CUST0037,Customer 0037,Electronics,Laptop,West,Maharashtra,2,0.15,91785.33,10726.79,2026,3,Mar,0.1169,Profit
+ORD00263,2026-03-03,CUST0143,Customer 0143,Furniture,Bookshelf,West,Gujarat,2,0.1,12001.93,1208.98,2026,3,Mar,0.1007,Profit
+ORD00210,2026-03-03,CUST0159,Customer 0159,Stationery,Notebook,South,Andhra Pradesh,5,0.1,828.39,146.88,2026,3,Mar,0.1773,Profit
+ORD00860,2026-03-03,CUST0020,Customer 0020,Electronics,Monitor,East,West Bengal,3,0,43446.83,5375.82,2026,3,Mar,0.1237,Profit
+ORD00884,2026-03-04,CUST0122,Customer 0122,Electronics,Smartphone,East,Bihar,4,0.15,87900.93,11623.38,2026,3,Mar,0.1322,Profit
+ORD00986,2026-03-04,CUST0054,Customer 0054,Furniture,Desk,East,West Bengal,3,0.05,34624.13,8905.00,2026,3,Mar,0.2572,Profit
+ORD00744,2026-03-04,CUST0012,Customer 0012,Electronics,Laptop,East,West Bengal,4,0.2,173024.06,-9071.50,2026,3,Mar,-0.0524,Loss
+ORD00270,2026-03-04,CUST0076,Customer 0076,Electronics,Headphones,West,Gujarat,2,0.15,6016.44,855.42,2026,3,Mar,0.1422,Profit
+ORD00227,2026-03-05,CUST0039,Customer 0039,Furniture,Office Chair,West,Gujarat,5,0.2,38422.20,-2620.56,2026,3,Mar,-0.0682,Loss
+ORD00314,2026-03-05,CUST0153,Customer 0153,Electronics,Headphones,East,Jharkhand,2,0.15,6079.00,223.95,2026,3,Mar,0.0368,Profit
+ORD00425,2026-03-05,CUST0104,Customer 0104,Furniture,Office Chair,South,Kerala,3,0.05,26414.65,3957.67,2026,3,Mar,0.1498,Profit
+ORD00355,2026-03-06,CUST0058,Customer 0058,Accessories,Mouse,West,Gujarat,3,0.1,3409.00,400.34,2026,3,Mar,0.1174,Profit
+ORD00128,2026-03-06,CUST0151,Customer 0151,Stationery,Pen Set,West,Gujarat,1,0.15,216.43,-4.54,2026,3,Mar,-0.021,Loss
+ORD00344,2026-03-07,CUST0094,Customer 0094,Furniture,Bookshelf,West,Gujarat,1,0,7097.85,2251.73,2026,3,Mar,0.3172,Profit
+ORD00556,2026-03-08,CUST0162,Customer 0162,Electronics,Printer,East,West Bengal,1,0.05,12967.24,2829.64,2026,3,Mar,0.2182,Profit
+ORD00336,2026-03-09,CUST0178,Customer 0178,Electronics,Headphones,East,West Bengal,2,0.15,5559.04,57.61,2026,3,Mar,0.0104,Profit
+ORD00838,2026-03-09,CUST0026,Customer 0026,Electronics,Tablet,West,Goa,3,0.2,49136.67,2200.46,2026,3,Mar,0.0448,Profit
+ORD00815,2026-03-09,CUST0146,Customer 0146,Furniture,Bookshelf,East,Bihar,1,0.15,6033.77,-192.74,2026,3,Mar,-0.0319,Loss
+ORD00181,2026-03-10,CUST0029,Customer 0029,Accessories,Backpack,North,Punjab,3,0,5009.26,1182.36,2026,3,Mar,0.236,Profit
+ORD01187,2026-03-10,CUST0070,Customer 0070,Accessories,Keyboard,West,Maharashtra,2,0,4240.83,1287.76,2026,3,Mar,0.3037,Profit
+ORD00025,2026-03-10,CUST0106,Customer 0106,Furniture,Desk,South,Tamil Nadu,1,0.15,10572.44,122.90,2026,3,Mar,0.0116,Profit
+ORD00850,2026-03-10,CUST0189,Customer 0189,Electronics,Printer,North,Delhi,1,0.2,10409.28,695.17,2026,3,Mar,0.0668,Profit
+ORD00144,2026-03-10,CUST0185,Customer 0185,Electronics,Laptop,North,Haryana,3,0,167057.05,46350.35,2026,3,Mar,0.2775,Profit
+ORD00753,2026-03-10,CUST0071,Customer 0071,Electronics,Laptop,South,Karnataka,3,0.15,139940.93,10645.96,2026,3,Mar,0.0761,Profit
+ORD00255,2026-03-11,CUST0137,Customer 0137,Furniture,Office Chair,West,Maharashtra,4,0.1,30612.15,6200.79,2026,3,Mar,0.2026,Profit
+ORD00688,2026-03-11,CUST0142,Customer 0142,Electronics,Tablet,East,Jharkhand,3,0.05,59547.86,9344.97,2026,3,Mar,0.1569,Profit
+ORD00117,2026-03-11,CUST0177,Customer 0177,Accessories,Keyboard,East,Bihar,2,0.15,3951.44,691.13,2026,3,Mar,0.1749,Profit
+ORD00772,2026-03-11,CUST0187,Customer 0187,Electronics,Webcam,East,Odisha,5,0.2,16807.90,1648.08,2026,3,Mar,0.0981,Profit
+ORD01098,2026-03-12,CUST0180,Customer 0180,Furniture,Bookshelf,North,Punjab,5,0.2,25949.75,981.86,2026,3,Mar,0.0378,Profit
+ORD01084,2026-03-12,CUST0178,Customer 0178,Electronics,Headphones,West,Maharashtra,3,0.05,10317.25,1708.01,2026,3,Mar,0.1655,Profit
+ORD00524,2026-03-13,CUST0167,Customer 0167,Electronics,Printer,North,Haryana,5,0.15,60115.66,3368.16,2026,3,Mar,0.056,Profit
+ORD00448,2026-03-13,CUST0190,Customer 0190,Electronics,Smartphone,South,Tamil Nadu,1,0.05,27295.24,6777.77,2026,3,Mar,0.2483,Profit
+ORD00040,2026-03-14,CUST0144,Customer 0144,Electronics,Laptop,South,Tamil Nadu,2,0.2,81467.28,4700.34,2026,3,Mar,0.0577,Profit
+ORD01189,2026-03-15,CUST0088,Customer 0088,Accessories,Backpack,North,Punjab,2,0.1,3469.10,476.71,2026,3,Mar,0.1374,Profit
+ORD00323,2026-03-15,CUST0043,Customer 0043,Electronics,Printer,West,Maharashtra,2,0,28313.93,6046.26,2026,3,Mar,0.2135,Profit
+ORD00332,2026-03-15,CUST0052,Customer 0052,Stationery,Pen Set,West,Goa,3,0.05,755.18,75.26,2026,3,Mar,0.0997,Profit
+ORD00972,2026-03-16,CUST0163,Customer 0163,Electronics,Monitor,South,Kerala,5,0.1,70627.55,12121.56,2026,3,Mar,0.1716,Profit
+ORD00183,2026-03-16,CUST0001,Customer 0001,Electronics,Printer,North,Punjab,5,0.15,56523.23,2417.67,2026,3,Mar,0.0428,Profit
+ORD00898,2026-03-16,CUST0106,Customer 0106,Electronics,Webcam,East,Jharkhand,5,0.1,21687.72,3168.44,2026,3,Mar,0.1461,Profit
+ORD00677,2026-03-18,CUST0112,Customer 0112,Electronics,Printer,North,Punjab,2,0,29072.36,5163.78,2026,3,Mar,0.1776,Profit
+ORD01174,2026-03-18,CUST0011,Customer 0011,Electronics,Webcam,East,Odisha,2,0.2,7323.12,-655.45,2026,3,Mar,-0.0895,Loss
+ORD01120,2026-03-18,CUST0048,Customer 0048,Accessories,Keyboard,East,Bihar,3,0.1,5570.80,533.63,2026,3,Mar,0.0958,Profit
+ORD00847,2026-03-18,CUST0053,Customer 0053,Electronics,Printer,West,Gujarat,2,0.15,22582.85,305.73,2026,3,Mar,0.0135,Profit
+ORD00882,2026-03-19,CUST0107,Customer 0107,Electronics,Tablet,East,Bihar,1,0.15,18399.84,1457.46,2026,3,Mar,0.0792,Profit
+ORD00703,2026-03-19,CUST0157,Customer 0157,Electronics,Webcam,North,Haryana,3,0.1,12737.70,2390.88,2026,3,Mar,0.1877,Profit
+ORD00466,2026-03-20,CUST0150,Customer 0150,Furniture,Desk,West,Goa,5,0.05,59102.11,15200.04,2026,3,Mar,0.2572,Profit
+ORD01027,2026-03-20,CUST0195,Customer 0195,Electronics,Headphones,East,West Bengal,4,0.15,12574.10,269.66,2026,3,Mar,0.0214,Profit
+ORD00373,2026-03-20,CUST0186,Customer 0186,Furniture,Office Chair,East,West Bengal,4,0.15,28998.06,4334.58,2026,3,Mar,0.1495,Profit
+ORD00900,2026-03-21,CUST0016,Customer 0016,Furniture,Office Chair,South,Kerala,5,0,48439.68,6006.07,2026,3,Mar,0.124,Profit
+ORD01074,2026-03-21,CUST0077,Customer 0077,Electronics,Printer,West,Maharashtra,3,0,43436.52,6409.40,2026,3,Mar,0.1476,Profit
+ORD00564,2026-03-22,CUST0135,Customer 0135,Stationery,Notebook,North,Haryana,4,0.2,550.85,70.29,2026,3,Mar,0.1276,Profit
+ORD00778,2026-03-23,CUST0067,Customer 0067,Stationery,Notebook,East,West Bengal,3,0.2,448.10,65.25,2026,3,Mar,0.1456,Profit
+ORD01198,2026-03-23,CUST0098,Customer 0098,Accessories,Keyboard,East,Bihar,5,0,11871.84,1885.39,2026,3,Mar,0.1588,Profit
+ORD01125,2026-03-23,CUST0018,Customer 0018,Furniture,Desk,East,West Bengal,2,0.2,18506.18,-1700.20,2026,3,Mar,-0.0919,Loss
+ORD00385,2026-03-24,CUST0164,Customer 0164,Furniture,Desk,North,Punjab,5,0.2,50204.10,4728.76,2026,3,Mar,0.0942,Profit
+ORD01057,2026-03-24,CUST0060,Customer 0060,Electronics,Monitor,North,Delhi,3,0,42201.95,10632.88,2026,3,Mar,0.252,Profit
+ORD00491,2026-03-25,CUST0098,Customer 0098,Furniture,Office Chair,South,Andhra Pradesh,2,0.2,13754.57,-504.63,2026,3,Mar,-0.0367,Loss
+ORD00195,2026-03-25,CUST0009,Customer 0009,Electronics,Headphones,South,Kerala,3,0.1,9272.88,1097.82,2026,3,Mar,0.1184,Profit
+ORD00165,2026-03-26,CUST0135,Customer 0135,Furniture,Bookshelf,West,Gujarat,3,0.1,18559.55,1342.62,2026,3,Mar,0.0723,Profit
+ORD00953,2026-03-26,CUST0196,Customer 0196,Electronics,Smartphone,East,West Bengal,1,0,29866.88,7303.08,2026,3,Mar,0.2445,Profit
+ORD01107,2026-03-26,CUST0042,Customer 0042,Electronics,Headphones,North,Uttar Pradesh,1,0.1,3343.32,290.33,2026,3,Mar,0.0868,Profit
+ORD00060,2026-03-27,CUST0020,Customer 0020,Stationery,Pen Set,North,Punjab,3,0.1,655.53,81.56,2026,3,Mar,0.1244,Profit
+ORD00903,2026-03-29,CUST0179,Customer 0179,Accessories,Mouse,East,Odisha,3,0,3333.29,843.66,2026,3,Mar,0.2531,Profit
+ORD01007,2026-03-29,CUST0179,Customer 0179,Electronics,Laptop,South,Andhra Pradesh,3,0.15,130206.20,25898.30,2026,3,Mar,0.1989,Profit
+ORD00053,2026-03-29,CUST0173,Customer 0173,Electronics,Monitor,East,Odisha,1,0.1,13533.38,1404.65,2026,3,Mar,0.1038,Profit
+ORD00248,2026-03-29,CUST0030,Customer 0030,Stationery,Notebook,West,Goa,5,0.15,714.93,57.13,2026,3,Mar,0.0799,Profit
+ORD00643,2026-03-29,CUST0021,Customer 0021,Electronics,Printer,South,Kerala,5,0.1,64207.24,7739.84,2026,3,Mar,0.1205,Profit
+ORD00233,2026-03-29,CUST0168,Customer 0168,Accessories,Keyboard,East,Odisha,2,0.2,3391.10,32.20,2026,3,Mar,0.0095,Profit
+ORD00413,2026-03-29,CUST0055,Customer 0055,Electronics,Webcam,East,Jharkhand,5,0.1,21290.10,2766.44,2026,3,Mar,0.1299,Profit
+ORD01178,2026-03-29,CUST0167,Customer 0167,Electronics,Webcam,West,Maharashtra,5,0.15,17716.15,-37.53,2026,3,Mar,-0.0021,Loss
+ORD00476,2026-03-30,CUST0058,Customer 0058,Electronics,Webcam,North,Punjab,2,0.1,8033.66,208.06,2026,3,Mar,0.0259,Profit
+ORD01142,2026-03-31,CUST0042,Customer 0042,Accessories,Keyboard,North,Uttar Pradesh,2,0.05,3882.97,537.86,2026,3,Mar,0.1385,Profit
+ORD00706,2026-04-02,CUST0090,Customer 0090,Electronics,Monitor,North,Haryana,2,0,27713.76,8358.79,2026,4,Apr,0.3016,Profit
+ORD00670,2026-04-02,CUST0158,Customer 0158,Accessories,Mouse,North,Haryana,2,0.2,1790.53,-144.49,2026,4,Apr,-0.0807,Loss
+ORD00681,2026-04-03,CUST0051,Customer 0051,Electronics,Monitor,North,Haryana,5,0.1,72019.82,2613.90,2026,4,Apr,0.0363,Profit
+ORD00257,2026-04-03,CUST0154,Customer 0154,Stationery,Notebook,South,Kerala,1,0.15,151.51,11.06,2026,4,Apr,0.073,Profit
+ORD00458,2026-04-04,CUST0023,Customer 0023,Electronics,Tablet,East,Jharkhand,3,0,71075.88,12150.58,2026,4,Apr,0.171,Profit
+ORD00585,2026-04-06,CUST0076,Customer 0076,Electronics,Tablet,North,Haryana,4,0,91884.92,20105.19,2026,4,Apr,0.2188,Profit
+ORD00874,2026-04-06,CUST0160,Customer 0160,Accessories,Backpack,North,Haryana,2,0.05,3247.68,412.26,2026,4,Apr,0.1269,Profit
+ORD00264,2026-04-06,CUST0095,Customer 0095,Electronics,Smartphone,West,Maharashtra,3,0.15,73384.03,4266.26,2026,4,Apr,0.0581,Profit
+ORD01193,2026-04-07,CUST0033,Customer 0033,Stationery,Notebook,East,West Bengal,1,0.05,177.72,43.49,2026,4,Apr,0.2447,Profit
+ORD00558,2026-04-07,CUST0106,Customer 0106,Electronics,Headphones,West,Maharashtra,2,0.05,6822.39,588.25,2026,4,Apr,0.0862,Profit
+ORD00164,2026-04-07,CUST0027,Customer 0027,Accessories,Backpack,North,Delhi,5,0.05,7919.55,1071.02,2026,4,Apr,0.1352,Profit
+ORD00990,2026-04-08,CUST0164,Customer 0164,Electronics,Webcam,North,Delhi,2,0,9251.84,2631.90,2026,4,Apr,0.2845,Profit
+ORD01188,2026-04-08,CUST0108,Customer 0108,Furniture,Bookshelf,West,Goa,3,0.05,21005.11,5561.08,2026,4,Apr,0.2647,Profit
+ORD00369,2026-04-09,CUST0143,Customer 0143,Stationery,Pen Set,West,Maharashtra,4,0,1048.62,306.24,2026,4,Apr,0.292,Profit
+ORD00918,2026-04-09,CUST0087,Customer 0087,Accessories,Backpack,East,Jharkhand,5,0.05,8908.35,1585.19,2026,4,Apr,0.1779,Profit
+ORD00092,2026-04-10,CUST0019,Customer 0019,Stationery,Notebook,West,Gujarat,5,0.05,844.76,143.24,2026,4,Apr,0.1696,Profit
+ORD00709,2026-04-10,CUST0071,Customer 0071,Accessories,Backpack,East,Bihar,3,0.05,5360.42,1210.56,2026,4,Apr,0.2258,Profit
+ORD00349,2026-04-10,CUST0157,Customer 0157,Electronics,Printer,South,Karnataka,2,0,25816.74,7552.89,2026,4,Apr,0.2926,Profit
+ORD00947,2026-04-10,CUST0001,Customer 0001,Furniture,Office Chair,South,Karnataka,4,0.15,29493.68,1178.54,2026,4,Apr,0.04,Profit
+ORD00131,2026-04-11,CUST0024,Customer 0024,Stationery,Notebook,West,Goa,5,0,835.28,211.57,2026,4,Apr,0.2533,Profit
+ORD00099,2026-04-11,CUST0023,Customer 0023,Accessories,Mouse,North,Haryana,1,0.15,1079.55,6.37,2026,4,Apr,0.0059,Profit
+ORD01162,2026-04-11,CUST0142,Customer 0142,Stationery,Pen Set,North,Haryana,2,0.15,454.34,61.81,2026,4,Apr,0.136,Profit
+ORD00964,2026-04-11,CUST0011,Customer 0011,Furniture,Desk,West,Maharashtra,2,0.05,22677.93,5427.72,2026,4,Apr,0.2393,Profit
+ORD00450,2026-04-13,CUST0070,Customer 0070,Electronics,Tablet,East,Jharkhand,4,0.05,78424.24,10794.97,2026,4,Apr,0.1376,Profit
+ORD00465,2026-04-14,CUST0169,Customer 0169,Electronics,Printer,West,Gujarat,1,0.2,11623.30,135.92,2026,4,Apr,0.0117,Profit
+ORD00182,2026-04-14,CUST0017,Customer 0017,Electronics,Smartphone,East,West Bengal,5,0.2,107375.53,12252.17,2026,4,Apr,0.1141,Profit
+ORD00631,2026-04-14,CUST0064,Customer 0064,Furniture,Office Chair,East,West Bengal,5,0.15,39597.63,4247.19,2026,4,Apr,0.1073,Profit
+ORD00431,2026-04-14,CUST0037,Customer 0037,Accessories,Mouse,West,Maharashtra,4,0.1,4410.57,904.83,2026,4,Apr,0.2052,Profit
+ORD00849,2026-04-15,CUST0022,Customer 0022,Electronics,Laptop,East,Odisha,3,0.15,144442.97,4644.74,2026,4,Apr,0.0322,Profit
+ORD00075,2026-04-16,CUST0182,Customer 0182,Electronics,Headphones,East,Odisha,5,0.1,16042.10,643.05,2026,4,Apr,0.0401,Profit
+ORD00747,2026-04-16,CUST0147,Customer 0147,Stationery,Pen Set,South,Andhra Pradesh,4,0.05,1006.88,200.24,2026,4,Apr,0.1989,Profit
+ORD00919,2026-04-17,CUST0195,Customer 0195,Furniture,Desk,East,Odisha,3,0,37726.91,7058.68,2026,4,Apr,0.1871,Profit
+ORD00045,2026-04-17,CUST0090,Customer 0090,Accessories,Keyboard,West,Maharashtra,1,0.05,2056.05,463.76,2026,4,Apr,0.2256,Profit
+ORD00298,2026-04-18,CUST0182,Customer 0182,Electronics,Monitor,East,Bihar,1,0.15,13102.87,2191.48,2026,4,Apr,0.1673,Profit
+ORD00844,2026-04-19,CUST0051,Customer 0051,Accessories,Keyboard,West,Maharashtra,4,0.2,6959.92,591.32,2026,4,Apr,0.085,Profit
+ORD01002,2026-04-19,CUST0007,Customer 0007,Electronics,Smartphone,East,Jharkhand,3,0.15,75464.35,8049.39,2026,4,Apr,0.1067,Profit
+ORD00869,2026-04-20,CUST0174,Customer 0174,Electronics,Monitor,West,Gujarat,5,0.2,56006.11,1845.13,2026,4,Apr,0.0329,Profit
+ORD00160,2026-04-21,CUST0194,Customer 0194,Electronics,Printer,East,Bihar,3,0.05,39515.45,7329.74,2026,4,Apr,0.1855,Profit
+ORD00212,2026-04-21,CUST0053,Customer 0053,Accessories,Mouse,West,Gujarat,3,0.1,3486.43,750.92,2026,4,Apr,0.2154,Profit
+ORD00077,2026-04-21,CUST0146,Customer 0146,Electronics,Printer,East,Bihar,1,0.15,12568.21,1975.90,2026,4,Apr,0.1572,Profit
+ORD00416,2026-04-21,CUST0130,Customer 0130,Furniture,Office Chair,South,Tamil Nadu,2,0.1,16170.94,2349.81,2026,4,Apr,0.1453,Profit
+ORD00934,2026-04-21,CUST0159,Customer 0159,Accessories,Keyboard,West,Maharashtra,1,0.15,1802.17,254.05,2026,4,Apr,0.141,Profit
+ORD01183,2026-04-22,CUST0028,Customer 0028,Electronics,Smartphone,West,Goa,1,0.15,24821.37,3799.30,2026,4,Apr,0.1531,Profit
+ORD00672,2026-04-22,CUST0121,Customer 0121,Electronics,Monitor,West,Maharashtra,5,0.1,71958.91,11320.31,2026,4,Apr,0.1573,Profit
+ORD00671,2026-04-22,CUST0146,Customer 0146,Electronics,Headphones,South,Andhra Pradesh,1,0.15,2884.75,139.54,2026,4,Apr,0.0484,Profit
+ORD00116,2026-04-22,CUST0074,Customer 0074,Stationery,Notebook,West,Maharashtra,4,0.1,698.56,124.32,2026,4,Apr,0.178,Profit
+ORD00948,2026-04-23,CUST0127,Customer 0127,Accessories,Mouse,South,Kerala,1,0.1,1152.30,145.34,2026,4,Apr,0.1261,Profit
+ORD00062,2026-04-23,CUST0107,Customer 0107,Electronics,Laptop,West,Gujarat,4,0.2,188561.11,27363.43,2026,4,Apr,0.1451,Profit
+ORD00823,2026-04-24,CUST0069,Customer 0069,Electronics,Webcam,East,West Bengal,5,0.05,20910.82,5292.67,2026,4,Apr,0.2531,Profit
+ORD01053,2026-04-24,CUST0044,Customer 0044,Electronics,Webcam,East,West Bengal,4,0.2,13803.04,1340.14,2026,4,Apr,0.0971,Profit
+ORD00963,2026-04-24,CUST0154,Customer 0154,Stationery,Pen Set,North,Haryana,5,0.1,1110.37,231.39,2026,4,Apr,0.2084,Profit
+ORD00886,2026-04-25,CUST0034,Customer 0034,Electronics,Webcam,North,Uttar Pradesh,4,0.1,16967.16,1132.07,2026,4,Apr,0.0667,Profit
+ORD00591,2026-04-25,CUST0164,Customer 0164,Electronics,Laptop,North,Uttar Pradesh,3,0,173544.17,46307.98,2026,4,Apr,0.2668,Profit
+ORD00174,2026-04-26,CUST0050,Customer 0050,Accessories,Mouse,East,Jharkhand,3,0.15,3061.42,310.71,2026,4,Apr,0.1015,Profit
+ORD00857,2026-04-27,CUST0067,Customer 0067,Electronics,Headphones,East,Jharkhand,1,0.15,2756.42,320.06,2026,4,Apr,0.1161,Profit
+ORD00429,2026-04-27,CUST0014,Customer 0014,Electronics,Tablet,South,Andhra Pradesh,2,0.2,33058.80,-666.95,2026,4,Apr,-0.0202,Loss
+ORD00503,2026-04-29,CUST0168,Customer 0168,Accessories,Backpack,West,Gujarat,4,0.05,7268.39,1163.55,2026,4,Apr,0.1601,Profit
+ORD00262,2026-04-30,CUST0062,Customer 0062,Electronics,Tablet,West,Gujarat,2,0.15,39881.81,2698.96,2026,4,Apr,0.0677,Profit
+ORD00952,2026-04-30,CUST0062,Customer 0062,Accessories,Mouse,South,Karnataka,5,0.05,6104.52,738.01,2026,4,Apr,0.1209,Profit
+ORD00024,2026-04-30,CUST0063,Customer 0063,Accessories,Backpack,East,Jharkhand,2,0,3367.83,787.36,2026,4,Apr,0.2338,Profit
+ORD00550,2026-04-30,CUST0003,Customer 0003,Electronics,Headphones,East,Jharkhand,2,0.2,5630.45,400.15,2026,4,Apr,0.0711,Profit
+ORD00222,2026-05-01,CUST0133,Customer 0133,Furniture,Desk,West,Goa,5,0.05,55431.05,8599.77,2026,5,May,0.1551,Profit
+ORD00417,2026-05-01,CUST0151,Customer 0151,Furniture,Bookshelf,North,Haryana,2,0.1,13101.91,1197.08,2026,5,May,0.0914,Profit
+ORD01155,2026-05-01,CUST0035,Customer 0035,Electronics,Webcam,South,Tamil Nadu,3,0.1,12827.97,664.85,2026,5,May,0.0518,Profit
+ORD00281,2026-05-02,CUST0070,Customer 0070,Electronics,Laptop,South,Karnataka,5,0.2,225565.45,23720.78,2026,5,May,0.1052,Profit
+ORD00773,2026-05-02,CUST0135,Customer 0135,Accessories,Mouse,South,Andhra Pradesh,1,0,1182.62,162.16,2026,5,May,0.1371,Profit
+ORD00403,2026-05-02,CUST0147,Customer 0147,Electronics,Webcam,West,Gujarat,3,0,13272.78,1980.46,2026,5,May,0.1492,Profit
+ORD00685,2026-05-02,CUST0036,Customer 0036,Electronics,Monitor,East,Bihar,4,0.05,55070.85,5533.33,2026,5,May,0.1005,Profit
+ORD00059,2026-05-02,CUST0116,Customer 0116,Accessories,Keyboard,West,Goa,3,0.2,5266.99,475.02,2026,5,May,0.0902,Profit
+ORD00279,2026-05-03,CUST0015,Customer 0015,Stationery,Notebook,South,Kerala,1,0.15,161.45,7.79,2026,5,May,0.0483,Profit
+ORD00939,2026-05-03,CUST0002,Customer 0002,Electronics,Webcam,South,Kerala,4,0.2,15310.70,-395.40,2026,5,May,-0.0258,Loss
+ORD00552,2026-05-03,CUST0162,Customer 0162,Electronics,Smartphone,East,Bihar,3,0.1,73910.27,8910.43,2026,5,May,0.1206,Profit
+ORD00426,2026-05-03,CUST0172,Customer 0172,Accessories,Mouse,North,Punjab,5,0.05,5511.93,1020.25,2026,5,May,0.1851,Profit
+ORD00080,2026-05-03,CUST0166,Customer 0166,Stationery,Pen Set,East,Jharkhand,1,0,241.77,57.81,2026,5,May,0.2391,Profit
+ORD00628,2026-05-04,CUST0035,Customer 0035,Furniture,Bookshelf,East,Bihar,2,0.15,11883.71,1992.23,2026,5,May,0.1676,Profit
+ORD00876,2026-05-04,CUST0118,Customer 0118,Stationery,Pen Set,East,Jharkhand,3,0.2,630.06,-2.64,2026,5,May,-0.0042,Loss
+ORD01150,2026-05-05,CUST0018,Customer 0018,Electronics,Smartphone,East,Bihar,2,0,54414.56,16024.70,2026,5,May,0.2945,Profit
+ORD00752,2026-05-05,CUST0189,Customer 0189,Accessories,Backpack,West,Goa,2,0.1,3163.65,585.38,2026,5,May,0.185,Profit
+ORD00513,2026-05-06,CUST0123,Customer 0123,Electronics,Monitor,West,Goa,4,0,57539.23,16940.87,2026,5,May,0.2944,Profit
+ORD00300,2026-05-06,CUST0150,Customer 0150,Furniture,Office Chair,East,West Bengal,3,0.2,21924.24,-1723.25,2026,5,May,-0.0786,Loss
+ORD00862,2026-05-07,CUST0117,Customer 0117,Stationery,Notebook,North,Delhi,3,0,553.49,71.85,2026,5,May,0.1298,Profit
+ORD00231,2026-05-07,CUST0090,Customer 0090,Furniture,Bookshelf,North,Haryana,1,0.2,5758.25,317.14,2026,5,May,0.0551,Profit
+ORD00471,2026-05-07,CUST0150,Customer 0150,Electronics,Printer,East,Bihar,4,0,56203.66,17701.09,2026,5,May,0.3149,Profit
+ORD00398,2026-05-07,CUST0052,Customer 0052,Electronics,Smartphone,South,Kerala,2,0.1,54246.99,7551.53,2026,5,May,0.1392,Profit
+ORD00500,2026-05-07,CUST0119,Customer 0119,Furniture,Desk,North,Haryana,4,0.2,35996.67,-409.92,2026,5,May,-0.0114,Loss
+ORD00965,2026-05-08,CUST0189,Customer 0189,Accessories,Backpack,North,Uttar Pradesh,2,0.15,2905.41,-95.62,2026,5,May,-0.0329,Loss
+ORD01026,2026-05-08,CUST0021,Customer 0021,Accessories,Mouse,East,Jharkhand,2,0.15,2020.87,163.91,2026,5,May,0.0811,Profit
+ORD00445,2026-05-08,CUST0085,Customer 0085,Electronics,Monitor,South,Tamil Nadu,1,0,15804.56,2942.74,2026,5,May,0.1862,Profit
+ORD00716,2026-05-09,CUST0032,Customer 0032,Electronics,Printer,North,Haryana,3,0.15,33159.27,-1147.05,2026,5,May,-0.0346,Loss
+ORD00521,2026-05-09,CUST0197,Customer 0197,Furniture,Office Chair,North,Delhi,4,0.05,32856.72,4040.62,2026,5,May,0.123,Profit
+ORD00516,2026-05-09,CUST0044,Customer 0044,Electronics,Monitor,East,Odisha,5,0.05,72654.61,12836.08,2026,5,May,0.1767,Profit
+ORD00145,2026-05-09,CUST0058,Customer 0058,Electronics,Tablet,South,Karnataka,5,0.1,92899.78,16957.96,2026,5,May,0.1825,Profit
+ORD00656,2026-05-09,CUST0040,Customer 0040,Stationery,Notebook,East,Bihar,4,0.15,653.89,122.16,2026,5,May,0.1868,Profit
+ORD00690,2026-05-10,CUST0181,Customer 0181,Accessories,Mouse,South,Andhra Pradesh,1,0.05,1181.99,204.95,2026,5,May,0.1734,Profit
+ORD00076,2026-05-11,CUST0120,Customer 0120,Furniture,Office Chair,North,Haryana,2,0,17363.31,3990.77,2026,5,May,0.2298,Profit
+ORD00858,2026-05-12,CUST0118,Customer 0118,Furniture,Desk,South,Kerala,1,0.1,10097.70,520.20,2026,5,May,0.0515,Profit
+ORD01044,2026-05-12,CUST0173,Customer 0173,Accessories,Backpack,South,Tamil Nadu,1,0.1,1685.27,409.25,2026,5,May,0.2428,Profit
+ORD00102,2026-05-12,CUST0032,Customer 0032,Electronics,Laptop,West,Goa,2,0.1,99805.29,12148.49,2026,5,May,0.1217,Profit
+ORD00409,2026-05-13,CUST0147,Customer 0147,Electronics,Printer,East,West Bengal,2,0.1,24808.79,2655.95,2026,5,May,0.1071,Profit
+ORD00589,2026-05-13,CUST0050,Customer 0050,Electronics,Smartphone,South,Andhra Pradesh,4,0.2,91377.24,221.57,2026,5,May,0.0024,Profit
+ORD01046,2026-05-13,CUST0122,Customer 0122,Accessories,Backpack,North,Uttar Pradesh,3,0.1,5001.41,841.26,2026,5,May,0.1682,Profit
+ORD00551,2026-05-14,CUST0077,Customer 0077,Accessories,Keyboard,South,Andhra Pradesh,1,0.05,1942.88,219.32,2026,5,May,0.1129,Profit
+ORD00678,2026-05-14,CUST0030,Customer 0030,Electronics,Printer,East,Bihar,5,0,73606.66,20960.62,2026,5,May,0.2848,Profit
+ORD00883,2026-05-15,CUST0060,Customer 0060,Stationery,Pen Set,South,Tamil Nadu,4,0.2,776.43,104.14,2026,5,May,0.1341,Profit
+ORD00991,2026-05-16,CUST0007,Customer 0007,Electronics,Headphones,West,Maharashtra,4,0.1,12007.08,2158.33,2026,5,May,0.1798,Profit
+ORD00742,2026-05-16,CUST0056,Customer 0056,Electronics,Printer,East,Jharkhand,3,0,43545.72,7523.14,2026,5,May,0.1728,Profit
+ORD00912,2026-05-17,CUST0188,Customer 0188,Furniture,Office Chair,West,Maharashtra,5,0.05,42645.79,8011.01,2026,5,May,0.1878,Profit
+ORD00199,2026-05-18,CUST0052,Customer 0052,Electronics,Smartphone,West,Maharashtra,4,0.05,113187.11,21562.47,2026,5,May,0.1905,Profit
+ORD00810,2026-05-18,CUST0169,Customer 0169,Furniture,Bookshelf,East,Jharkhand,5,0.05,33285.56,6717.48,2026,5,May,0.2018,Profit
+ORD01137,2026-05-18,CUST0187,Customer 0187,Electronics,Headphones,North,Delhi,3,0.05,10589.86,1187.18,2026,5,May,0.1121,Profit
+ORD00397,2026-05-18,CUST0040,Customer 0040,Electronics,Laptop,North,Delhi,4,0,212768.14,39914.44,2026,5,May,0.1876,Profit
+ORD00775,2026-05-18,CUST0011,Customer 0011,Electronics,Tablet,North,Haryana,4,0.2,73101.74,6862.06,2026,5,May,0.0939,Profit
+ORD00715,2026-05-18,CUST0123,Customer 0123,Furniture,Office Chair,East,West Bengal,5,0.05,39352.62,3279.48,2026,5,May,0.0833,Profit
+ORD00888,2026-05-19,CUST0026,Customer 0026,Accessories,Backpack,East,Jharkhand,3,0.05,4891.50,1341.76,2026,5,May,0.2743,Profit
+ORD00361,2026-05-19,CUST0016,Customer 0016,Electronics,Headphones,North,Delhi,1,0.05,3536.36,618.11,2026,5,May,0.1748,Profit
+ORD01039,2026-05-19,CUST0001,Customer 0001,Electronics,Smartphone,South,Andhra Pradesh,5,0.15,121942.08,3355.78,2026,5,May,0.0275,Profit
+ORD00925,2026-05-19,CUST0006,Customer 0006,Accessories,Mouse,East,Odisha,4,0,5076.21,1302.17,2026,5,May,0.2565,Profit
+ORD00292,2026-05-20,CUST0038,Customer 0038,Electronics,Smartphone,West,Gujarat,3,0.15,69112.37,1094.96,2026,5,May,0.0158,Profit
+ORD00853,2026-05-20,CUST0087,Customer 0087,Electronics,Webcam,East,Odisha,1,0.1,4186.25,620.56,2026,5,May,0.1482,Profit
+ORD01096,2026-05-20,CUST0003,Customer 0003,Furniture,Office Chair,West,Gujarat,4,0.2,29653.04,-569.15,2026,5,May,-0.0192,Loss
+ORD00013,2026-05-21,CUST0024,Customer 0024,Accessories,Backpack,South,Tamil Nadu,2,0.05,3579.83,699.27,2026,5,May,0.1953,Profit
+ORD00846,2026-05-22,CUST0031,Customer 0031,Electronics,Monitor,West,Maharashtra,3,0.1,42096.95,6716.11,2026,5,May,0.1595,Profit
+ORD00976,2026-05-22,CUST0122,Customer 0122,Accessories,Keyboard,East,West Bengal,2,0.05,4444.10,840.09,2026,5,May,0.189,Profit
+ORD01063,2026-05-22,CUST0075,Customer 0075,Stationery,Pen Set,East,West Bengal,3,0.05,749.88,179.88,2026,5,May,0.2399,Profit
+ORD00811,2026-05-22,CUST0152,Customer 0152,Furniture,Office Chair,North,Haryana,3,0,24961.59,7762.46,2026,5,May,0.311,Profit
+ORD00317,2026-05-22,CUST0105,Customer 0105,Stationery,Notebook,East,Jharkhand,4,0.15,579.42,38.80,2026,5,May,0.067,Profit
+ORD00056,2026-05-22,CUST0103,Customer 0103,Electronics,Monitor,West,Goa,1,0,15668.21,4328.06,2026,5,May,0.2762,Profit
+ORD00319,2026-05-23,CUST0141,Customer 0141,Furniture,Bookshelf,South,Tamil Nadu,3,0.2,17668.98,1029.82,2026,5,May,0.0583,Profit
+ORD00817,2026-05-24,CUST0129,Customer 0129,Accessories,Backpack,North,Punjab,5,0.1,7922.88,1169.08,2026,5,May,0.1476,Profit
+ORD00818,2026-05-24,CUST0163,Customer 0163,Electronics,Tablet,South,Kerala,3,0.1,55099.74,1270.63,2026,5,May,0.0231,Profit
+ORD00980,2026-05-25,CUST0082,Customer 0082,Accessories,Keyboard,East,West Bengal,2,0.15,3580.70,172.42,2026,5,May,0.0482,Profit
+ORD01175,2026-05-25,CUST0025,Customer 0025,Accessories,Backpack,South,Kerala,3,0.2,4574.04,-225.71,2026,5,May,-0.0493,Loss
+ORD00651,2026-05-25,CUST0127,Customer 0127,Accessories,Backpack,West,Goa,2,0.1,3488.45,851.51,2026,5,May,0.2441,Profit
+ORD00101,2026-05-26,CUST0161,Customer 0161,Furniture,Desk,South,Kerala,3,0.2,27099.71,2113.58,2026,5,May,0.078,Profit
+ORD00689,2026-05-26,CUST0188,Customer 0188,Electronics,Monitor,North,Uttar Pradesh,5,0.2,58722.91,-5552.74,2026,5,May,-0.0946,Loss
+ORD01014,2026-05-27,CUST0027,Customer 0027,Stationery,Pen Set,West,Gujarat,1,0.2,194.38,-1.50,2026,5,May,-0.0077,Loss
+ORD01196,2026-05-27,CUST0167,Customer 0167,Furniture,Desk,East,Jharkhand,3,0.1,34101.32,5108.77,2026,5,May,0.1498,Profit
+ORD00304,2026-05-28,CUST0039,Customer 0039,Accessories,Mouse,South,Andhra Pradesh,1,0.1,1065.48,32.74,2026,5,May,0.0307,Profit
+ORD00109,2026-05-30,CUST0152,Customer 0152,Accessories,Mouse,South,Andhra Pradesh,1,0.2,1023.04,149.53,2026,5,May,0.1462,Profit
+ORD00377,2026-05-30,CUST0083,Customer 0083,Furniture,Office Chair,North,Punjab,1,0.1,8225.86,1957.20,2026,5,May,0.2379,Profit
+ORD00606,2026-06-01,CUST0024,Customer 0024,Electronics,Monitor,East,Bihar,4,0.05,53645.56,14314.38,2026,6,Jun,0.2668,Profit
+ORD00793,2026-06-02,CUST0146,Customer 0146,Electronics,Smartphone,South,Tamil Nadu,5,0.05,137592.47,11173.56,2026,6,Jun,0.0812,Profit
+ORD00654,2026-06-03,CUST0141,Customer 0141,Accessories,Mouse,South,Tamil Nadu,3,0.1,3186.11,376.01,2026,6,Jun,0.118,Profit
+ORD00975,2026-06-06,CUST0096,Customer 0096,Furniture,Desk,East,Odisha,3,0.1,32532.07,4458.36,2026,6,Jun,0.137,Profit
+ORD00104,2026-06-06,CUST0181,Customer 0181,Accessories,Keyboard,East,Jharkhand,4,0.05,8302.20,2106.76,2026,6,Jun,0.2538,Profit
+ORD01073,2026-06-06,CUST0058,Customer 0058,Electronics,Laptop,East,Bihar,1,0.2,41754.92,1208.89,2026,6,Jun,0.029,Profit
+ORD00158,2026-06-07,CUST0163,Customer 0163,Electronics,Smartphone,West,Gujarat,3,0.05,76432.68,19366.52,2026,6,Jun,0.2534,Profit
+ORD01085,2026-06-08,CUST0155,Customer 0155,Electronics,Headphones,East,Odisha,3,0.15,8752.13,-234.80,2026,6,Jun,-0.0268,Loss
+ORD00469,2026-06-09,CUST0077,Customer 0077,Electronics,Tablet,North,Punjab,2,0.05,42630.43,9508.11,2026,6,Jun,0.223,Profit
+ORD00151,2026-06-09,CUST0030,Customer 0030,Accessories,Mouse,East,West Bengal,3,0.2,2873.84,-48.23,2026,6,Jun,-0.0168,Loss
+ORD00693,2026-06-09,CUST0121,Customer 0121,Electronics,Printer,North,Uttar Pradesh,3,0.1,36525.13,8641.63,2026,6,Jun,0.2366,Profit
+ORD00289,2026-06-09,CUST0105,Customer 0105,Electronics,Smartphone,South,Tamil Nadu,3,0.2,62824.63,30.73,2026,6,Jun,0.0005,Profit
+ORD00913,2026-06-10,CUST0136,Customer 0136,Electronics,Smartphone,West,Gujarat,4,0,116417.21,15272.32,2026,6,Jun,0.1312,Profit
+ORD00790,2026-06-10,CUST0152,Customer 0152,Electronics,Laptop,East,West Bengal,3,0,153548.93,28634.22,2026,6,Jun,0.1865,Profit
+ORD00667,2026-06-11,CUST0027,Customer 0027,Electronics,Monitor,North,Haryana,3,0.05,45782.02,5262.50,2026,6,Jun,0.1149,Profit
+ORD00892,2026-06-12,CUST0155,Customer 0155,Stationery,Notebook,South,Tamil Nadu,4,0.15,657.30,14.57,2026,6,Jun,0.0222,Profit
+ORD00663,2026-06-13,CUST0174,Customer 0174,Electronics,Headphones,West,Goa,1,0.15,2921.49,-10.18,2026,6,Jun,-0.0035,Loss
+ORD00909,2026-06-13,CUST0150,Customer 0150,Electronics,Monitor,North,Uttar Pradesh,1,0.05,14732.54,1617.67,2026,6,Jun,0.1098,Profit
+ORD00205,2026-06-14,CUST0089,Customer 0089,Electronics,Headphones,West,Maharashtra,4,0.2,11936.00,1625.05,2026,6,Jun,0.1361,Profit
+ORD00569,2026-06-14,CUST0196,Customer 0196,Accessories,Backpack,North,Haryana,5,0.1,7987.12,437.55,2026,6,Jun,0.0548,Profit
+ORD00598,2026-06-15,CUST0035,Customer 0035,Electronics,Webcam,North,Delhi,3,0.05,12239.82,2667.24,2026,6,Jun,0.2179,Profit
+ORD00531,2026-06-15,CUST0074,Customer 0074,Electronics,Monitor,South,Kerala,5,0.05,73233.88,15267.49,2026,6,Jun,0.2085,Profit
+ORD00057,2026-06-15,CUST0119,Customer 0119,Electronics,Laptop,West,Maharashtra,4,0.05,219079.37,31474.66,2026,6,Jun,0.1437,Profit
+ORD00207,2026-06-16,CUST0073,Customer 0073,Electronics,Tablet,South,Karnataka,2,0.2,33929.71,-212.25,2026,6,Jun,-0.0063,Loss
+ORD00303,2026-06-16,CUST0143,Customer 0143,Electronics,Printer,West,Gujarat,3,0.15,35489.02,1423.28,2026,6,Jun,0.0401,Profit
+ORD00191,2026-06-16,CUST0069,Customer 0069,Accessories,Backpack,South,Andhra Pradesh,1,0.15,1555.08,10.12,2026,6,Jun,0.0065,Profit
+ORD00901,2026-06-17,CUST0076,Customer 0076,Furniture,Office Chair,East,Bihar,3,0.1,22386.72,4080.45,2026,6,Jun,0.1823,Profit
+ORD01052,2026-06-17,CUST0147,Customer 0147,Accessories,Backpack,South,Kerala,4,0,6971.15,1292.36,2026,6,Jun,0.1854,Profit
+ORD00442,2026-06-17,CUST0070,Customer 0070,Electronics,Printer,West,Gujarat,1,0.2,11592.03,1397.61,2026,6,Jun,0.1206,Profit
+ORD00657,2026-06-18,CUST0077,Customer 0077,Electronics,Printer,North,Delhi,2,0.2,23064.81,-1150.56,2026,6,Jun,-0.0499,Loss
+ORD00923,2026-06-19,CUST0049,Customer 0049,Accessories,Backpack,East,West Bengal,1,0.2,1366.21,198.45,2026,6,Jun,0.1453,Profit
+ORD00033,2026-06-20,CUST0081,Customer 0081,Electronics,Webcam,North,Punjab,3,0.05,12344.04,3168.19,2026,6,Jun,0.2567,Profit
+ORD00089,2026-06-20,CUST0098,Customer 0098,Furniture,Desk,East,Bihar,5,0.15,49411.90,2662.11,2026,6,Jun,0.0539,Profit
+ORD00523,2026-06-20,CUST0031,Customer 0031,Furniture,Bookshelf,South,Andhra Pradesh,2,0.1,12416.23,2741.00,2026,6,Jun,0.2208,Profit
+ORD00722,2026-06-20,CUST0118,Customer 0118,Stationery,Notebook,West,Goa,5,0.05,913.11,252.42,2026,6,Jun,0.2764,Profit
+ORD01173,2026-06-20,CUST0197,Customer 0197,Accessories,Mouse,East,Odisha,3,0.1,3167.59,171.79,2026,6,Jun,0.0542,Profit
+ORD00730,2026-06-20,CUST0116,Customer 0116,Furniture,Office Chair,West,Maharashtra,5,0,45693.16,8067.60,2026,6,Jun,0.1766,Profit
+ORD00992,2026-06-21,CUST0018,Customer 0018,Furniture,Desk,South,Karnataka,5,0,56849.53,8417.06,2026,6,Jun,0.1481,Profit
+ORD00609,2026-06-21,CUST0064,Customer 0064,Electronics,Monitor,South,Karnataka,4,0.1,55596.14,6473.64,2026,6,Jun,0.1164,Profit
+ORD00184,2026-06-21,CUST0093,Customer 0093,Electronics,Smartphone,South,Andhra Pradesh,4,0,114431.22,14165.68,2026,6,Jun,0.1238,Profit
+ORD00632,2026-06-22,CUST0165,Customer 0165,Electronics,Webcam,South,Tamil Nadu,4,0.15,16100.52,3059.42,2026,6,Jun,0.19,Profit
+ORD00084,2026-06-22,CUST0153,Customer 0153,Accessories,Keyboard,South,Kerala,3,0.05,6130.44,1352.23,2026,6,Jun,0.2206,Profit
+ORD00261,2026-06-22,CUST0082,Customer 0082,Stationery,Pen Set,East,Jharkhand,2,0.1,441.11,33.88,2026,6,Jun,0.0768,Profit
+ORD00204,2026-06-23,CUST0106,Customer 0106,Accessories,Backpack,East,West Bengal,2,0.1,3313.79,478.68,2026,6,Jun,0.1445,Profit
+ORD00911,2026-06-23,CUST0104,Customer 0104,Electronics,Printer,East,Bihar,5,0.15,60799.11,-2095.95,2026,6,Jun,-0.0345,Loss
+ORD00376,2026-06-23,CUST0064,Customer 0064,Stationery,Notebook,South,Andhra Pradesh,3,0.15,462.27,39.74,2026,6,Jun,0.086,Profit
+ORD00277,2026-06-24,CUST0065,Customer 0065,Electronics,Tablet,North,Haryana,4,0,86212.57,20587.09,2026,6,Jun,0.2388,Profit
+ORD00902,2026-06-25,CUST0157,Customer 0157,Electronics,Webcam,West,Goa,4,0.15,15652.22,-138.40,2026,6,Jun,-0.0088,Loss
+ORD00020,2026-06-25,CUST0156,Customer 0156,Furniture,Office Chair,West,Goa,2,0.1,15938.19,1517.01,2026,6,Jun,0.0952,Profit
+ORD00254,2026-06-26,CUST0033,Customer 0033,Stationery,Pen Set,West,Maharashtra,1,0.1,223.67,18.93,2026,6,Jun,0.0846,Profit
+ORD00732,2026-06-27,CUST0025,Customer 0025,Electronics,Printer,North,Punjab,4,0.05,51296.94,12487.09,2026,6,Jun,0.2434,Profit
+ORD00430,2026-06-27,CUST0077,Customer 0077,Furniture,Office Chair,South,Kerala,2,0.05,16669.54,1273.23,2026,6,Jun,0.0764,Profit
+ORD00820,2026-06-28,CUST0122,Customer 0122,Furniture,Office Chair,West,Gujarat,1,0.1,8106.01,1441.23,2026,6,Jun,0.1778,Profit
+ORD00482,2026-06-28,CUST0122,Customer 0122,Furniture,Bookshelf,South,Tamil Nadu,3,0.15,17108.43,836.24,2026,6,Jun,0.0489,Profit
+ORD00031,2026-06-28,CUST0041,Customer 0041,Electronics,Laptop,South,Kerala,1,0.2,40958.44,-2680.93,2026,6,Jun,-0.0655,Loss
+ORD00785,2026-06-29,CUST0183,Customer 0183,Furniture,Bookshelf,South,Andhra Pradesh,4,0,26282.21,7720.49,2026,6,Jun,0.2938,Profit
+ORD00593,2026-06-29,CUST0099,Customer 0099,Electronics,Monitor,West,Goa,2,0.2,24481.25,2577.28,2026,6,Jun,0.1053,Profit
+ORD01153,2026-06-30,CUST0138,Customer 0138,Electronics,Tablet,West,Gujarat,1,0.2,18205.22,332.49,2026,6,Jun,0.0183,Profit
+ORD01097,2026-06-30,CUST0179,Customer 0179,Electronics,Smartphone,East,West Bengal,5,0.05,141743.66,18026.29,2026,6,Jun,0.1272,Profit
+ORD00701,2026-06-30,CUST0060,Customer 0060,Furniture,Office Chair,East,Jharkhand,3,0.05,25774.93,4966.50,2026,6,Jun,0.1927,Profit
+ORD00625,2026-06-30,CUST0185,Customer 0185,Electronics,Smartphone,West,Gujarat,2,0,58378.30,8404.94,2026,6,Jun,0.144,Profit
